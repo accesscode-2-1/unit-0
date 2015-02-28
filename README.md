@@ -1,2 +1,3 @@
-# unit-0
-Unit 0 lessons and materials
+# Unit 0: Programming Basics
+
+Lesson plans, activities and assignments for Unit 0 will be posted here!
