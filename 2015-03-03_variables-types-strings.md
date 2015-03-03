@@ -22,7 +22,7 @@ Rules for naming variables
 * Names are case sensitive.
 * Names can be any length of Unicode letters and digits.
 * Names must begin with a letter, dollar sign "$", or underscore "_".
-* By convention, names begin with a lowercase letter.
+* By convention, names begin with a letter.
 * Whitespace is not permitted.
 
 > **Exercise**: Convince yourself that the above rules are true.
@@ -34,18 +34,18 @@ Primitive types
 All Java variables have a type. A type is a set of values and operations on those values. A "type" sounds abstract, but we use the concept every day. For example, you can think of "bananas" and "strawberries" as both of the type "fruit." When you use a type in Java, you are telling the compiler what kind of data you are using.
 
 In Java, every variable is declared along with a type. The language has 8 primitive types:
-* byte    - 8-bit integer
-* short   - 16-bit integer
-* int     - 32-bit integer
-* long    - 64-bit integer
-* float   - 32-bit floating point number
-* double  - 64-bit floating point number
-* boolean - true or false
-* char    - a single character, like 'A' or '$'
+* `byte` - 8-bit integer
+* `short` - 16-bit integer
+* `int` - 32-bit integer
+* `long` - 64-bit integer
+* `float` - 32-bit floating point number
+* `double` - 64-bit floating point number
+* `boolean` - true or false
+* `char` - a single character, like 'A' or '$'
 
 Numbers
 -
-The types `byte`, `short`, `int`, and `long` represent integers. They only vary in size. `float` and `double` represent *real numbers*. To oversimplify, this means that they can have decimals in them. For example, 2 is an integer but 2.1 is a real number.
+The types `byte`, `short`, `int`, and `long` represent integers. They vary in size. `float` and `double` represent *real numbers*. For our uses, this means that they can have decimals in them. For example, 2 is an integer but 2.1 is a real number.
 
 > Review: Numbers and Math
 > http://programmingbydoing.com/a/numbers-and-math.html
@@ -61,13 +61,14 @@ Booleans
 A *boolean* represents the values `true` and `false`. Booleans are useful when data has a "yes" or "no" answer. For example, the question "Is this a banana?" has a boolean answer. Booleans can also be created by comparing two variables. For example, "Is 7 greater than 3?" has a boolean answer. In Java, we write this:
 
     boolean answer = 7 > 3;
-    System.out.println(answer);
+
+The value of `answer` will be the boolean value `true`. Try it!
 
 The boolean comparators are:
-* <
-* <=
-* >
-* >=
+* `<`
+* `<=`
+* `>`
+* `>=`
 
 What else can you compare?
 
@@ -95,8 +96,7 @@ A *char* represents a single character. In Java, you denote a char by placing it
 
 Let's explore these ideas with a longer in-class problem:
 
-> **In-class homework**: Print "The Twelve Days of Christmas"
-> "The Twelve Days of Christmas" is an English carol with a lot of repetition! You can find the structure of the lyrics here: http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_%28song%29#Lyrics. Use variables to store bits of repeated data and print the full lyrics.
+> **In-class homework**: Print "The Twelve Days of Christmas", an English carol with a lot of repetition! You can find the structure of the lyrics here: http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_%28song%29#Lyrics. Use variables to store bits of repeated data and print the full lyrics.
 
 Food for thought
 =
