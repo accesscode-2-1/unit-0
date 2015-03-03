@@ -1,6 +1,3 @@
-Variables and Strings
-==
-
 Variables
 =
 *Variables* are names (or symbols) associated with values (or data) in a computer. Variables allow programmers to save data and reference it later. Let's look at some code:
