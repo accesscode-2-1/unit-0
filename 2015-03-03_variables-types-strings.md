@@ -69,6 +69,8 @@ The boolean comparators are:
 * `<=`
 * `>`
 * `>=`
+* `==`
+* `!=`
 
 What else can you compare?
 
