@@ -114,7 +114,7 @@ Strings in Java are always quoted with double quotes.
 
 * quoting = Surrounding text with quotes or other special markers to indicate that the text between the quotes should be interpreted specially.
 
-> **Excercise**: http://programmingbydoing.com/a/a-good-first-program.html
+> **Exercise**: http://programmingbydoing.com/a/a-good-first-program.html
 
 What if you want to print two strings on the same line?
 
@@ -132,7 +132,7 @@ Some Java string escapes:
 
 * escape = escape sequence = A sequence of characters that has a special or unusual interpretation.
 
-> **Excercise**: Why do we need these?
+> **Exercise**: Why do we need these?
 
 > **Exercise**: Find the full list of Java escapes.
 > 
