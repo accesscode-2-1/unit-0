@@ -1,7 +1,52 @@
-#Lesson 2 - User Input
+Input
+=
 
-###Pre-work
-
+Pre-work
+-
 Watch the following video before class:
-
 * [Lecture 12 - Getting user input](https://www.udemy.com/java-tutorial/#/lecture/135297)
+
+Previously, we learned how to print. Remember the syntax?
+
+    System.out.println("I am printing a line!");
+
+But just printing gets a bit boring. Today, we're going to learn how to ask the user for feedback. In programming, we call this *reading user input*. Let's talk about how.
+
+**Scanner**
+
+In Java, a simple program that reads user input looks like this:
+
+    import java.util.Scanner;
+
+    public class Echo {
+        public static void main(String[] args) {
+            Scanner input = new Scanner(System.in);
+            System.out.println("Say something:");
+            String something = input.next();
+            System.out.println(something);
+        }
+    }
+
+First, we `import` the `Scanner`, which is some code written by another developer. Then to create a new `Scanner`, we type:
+
+    Scanner input = new Scanner(System.in);
+
+Don't worry if you don't know exactly what it does. Think of it like driving a car. You don't need to know how the engine works, just how to press the pedals and turn the wheel. In programming, we call this *abstraction*. We don't care *how* the scanner works, but we know what it *does*. What can you do with a `Scanner`?
+
+**Functions**
+
+[This page](http://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html) has a list of `Scanner` *functions*. Functions, like steering wheels on cars, allow you to use someone else's code without knowing how it works. For example, we can ask the `Scanner` to ask the user for an `int` like this:
+
+    int usersAge = input.nextInt();
+
+Let's go through the first exercise together.
+
+> **Exercise:** [Asking Questions](http://programmingbydoing.com/a/asking-questions.html)
+
+Okay, try it yourself:
+
+> **Exercise:** [Forgetful Machine](http://programmingbydoing.com/a/the-forgetful-machine.html)
+> **Exercise:** [Name, Age, Salary]9http://programmingbydoing.com/a/name-age-and-salary.html)
+> - Don't just copy and paste!
+> - What happens if the user inputs the wrong type of data?
+> - What happens if you don't prompt the user for input but still run the program?
