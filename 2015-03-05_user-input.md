@@ -73,7 +73,7 @@ Now try to use the `Scanner` yourself, but first...
 
 > **Exercise:** [BMI Calculator](http://programmingbydoing.com/a/bmi-calculator.html)
 
-If
+If-then statement
 =
 Ultimately, we want to write our own calculator! But first we need to respond to user input. In Java, we can do this with the *if statement*. The `if` statement is a *control structure*. If programming is driving, then control structures are steering wheels. They allow you to control how the program will execute. Let's look at an example:
 
@@ -81,7 +81,26 @@ Ultimately, we want to write our own calculator! But first we need to respond to
         System.out.println("7 is greater than 3");
     }
 
+In the above code, we tell the program to print some text if the expression in parentheses is `true`. Remember the `boolean` type? Review the previous lecture for the operations that create booleans by comparing types.
+
 **Syntax**
 - "if" is lowercase
 - "if" is followed by parentheses
-- The value inside the parentheses has to be a `boolean`. Remember `boolean`? It is a data type with only two possible values: `true` and `false`. Review the previous lecture for the operations that create booleans by comparing types.
+- The value inside the parentheses is a `boolean` but it can be created using the boolean operators.
+
+Let's do a simple exercise together:
+> **Exercise:** [What if](http://programmingbydoing.com/a/what-if.html)
+
+Now you try. Remember to type them yourself, leave comments, and commit your work!
+> **Exercise:** [How Old Are You?](http://programmingbydoing.com/a/how-old-are-you.html)
+
+**If-then-else**
+`if` can be followed by `else`, meaning to only execute the block of code if the condition is false. Here is an example:
+
+    if (7 > 3) {
+        System.out.println("7 is greater than 3");
+    } else {
+        System.out.println("or we're in big trouble!");
+    }
+
+> **Exercise:** [Else and If](http://programmingbydoing.com/a/else-and-if.html)
