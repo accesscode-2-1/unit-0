@@ -2,7 +2,7 @@
 
 Lesson plans, activities and assignments for Unit 0 will be posted here!
 
-### Lesson plans
+### Lesson plans hahahaa
 
 |  Date | Lesson |
 |---|---|
