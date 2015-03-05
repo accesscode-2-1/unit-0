@@ -36,7 +36,7 @@ Don't worry if you don't know exactly what this does. Think of this like driving
 
 **Functions**
 
-The `Scanner` gives you the programmer some magical powers called *functions*. A function, like a steering wheel on a cars, allows you to interact with the `Scanner`. For example, we can ask the `Scanner` to ask the user for an `int` like this:
+The `Scanner` gives you the programmer some magical powers called *functions*. A function, like the gas and break pedals on a car, allows you to interact with the `Scanner`. For example, we can ask the `Scanner` to ask the user for an `int` like this:
 
     int usersAge = input.nextInt();
 
@@ -67,6 +67,21 @@ Now try to use the `Scanner` yourself, but first...
 > **Exercise:** [Name, Age, Salary](http://programmingbydoing.com/a/name-age-and-salary.html)
 > - What happens if the user inputs the wrong type of data?
 > - What happens if you don't prompt the user for input but still run the program?
+
 > **Exercise:** [A Dumb Calculator](http://programmingbydoing.com/a/a-dumb-calculator.html)
 > - Printing the result here can be tricky!
+
 > **Exercise:** [BMI Calculator](http://programmingbydoing.com/a/bmi-calculator.html)
+
+If
+=
+Ultimately, we want to write our own calculator! But first we need to respond to user input. In Java, we can do this with the *if statement*. The `if` statement is a *control structure*. If programming is driving, then control structures are steering wheels. They allow you to control how the program will execute. Let's look at an example:
+
+    if (7 > 3) {
+        System.out.println("7 is greater than 3");
+    }
+
+**Syntax**
+- "if" is lowercase
+- "if" is followed by parentheses
+- The value inside the parentheses has to be a `boolean`. Remember `boolean`? It is a data type with only two possible values: `true` and `false`. Review the previous lecture for the operations that create booleans by comparing types.
