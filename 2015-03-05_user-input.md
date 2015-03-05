@@ -46,11 +46,24 @@ Let's go through the first exercise together.
 
 > **Exercise:** [Asking Questions](http://programmingbydoing.com/a/asking-questions.html)
 
-Okay, try it yourself:
+Okay, try it yourself, but first...
+
+**Ground Rules for Exercises**
+
+- Don't just copy and paste! Programming, like playing an instrument or speaking another language, requires muscle memory. It is important that you get used to *typing* Java for yourself. Also, you will notice things you would not otherwise if you are forced to type them.
+- At the top of every exercise, write a *document comment*. A document comment is description of the program for another user (or your future self). Get used to documenting your work! Here is an example document comment for the previous exercise:
+
+    /**
+     * Access Code 2.1
+     * Gregory Gundersen
+     * AskingQuestions.java
+     * This class prompts the user for some personal data and then repeats it back to them.
+     */
+
+- After every exercise, commit your work to GitHub!
 
 > **Exercise:** [Forgetful Machine](http://programmingbydoing.com/a/the-forgetful-machine.html)
 
 > **Exercise:** [Name, Age, Salary](http://programmingbydoing.com/a/name-age-and-salary.html)
-> - Don't just copy and paste!
 > - What happens if the user inputs the wrong type of data?
 > - What happens if you don't prompt the user for input but still run the program?
