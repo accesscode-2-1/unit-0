@@ -1,10 +1,11 @@
-Input
-=
-
 Pre-work
 -
 Watch the following video before class:
 * [Lecture 12 - Getting user input](https://www.udemy.com/java-tutorial/#/lecture/135297)
+
+
+Input
+=
 
 Previously, we learned how to print. Remember the syntax?
 
@@ -31,13 +32,15 @@ First, we `import` the `Scanner`, which is some code written by another develope
 
     Scanner input = new Scanner(System.in);
 
-Don't worry if you don't know exactly what it does. Think of it like driving a car. You don't need to know how the engine works, just how to press the pedals and turn the wheel. In programming, we call this *abstraction*. We don't care *how* the scanner works, but we know what it *does*. What can you do with a `Scanner`?
+Don't worry if you don't know exactly what this does. Think of it like driving a car. You don't need to know how the engine works, just how to press the pedals and turn the wheel. In programming, we call this *abstraction*. We don't care *how* the `Scanner` works, but we know what it *does*. What can you do with a `Scanner`?
 
 **Functions**
 
-[This page](http://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html) has a list of `Scanner` *functions*. Functions, like steering wheels on cars, allow you to use someone else's code without knowing how it works. For example, we can ask the `Scanner` to ask the user for an `int` like this:
+The `Scanner` gives you, the programmer, some magical powers called *functions*. Functions, like steering wheels on cars, allow you to use someone else's code without knowing how it works. For example, we can ask the `Scanner` to ask the user for an `int` like this:
 
     int usersAge = input.nextInt();
+
+[This page](http://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html) has a full list of `Scanner` functions. 
 
 Let's go through the first exercise together.
 
@@ -46,6 +49,7 @@ Let's go through the first exercise together.
 Okay, try it yourself:
 
 > **Exercise:** [Forgetful Machine](http://programmingbydoing.com/a/the-forgetful-machine.html)
+
 > **Exercise:** [Name, Age, Salary]9http://programmingbydoing.com/a/name-age-and-salary.html)
 > - Don't just copy and paste!
 > - What happens if the user inputs the wrong type of data?
