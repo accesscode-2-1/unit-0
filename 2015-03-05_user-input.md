@@ -50,7 +50,7 @@ Okay, try it yourself:
 
 > **Exercise:** [Forgetful Machine](http://programmingbydoing.com/a/the-forgetful-machine.html)
 
-> **Exercise:** [Name, Age, Salary]9http://programmingbydoing.com/a/name-age-and-salary.html)
+> **Exercise:** [Name, Age, Salary](http://programmingbydoing.com/a/name-age-and-salary.html)
 > - Don't just copy and paste!
 > - What happens if the user inputs the wrong type of data?
 > - What happens if you don't prompt the user for input but still run the program?
