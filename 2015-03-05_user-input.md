@@ -67,3 +67,6 @@ Now try to use the `Scanner` yourself, but first...
 > **Exercise:** [Name, Age, Salary](http://programmingbydoing.com/a/name-age-and-salary.html)
 > - What happens if the user inputs the wrong type of data?
 > - What happens if you don't prompt the user for input but still run the program?
+> **Exercise:** [A Dumb Calculator](http://programmingbydoing.com/a/a-dumb-calculator.html)
+> - Printing the result here can be tricky!
+> **Exercise:** [BMI Calculator](http://programmingbydoing.com/a/bmi-calculator.html)
