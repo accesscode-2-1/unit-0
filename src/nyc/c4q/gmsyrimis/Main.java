@@ -1,8 +1,15 @@
 package nyc.c4q.gmsyrimis;
 
 public class Main {
+        public static void main(String[] args) {
 
-    public static void main(String[] args) {
-        System.out.print((-4 * 2) + 30 +"\u00b0" + "F");
+            int[] anArrayOfints = new int[100];
+            for(int i = 0;i< anArrayOfints.length; i++){
+                anArrayOfints[i] = i*3;
+            }
+
+            for(int i = 0;i< anArrayOfints.length; i++) {
+                System.out.println(anArrayOfints[i]);
+            }
+        }
     }
-}
