@@ -94,8 +94,10 @@ Let's do a simple exercise together:
 Now you try. Remember to type them yourself, leave comments, and commit your work!
 > **Exercise:** [How Old Are You?](http://programmingbydoing.com/a/how-old-are-you.html)
 
-**If-then-else**
-`if` can be followed by `else`, meaning to only execute the block of code if the condition is false. Here is an example:
+If-then-else
+=
+
+`if` can be followed by `else`, indicating that the block of code inside the `else` only execute if the original condition is false. Here is an example:
 
     if (7 > 3) {
         System.out.println("7 is greater than 3");
@@ -104,3 +106,17 @@ Now you try. Remember to type them yourself, leave comments, and commit your wor
     }
 
 > **Exercise:** [Else and If](http://programmingbydoing.com/a/else-and-if.html)
+
+> **Exercise:** [A little quiz](http://programmingbydoing.com/a/a-little-quiz.html)
+- Come up with your own questions and answers
+- How can you keep track of the number of correct and incorrect answers?
+
+> **In-class homework:** Write a [Reverse Polish notation calculator](http://en.wikipedia.org/wiki/Reverse_Polish_notation)! Reverse Polish notation is a mathematical notation where the operator comes after the two operands, like this `2 3 +`, which evaluates to `5`. Your task is to write a class `RPNCalculator` that prompts the user for two numbers and a mathmetical operator and then returns the correct result. Here is an example:
+
+"Please enter your first number"
+3
+"Please enter your second number"
+7
+"Please enter an operator"
+-
+10
