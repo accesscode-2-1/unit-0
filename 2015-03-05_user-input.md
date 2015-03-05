@@ -1,5 +1,5 @@
 Pre-work
--
+=
 Watch the following video before class:
 * [Lecture 12 - Getting user input](https://www.udemy.com/java-tutorial/#/lecture/135297)
 
@@ -28,15 +28,15 @@ In Java, a simple program that reads user input looks like this:
         }
     }
 
-First, we `import` the `Scanner`, which is some code written by another developer. Then to create a new `Scanner`, we type:
+First, we *import the `Scanner`*, meaning we tell the Java compiler to include some code written by another developer. Then to create a new `Scanner`, we type:
 
     Scanner input = new Scanner(System.in);
 
-Don't worry if you don't know exactly what this does. Think of it like driving a car. You don't need to know how the engine works, just how to press the pedals and turn the wheel. In programming, we call this *abstraction*. We don't care *how* the `Scanner` works, but we know what it *does*. What can you do with a `Scanner`?
+Don't worry if you don't know exactly what this does. Think of this like driving: you don't need to know how a car engine works in order to drive a car. In programming, we call this *abstraction*. We don't care *how* the `Scanner` works, but we know what it *does*. What can you do with a `Scanner`?
 
 **Functions**
 
-The `Scanner` gives you, the programmer, some magical powers called *functions*. Functions, like steering wheels on cars, allow you to use someone else's code without knowing how it works. For example, we can ask the `Scanner` to ask the user for an `int` like this:
+The `Scanner` gives you the programmer some magical powers called *functions*. A function, like a steering wheel on a cars, allows you to interact with the `Scanner`. For example, we can ask the `Scanner` to ask the user for an `int` like this:
 
     int usersAge = input.nextInt();
 
@@ -46,7 +46,7 @@ Let's go through the first exercise together.
 
 > **Exercise:** [Asking Questions](http://programmingbydoing.com/a/asking-questions.html)
 
-Okay, try it yourself, but first...
+Now try to use the `Scanner` yourself, but first...
 
 **Ground Rules for Exercises**
 
