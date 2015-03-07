@@ -65,7 +65,17 @@ Sample output:
 
 **Reverse Polish Notation Calcultator**
 
-Write a [Reverse Polish notation calculator](http://en.wikipedia.org/wiki/Reverse_Polish_notation)! Reverse Polish notation is a mathematical notation where the operator comes after the two operands, like this `2 3 +`, which evaluates to `5`. Your task is to write a class `RPNCalculator` that prompts the user for two numbers and a mathmetical operator and then returns the correct result. Here is an example:
+Write a [Reverse Polish notation calculator](http://en.wikipedia.org/wiki/Reverse_Polish_notation)! Reverse Polish notation is a mathematical notation where the operator comes after the two operands, like this `2 3 +`, which evaluates to `5`. Your task is to write a class `RPNCalculator` that prompts the user for two numbers and a mathmetical operator and then returns the correct result. 
+
+Your calculator should support the following operations:
+
+* a + b
+* a - b
+* a / b
+* a * b
+* a % b
+
+Here is an example:
 
     "Please enter your first number"
     3
