@@ -109,10 +109,10 @@ Your calculator only needs to handle 3 user inputs: 2 `int`s and 1 operator. You
 
 * Write your own sassy personal assistant
       * Q: What's left to do today?
-      *A: Don't you ever write that stuff down?
+      * A: Don't you ever write that stuff down?
 
 * Write a command line fortune teller that responds to your questions
 
-**OUR FIRST GAME**
+###OUR FIRST GAME
 
 [Make your own command line adventure game!](https://gist.github.com/noidontdig/92a4ead9fe8f2f21f178)
