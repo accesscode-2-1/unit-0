@@ -10,3 +10,7 @@
 >A week ago Access Code students were lucky to meet *Paola Maldonado*, Access Code graduate, and *Kevin Galligan*, the CEO of Touch Lab — great people who proved to me one more time that passion and drive along with perseverance and hard work are guarantees to success. They had a different life story and experience, different obstacles to overcome, but they had one very important thing in common — **love towards programming** — that helped them get to the top of their career ladder.
 
 >Such people deserve to be admired and serve as a source of inspiration for others. When I decided to change my career life I felt I was doing the right thing, now I **KNOW** it and **JUST DO IT**!
+
+
+link to see how Markdown works
+http://daringfireball.net/projects/markdown/dingus
