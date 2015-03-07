@@ -22,28 +22,9 @@
 
 ###Exercises
 
-- Work on all the exercises you didn't finish last class. Try to finish as many as you can!
+- Try to finish as many as you can!
 - After every exercise, commit your work to GitHub!
 
-**User Input** 
-
-> [A Dumb Calculator](http://programmingbydoing.com/a/a-dumb-calculator.html)
-> - Printing the result here can be tricky!
-
-> [BMI Calculator](http://programmingbydoing.com/a/bmi-calculator.html)
-
-> [What if](http://programmingbydoing.com/a/what-if.html)
-
-> [How Old Are You?](http://programmingbydoing.com/a/how-old-are-you.html)
-
-
-**If**
-
-> [Else and If](http://programmingbydoing.com/a/else-and-if.html)
-
-> [A little quiz](http://programmingbydoing.com/a/a-little-quiz.html)
-- Come up with your own questions and answers
-- How can you keep track of the number of correct and incorrect answers?
 
 **Madlibs**
 
@@ -101,18 +82,29 @@ Your calculator only needs to handle 3 user inputs: 2 `int`s and 1 operator. You
 
 * Write a program that responds to different greetings
 
-* Write a program that translates user input into pig latin (would need to learn basic string manipulation)
-
-* What questions did you always want to ask a computer? Write a program that responds to your burning questions and tells you everything about what it's REALLY like being a computer.
-
-* Write your own command line version of Siri
-
-* Write your own sassy personal assistant
-      * Q: What's left to do today?
-      * A: Don't you ever write that stuff down?
-
 * Write a command line fortune teller that responds to your questions
 
 ###OUR FIRST GAME
 
 [Make your own command line adventure game!](https://gist.github.com/noidontdig/92a4ead9fe8f2f21f178)
+
+###More exercises
+
+**User Input** 
+
+> [A Dumb Calculator](http://programmingbydoing.com/a/a-dumb-calculator.html)
+> - Printing the result here can be tricky!
+
+> [BMI Calculator](http://programmingbydoing.com/a/bmi-calculator.html)
+
+> [What if](http://programmingbydoing.com/a/what-if.html)
+
+> [How Old Are You?](http://programmingbydoing.com/a/how-old-are-you.html)
+
+**If**
+
+> [Else and If](http://programmingbydoing.com/a/else-and-if.html)
+
+> [A little quiz](http://programmingbydoing.com/a/a-little-quiz.html)
+- Come up with your own questions and answers
+- How can you keep track of the number of correct and incorrect answers?
