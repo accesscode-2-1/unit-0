@@ -96,3 +96,23 @@ A second example:
     "Result: 24"
 
 Your calculator only needs to handle 3 user inputs: 2 `int`s and 1 operator. You may test an RPN calculator [here](http://www.abecedarical.com/javascript/script_reverse_polish.html).
+
+**More fun with user input + if statements**
+
+* Write a program that responds to different greetings
+
+* Write a program that translates user input into pig latin (would need to learn basic string manipulation)
+
+* What questions did you always want to ask a computer? Write a program that responds to your burning questions and tells you everything about what it's REALLY like being a computer.
+
+* Write your own command line version of Siri
+
+* Write your own sassy personal assistant
+      * Q: What's left to do today?
+      *A: Don't you ever write that stuff down?
+
+* Write a command line fortune teller that responds to your questions
+
+**OUR FIRST GAME**
+
+[Make your own command line adventure game!](https://gist.github.com/noidontdig/92a4ead9fe8f2f21f178)
