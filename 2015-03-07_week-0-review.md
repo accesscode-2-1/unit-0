@@ -88,6 +88,8 @@ Your calculator only needs to handle 3 user inputs: 2 `int`s and 1 operator. You
 
 [Make your own command line adventure game!](https://gist.github.com/noidontdig/92a4ead9fe8f2f21f178)
 
+===============
+
 ###More exercises
 
 **User Input** 
