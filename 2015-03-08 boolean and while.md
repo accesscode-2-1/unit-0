@@ -127,7 +127,9 @@ if (age > 12 && age < 20)
     System.out.println("you are a teenager");
 ```
 
-> **Exercise:** Write code that reads the month and day of the month and reports if the day is New Years Day (January 1), Cinco de Mayo (May 5), the Fourth of July (July 4), or Christmas (December 25).
+> **Exercise:** Write code that asks for the month and day of the month and reports if the day is New Years Day (January 1), Cinco de Mayo (May 5), the Fourth of July (July 4), or Christmas (December 25).
+>
+> **Exercise:** [harder] Write a program that asks for the month and the day of the month, and reports whether Daylight Savings Time is in effect for that day.  Assume the year is 2015: the first day of DST is March 8 and the last is October 31. (Technically, it starts 2 AM on March 8 and ends at 2 AM on November 1.)  Use a single conditional expression.
 
 Now we can guess the fruit from color and flavor.
 
