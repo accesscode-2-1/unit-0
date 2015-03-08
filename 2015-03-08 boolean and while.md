@@ -289,7 +289,7 @@ What are the first and last numbers this loop will print?
 
 > **Exercise:** Change your program so that it doesn't use `break`.  Instead use a boolean variable that is false until the player guesses the number correctly.
 
-> **Exercise:** [harder] Change the program to pick a random number between 1 and 1000.  Play it a few times.  What's the optimal strategy to guess the random number as quickly as possible?
+> **Exercise:** [harder] Change the program to pick a random number between 1 and 1000.  Play it a few times.  What's the best strategy to guess the random number as quickly as possible?
 
 > **Exercise:** http://programmingbydoing.com/a/adding-values-in-a-loop.html
 
