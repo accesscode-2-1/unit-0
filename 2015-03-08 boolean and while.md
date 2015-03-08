@@ -68,7 +68,11 @@ System.out.println(result);
 
 Remember that you can put multiple statements in an `if`, `else if`, or `else` condition by surrounding them with curly braces.
 
-* _code block_ -- Zero or more statements grouped with curly braces.
+* _statement_ -- one instruction to Java, which ends with a semicolon
+
+* _code block_ -- zero or more statements grouped with curly braces
+
+If a code block contains exactly one statement, the curly braces may be omitted.
 
 ```java
 String fruit = scanner.next();
@@ -94,6 +98,16 @@ System.out.println("a " + fruit + " is " + color + " and tastes " + flavor);
 
 > **Exercise:** The code above doesn't work.  Why not?  Fix it!
 
+Hint: The Java compiler lets you declare a variable without providing its initial value, but it tracks carefully that you don't _use_ the variable until it has a value.
+
+Remember also that we can have `boolean` variables, that store the result of a boolean expression: either `true` or `false`. (Because of this, we often name boolean variables to start with `is`.)  So, we could write,
+
+```java
+boolean isBanana = fruit.equals("banana");
+if (isBanana) 
+    ...
+```
+
 > **Exercise:** Space boxing: http://programmingbydoing.com/a/space-boxing.html
 
 
@@ -114,6 +128,24 @@ if (age > 12 && age < 20)
 ```
 
 > **Exercise:** Write code that reads the month and day of the month and reports if the day is New Years Day (January 1), Cinco de Mayo (May 5), the Fourth of July (July 4), or Christmas (December 25).
+
+Now we can guess the fruit from color and flavor.
+
+```java
+System.out.print("flavor? ");
+String flavor = scanner.next();
+System.out.print("color? ");
+String color = scanner.next();
+
+if (color.equals("yellow") && flavor.equals("sweet"))
+    System.out.println("banana");
+else if (color.equals("pink") && flavor.equals("bitter"))
+    System.out.println("grapefruit");
+else if (color.equals("yellow") && flavor.equals("sour"))
+    System.out.println("lemon");
+else 
+    System.out.println("I don't know that fruit.");
+```
 
 Let's print out the _truth table_ for `&&`.
 
@@ -140,15 +172,16 @@ else {
 System.out.println(result);
 ```
 
+
 > **Exercise:** Print out the truth table for `||`.
 
-> **Exercise:** Write code that takes the day of the week and figures out if it is a weekday or weekend.
+> **Exercise:** Write code that takes the day of the week and figures out if it is a weekday or weekend.  
 
-There's one more like this: _exclusive or_, which we write `^`.  It is true if either, but not both, of the two operans is true.
+There's one more like this: _exclusive or_, which we write `^`.  It is true if either, but not both, of the two operans is true.  It's not used as often as the others.
 
 > **Exercise:** Print out the truth table for `^`.
 
-Finally, there is _not_, which works on a single boolean value and simply flips it.
+Finally, there is _not_, which works on a single boolean value and simply flips it from true to false or from false to true.
 
 ```java
 if  (! fruit.equals("lemon")) 
@@ -173,5 +206,90 @@ By the way, you can use `x != y` as a shortcut for `! (x == y)`.
 > What cases does this leave out?
 
 
+While loops
+==
 
+* _loop_ - code that is run over and over again
+
+Java's simplest loop construct is the `while` statement.  It looks like this:
+
+```java
+while (condition) {
+  // do something over and over
+}
+```
+
+As with an `if` statement, the `condition` is a boolean expression.  The code that runs over and over again is the _body_ of the loop.  Before the first and every subsequent iteration, Java evaluates the condition; if it comes out false, the loop ends and Java continues with the following code.  Note that if the condition initially evaluates false, the loop body is never evaluated.
+
+As with `if`, you can leave out the curly braces if the body contains a single statement.
+
+> **Exercise:** Write a program that tracks how many M&Ms you have left, as you eat them.  It should look like this:
+> 
+> ```
+> 100 M&Ms left
+> eat how many? 20
+> 80 M&Ms left
+> eat how many? 60
+> 20 M&Ms left
+> eat how many? 18
+> 2 M&Ms left
+> eat how many? 2
+> you ate all the M&Ms
+> ```
+
+> **Exercise:** [harder] Make sure you can't eat more M&Ms than you have left.
+
+Using a while loop, we can count.
+
+```java
+int count = 0;
+while (count < 10) {
+    System.out.println(count);
+    count = count + 1;
+}
+```
+
+What happens if we switch the order of the two statements in the loop body?
+
+> **Exercise:** Change this to count _down_ from 10.  The last number should be 1.
+> 
+> **Exercise:** [harder] Change this to count down from 100 to 10 by 5, and then from 9 to 1.  The numbers it prints should be 100, 95, 90, ..., 20, 15, 10, 9, 8, ..., 2, 1.  At the end, print "blastoff".
+
+A statement like `count = count - 5` is so common that Java gives us a shorter form: `count -= 5`.   Likewise for `+=`, `*=`, _etc_.
+
+
+#### break
+
+Java provides a special word that you can use only inside a loop: `break` says, Stop this loop right now!  So, we could count like this instead.
+
+```java
+int count = 0;
+while (true) {
+    System.out.println(count);
+    count += 1;
+    if (count > 10)
+        break;
+}
+```
+
+Generally, `while (true)` will cause the loop to run forever!  But we "break out" of it using the `break` statement.  
+
+What are the first and last numbers this loop will print?
+
+> **Exercise:** http://programmingbydoing.com/a/keep-guessing.html
+> 
+> Use `break` to end the game when the player guesses correctly.
+> 
+> For this program to be fun, you'll have to generate a random number between 1 and 10 (inclusive).  Here's how to do it:
+> 
+> ```java
+> Random random = new Random();
+> int number = random.nextInt(10) + 1;
+> ```
+
+> **Exercise:** Change your program so that it doesn't use `break`.  Instead use a boolean variable that is false until the player guesses the number correctly.
+
+> **Exercise:** [harder] Change the program to pick a random number between 1 and 1000.  Play it a few times.  What's the optimal strategy to guess the random number as quickly as possible?
+
+> **Exercise:** http://programmingbydoing.com/a/adding-values-in-a-loop.html
 
