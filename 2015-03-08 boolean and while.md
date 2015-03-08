@@ -3,7 +3,7 @@ Objective
 
 1. To understand how to chain conditionals using `else if`.
 2. To know all the ways to combine boolean expressions.
-4. To understand how to repeat statements in loops using `while`.
+4. To understand how to repeat statements in loops using `while`, using conditions and `break`.
 
 
 Complex conditionals
