@@ -11,6 +11,7 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
  2 | Mar 5 | | [Input & If](2015-03-05_input-if.md) 
  3 | Mar 7 | | [Week 0 Review](2015-03-07_week-0-review.md) 
  4 | Mar 8 | 1 | [Boolan expressions; while loops](2015-03-08 boolean and while.md)
+ 5 | Mar 10 | | Continue & For loops
 
 ### Homework
 
