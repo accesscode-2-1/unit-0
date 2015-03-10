@@ -65,6 +65,10 @@ for (int i = 3; i < 30; i--) {
 
 The hardest part about `for` loops is properly stopping the loop. Programmers often make mistakes when setting the termination condition for a loop. In particular, we are often off-by-one. This kind of bug it so common, it has its own [Wikipedia page](http://en.wikipedia.org/wiki/Off-by-one_error).
 
+> **Exercise:** [Counting Machine](http://programmingbydoing.com/a/counting-machine.html): Write a program that counts from 0 to a user-specified number.
+
+> **Exercise:** [harder] [Counting Machine Revisited](http://programmingbydoing.com/a/counting-machine-revisited.html): Now let the user input the initial value, the max value, and the increment.
+
 **Exercise:** "FizzBuzz" is a very famous program, up there with "Hello World!". Write [FizzBuzz](http://programmingbydoing.com/a/fizzbuzz.html) using a `for` loop.
 
 `break` and `continue`
@@ -90,10 +94,6 @@ for (int i = 1; i <= 20; i++) {
 Is `continue` syntactic sugar? What could you do with the above code if Java didn't provide the `continue` statement?
 
 > **Exercise:** Simplify your code for FizzBuzz using `continue`.
-
-> **Exercise:** [Counting Machine](http://programmingbydoing.com/a/counting-machine.html): Write a program that counts from 0 to a user-specified number.
-
-> **Exercise:** [harder] [Counting Machine Revisited](http://programmingbydoing.com/a/counting-machine-revisited.html): Now let the user input the initial value, the max value, and the increment.
 
 Just counting can be a little boring. One fun thing to count over are `String`s. We can get the length of a `String` using the function `String.length()`. For example:
 
