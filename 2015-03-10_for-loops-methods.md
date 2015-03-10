@@ -66,6 +66,7 @@ for (int i = 3; i < 30; i--) {
 The hardest part about `for` loops is properly stopping the loop. Programmers often make mistakes when setting the termination condition for a loop. In particular, we are often off-by-one. This kind of bug it so common, it has its own [Wikipedia page](http://en.wikipedia.org/wiki/Off-by-one_error).
 
 `break` and `continue`
+=
 
 Remember `break`?
 
