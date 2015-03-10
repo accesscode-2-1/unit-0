@@ -124,15 +124,15 @@ Methods
 Methods are blocks of code that perform a computation. Methods can take in data, process it, and *return* a result. Methods have names and are used by specifying their name followed by parentheses. Here is an example:
 
 ```java
-1. public class Adder {
-2.    public static void main(String[] args) {
-3.        int sum = add(1,2);
-4.        System.out.println(sum);
-5.    }
-6.    public static int add(int x, int y) {
-7.        return x + y;
-8.    }
-9. }
+public class Adder {
+    public static void main(String[] args) {
+        int sum = add(1,2);
+        System.out.println(sum);
+    }
+    public static int add(int x, int y) {
+        return x + y;
+    }
+}
 ```
 
 In the above code, we've created a function called `add()`. `add` takes in data, called "parameters", adds them together, and uses the keyword `return` to return the result. Notice we can assign the return value to an `int sum`. The components of a method declaration are:
