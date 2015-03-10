@@ -127,7 +127,7 @@ Methods are blocks of code that perform a computation. Methods can take in data,
 public class Adder {
     public static void main(String[] args) {
         int sum = add(1,2);
-        System.out.println(sum);
+        System.out.println(sum); // 3
     }
     public static int add(int x, int y) {
         return x + y;
