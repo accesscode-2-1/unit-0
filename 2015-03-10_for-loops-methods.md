@@ -69,22 +69,41 @@ The hardest part about `for` loops is properly stopping the loop. Programmers of
 
 > *Definition:* An ["off-by-one error"](http://en.wikipedia.org/wiki/Off-by-one_error)
 
+break and continue
+
+Remember `break`?
+
+> *Definition:* `break` terminates the loop.
+
+Java also has another useful keyword, `continue`:
+
+> *Definition:* `continue` jumps to the next iteration of the loop.
+
+`continue` can be useful skip over some unnecessary computation.
+
+```java
+for (int i = 0; i < 100; i++) {
+    if (i % 2 == 0) continue;
+    System.out.println(i);
+}
+```
+
+Is `continue` syntactic sugar? What could you do with the above code if Java didn't provide the `continue` statement?
+
 > **Exercise:** [Counting Machine](http://programmingbydoing.com/a/counting-machine.html): Write a program that counts from 0 to a user-specified number.
 
-> **Exercise:** [harder][Counting Machine Revisited](http://programmingbydoing.com/a/counting-machine-revisited.html): Now let the user input the initial value, the max value, and the increment.
+> **Exercise:** [harder] [Counting Machine Revisited](http://programmingbydoing.com/a/counting-machine-revisited.html): Now let the user input the initial value, the max value, and the increment.
 
 Just counting can be a little boring. One fun thing to count over are `String`s. We can get the length of a `String` using the function `String.length()`. For example:
 
 ```java
-System.out.println("Queens!".length());
-// 7
+System.out.println("Queens!".length()); // 7
 ```
 
 The function `String.charAt()` returns the `char` at the index provided. For example:
 
 ```java
-System.out.println("Queens!".charAt(3));
-// e
+System.out.println("Queens!".charAt(3)); // e
 ```
 
 > **In-class assignment:** Here is a quote from [Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper), the inventor of the first compiler:
