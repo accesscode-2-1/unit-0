@@ -122,7 +122,7 @@ System.out.println("Queens!".charAt(3)); // e
 Methods
 =
 
-Methods are blocks of code that perform a computation. Methods can take in data, process it, and *return* a result. Methods have names and are used by specifying their name followed by parentheses. Here is an example:
+Methods are blocks of code that perform a computation. Methods can take in data, process it, and return a result. Methods have names and are used by specifying their name followed by parentheses. Here is an example:
 
 ```java
 public class Adder {
@@ -143,7 +143,7 @@ In the above code, we've created a function called `add()`. `add` takes in data,
 3. The method name, in this case `add`.
 4. Parameters, a comma-separated list in parentheses. Notice each parameter has a type.
 5. An exception list. Do not worry about this for now.
-6. The method body. Just like a `while`, `if`, or `for` statement body, the method body is in brackets.
+6. The method body. Just like a `while`, `if`, or `for` statement body, the method body is in curly braces.
 
 > **Exercise:** Write a method `subtract` that takes two parameters two `int x` and `int y` returns the difference, subtracting y from x.
 
@@ -152,8 +152,8 @@ Why do we use methods? This is not an exhaustive list:
 - To reuse code.
 - To simplify code. 
 
-To reuse code
--
+####To reuse code
+
 ```java
 public class Area {
     public static void main(String[] args) {
@@ -166,8 +166,8 @@ public class Area {
 }
 ```
 
-To parameterize code
--
+####To parameterize code
+
 ```java
 public class Area {
     public static void main(String[] args) {
@@ -180,8 +180,8 @@ public class Area {
 }
 ```
 
-To simplify code
--
+####To simplify code
+
 ```java
 public class Area {
     public static void main(String[] args) {
