@@ -17,11 +17,11 @@ while (condition) {
 }
 ```
 
-> *Definition:* A `while statement` repeatedly executes a block of code while a given condition is `true`.
+> *Definition:* A `while` statement repeatedly executes a block of code while a given condition is `true`.
 
-`for` statement
+for statement
 =
-A `for` statement is a loop construct that looks like this...
+A `for` statement is a loop that looks like this...
  
 ```java
 for (initialization; termination; increment) {
@@ -30,25 +30,32 @@ for (initialization; termination; increment) {
 ```
 
 ...where:
+
 1. The *initialization* is executed once, beginning the loop.
+
 2. When the *termination* expression is `false`, the loop terminates; this is analogous to the condition in a `while` statement.
-3, The *increment* expression is executed after each iteration; this can also decrement.
 
-As with `if` and `while`, you can the body of the loop contains a single statement.
+3. The *increment* expression is executed after each iteration; this can also decrement.
 
-> **Demo: `for` loop that prints 0-4 inclusive. **
+As with `if` and `while`, the body of the loop contains a single statement.
 
-> **Exercise:** Rewrite the following `for loop` as a `while` loop:
+> **Demo:** `for` loop that prints 0-4 inclusive.
 
-```java
-for (int x = 0; x < 100; x++) {
-   // executed until x >= 100
-}
-```
+> **Exercise:** Rewrite the following `while` loop as a `for` loop:
+> ```java
+> int i = 0;
+> while (i <= 100) {
+>     i++;
+>     // executed until x >= 100
+> }
+> ```
 
 `while` and `for` loops can both express the exact same computation.
 
 > *Definition:* *[syntactic sugar](http://en.wikipedia.org/wiki/Syntactic_sugar)* is a syntax designed to make the code easier to read.
+
+Common errors
+-
 
 What is wrong with this `for` loop?
 
@@ -81,6 +88,7 @@ System.out.println("Queens!".charAt(3));
 ```
 
 > **In-class assignment:** Here is a quote from [Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper), the inventor of the first compiler:
+
 > "We must include in any language with which we hope to describe complex **data**-processing situations the capability for describing **data**. We must also include a mechanism for determining the priorities to be applied to the **data**. These priorities are not fixed and are indicated in many cases by the **data**.
 > "Thus we must have a language and a structure that will take care of the **data** descriptions and priorities, as well as the operations we wish to perform. If we think seriously about these problems, we find that we cannot work with procedures alone, since they are sequential. We need to define the problem instead of the procedures. The Language Structures Group of the Codasyl Committee has been studying the structure of languages that can be used to describe **data**-processing problems. The Group started out by trying to design a language for stating procedures, but soon discovered that what was really required was a description of the **data** and a statement of the relationships between the **data** sets. The Group has since begun writing an algebra of processes, the background for a theory of **data** processing.
 > "Clearly, we must break away from the sequential and not limit the computers. We must state definitions and provide for priorities and descriptions of **data**. We must state relationships, not procedures."
