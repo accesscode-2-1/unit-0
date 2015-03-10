@@ -3,6 +3,7 @@ Objectives
 
 1. To be able to properly initialize, terminate, and increment a `for` statement.
 2. To be able to use `continue` and `break`.
+3. To understand one reason why we use methods.
 
 Review of the `while` statement
 =
@@ -145,3 +146,55 @@ In the above code, we've created a function called `add()`. `add` takes in data,
 6. The method body. Just like a `while`, `if`, or `for` statement body, the method body is in brackets.
 
 > **Exercise:** Write a method `subtract` that takes two parameters two `int x` and `int y` returns the difference, subtracting y from x.
+
+Why do we use methods? This is not an exhaustive list:
+- To parameterize code.
+- To reuse code.
+- To simplify code. 
+
+To reuse code
+-
+```java
+public class Area {
+    public static void main(String[] args) {
+        double area  = square();
+        double area2 = square();
+    }
+    public static double square() {
+        return 10*10;
+    }
+}
+```
+
+To parameterize code
+-
+```java
+public class Area {
+    public static void main(String[] args) {
+        double area  = circleArea(4);
+        double area2 = circleArea(7);
+    }
+    public static double circleArea(int r) {
+        return Math.PI * r * r;
+    }
+}
+```
+
+To simplify code
+-
+```java
+public class Area {
+    public static void main(String[] args) {
+        double area  = circleArea(4);
+        double area2 = circleArea(7);
+    }
+    public static double circleArea(int r) {
+        return Math.PI * square(r);
+    }
+    public static double square(int r) {
+        return r * r;
+    }
+}
+```
+
+> **Take-home exercise:** Can you simplify your *Twelve Days of Christmas* program using methods?
