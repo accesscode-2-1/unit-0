@@ -157,10 +157,10 @@ To reuse code
 ```java
 public class Area {
     public static void main(String[] args) {
-        double area  = square();
-        double area2 = square();
+        int area  = square();
+        int area2 = square();
     }
-    public static double square() {
+    public static int square() {
         return 10*10;
     }
 }
