@@ -95,7 +95,10 @@ Is `continue` syntactic sugar? What could you do with the above code if Java did
 
 > **Exercise:** Simplify your code for FizzBuzz using `continue`.
 
-Just counting can be a little boring. One fun thing to count over are `String`s. We can get the length of a `String` using the function `String.length()`. For example:
+Iterating over strings
+-
+
+Often, programmers need to iterate over text. Java provides two functions, `String.length()` and `String.charAt()` that make iterating over a `String` fun. Here is how to use them:
 
 ```java
 System.out.println("Queens!".length()); // 7
@@ -114,3 +117,31 @@ System.out.println("Queens!".charAt(3)); // e
 > > "Thus we must have a language and a structure that will take care of the **data** descriptions and priorities, as well as the operations we wish to perform. If we think seriously about these problems, we find that we cannot work with procedures alone, since they are sequential. We need to define the problem instead of the procedures. The Language Structures Group of the Codasyl Committee has been studying the structure of languages that can be used to describe **data**-processing problems. The Group started out by trying to design a language for stating procedures, but soon discovered that what was really required was a description of the **data** and a statement of the relationships between the **data** sets. The Group has since begun writing an algebra of processes, the background for a theory of **data** processing.
 
 > > "Clearly, we must break away from the sequential and not limit the computers. We must state definitions and provide for priorities and descriptions of **data**. We must state relationships, not procedures."
+
+Methods
+=
+
+Methods are blocks of code that perform a computation. Methods can take in data, process it, and *return* a result. Methods have names and are used by specifying their name followed by parentheses. Here is an example:
+
+```java
+1. public class Adder {
+2.    public static void main(String[] args) {
+3.        int sum = add(1,2);
+4.        System.out.println(sum);
+5.    }
+6.    public static int add(int x, int y) {
+7.        return x + y;
+8.    }
+9. }
+```
+
+In the above code, we've created a function called `add()`. `add` takes in data, called "parameters", adds them together, and uses the keyword `return` to return the result. Notice we can assign the return value to an `int sum`. The components of a method declaration are:
+
+1. Modifiers such as `public` and `private`. Do not worry about these for now.
+2. The type of the `return` value or *return type*. In the above example, the return type is `int`. Notice it is declared before the word `add`.
+3. The method name, in this case `add`.
+4. Parameters, a comma-separated list in parentheses. Notice each parameter has a type.
+5. An exception list. Do not worry about this for now.
+6. The method body. Just like a `while`, `if`, or `for` statement body, the method body is in brackets.
+
+> **Exercise:** Write a method `subtract` that takes two parameters two `int x` and `int y` returns the difference, subtracting y from x.
