@@ -79,7 +79,7 @@ Before you start optimizing your code or worrying about edge cases or elegance, 
 Let's say we have a bug in our half-written solution:
 
 ```java
-for (int i = 0; i < 100; i++) {
+for (int i = 0; i < 101; i++) {
     if (i % 3 == 0) {
         System.out.println("Fizz");
     } else {
@@ -109,7 +109,7 @@ Most people don't cook an elaborate meal for friends without tasting the food al
 
 ### 4. If you're stuck
 
-#### Talk it through with someone else
+##### Talk it through with someone else
 This is popolar among programmers and is called [Rubber Duck Debugging](http://en.wikipedia.org/wiki/Rubber_duck_debugging). Often, the very act of explaining what you are trying to do helps you understand the problem better.
 
 ##### Take a walk and come back later
@@ -121,7 +121,7 @@ You're in a marathon, not a sprint. Pace yourself and relax.
 As mentioned previously, debugging is the act of finding a needle in a very complex haystack. Comment out blocks of code until your program works; if you are able to do this, you can have some confidence that your bug is in the commented block. For example, here is how we might fix the Fizz Buzz issue:
 
 ```java
-for (int i = 0; i < 100; i++) {
+for (int i = 0; i < 101; i++) {
     System.out.println(i);
     /*if (i % 3 == 0) {
         System.out.println("Fizz");
