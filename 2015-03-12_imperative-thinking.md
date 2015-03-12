@@ -98,6 +98,7 @@ Fizz
 4
 5
 Fizz
+...
 ```
 
 We notice that we're printing "Fizz" too early and start looking at our `if` statement to see if we're handling modulo incorrectly. But the problem is actually that our `for` loop is initialized too early. It should start at 1.
@@ -137,15 +138,16 @@ Do you remember when your code last worked? Delete any new changes until your co
 
 ### 6. Improving your work
 
-#### Check the edge cases
+##### Check the edge cases
 Do you have a working program? Check the edge cases, such as extreme values in input or legal inputs that you didn't consider at first.
 
-##### Compare
-Programming requires experience, skill, and even taste. Many problems have multiple solutions. For example, here are two solutions to Fizz Buzz:
+##### Try different solutions and compare
+Programming requires experience, skill, and even taste. Most (all?) problems have multiple imperative solutions. For example, here are two solutions to Fizz Buzz:
 
 ```java
 public static void f1() {
-    for (int i = 1; i <= 100; i++) {
+    for (int i = 1; i < 101; i++) {
+        // What if this check was i % 15 == 0? Would that be *more* clear?
         if (i % 3 == 0 && i % 5 == 0) {
             System.out.println("FizzBuzz");
         } else if (i % 3 == 0) {
@@ -160,7 +162,7 @@ public static void f1() {
 ```
 ```java
 public static void f2() {
-    for (int i = 1; i <= 100; i++) {
+    for (int i = 1; i < 101; i++) {
         String line = "";
         if (i % 3 == 0) {
             line += "Fizz";
@@ -177,3 +179,7 @@ public static void f2() {
 ```
 
 Which one do you prefer? Why?
+
+### Conclusions
+
+Programming is hard because (1) thinking imperatively is a challenge in itself and (2) programs are incredibly complex. Help yourself out by writing code in an organized fashion. Use a consistent and clean style and test everything you write.
