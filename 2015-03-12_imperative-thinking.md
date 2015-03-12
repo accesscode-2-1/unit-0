@@ -47,15 +47,15 @@ Diagrams, like code, can help clarify a problem. Often an unclear diagram will s
 ```
 num
  |
- +--> if [num div by 15] --> else if [num div by 3] --> else if [  num div by 5  ]
-               |                           |                            |
-         [print "FizzBuzz" ]         [print "Fizz"]             [print "Buzz"    ]
-               |                           |                            |
-               +---------------------------+----------------------------+
-                                           |
-                                     [    num++   ]
-                                           |
-                                     [back to top ]
+ +--> if [ num div by 15  ] else if [num div by 3] else if [  num div by 5  ]
+                 |                        |                        |
+         [print "FizzBuzz"]         [print "Fizz"]         [  print "Buzz"  ]
+                 |                        |                        |
+                 +------------------------+------------------------+
+                                          |
+                                    [   num++    ]
+                                          |
+                                    [back to top ]
 ```
 
 ### 3. Writing a solution
