@@ -70,7 +70,7 @@ for (int i = 1; i < 101; i++) {
 
 Notice that computers and humans do not always think alike. For example, when I see "1-100", I think 100 is included in that list (although maybe you don't!). In Java, we have to be careful to translate this pseudocode into the equivalent Java code.
 
-##### Focus the brute-force solution
+##### Write the brute-force solution
 Before you start optimizing your code or worrying about edge cases or elegance, make sure your solution just works. There is nothing wrong with the most simple, straightforward, brute-force solution. Often, it will teach you something about the essential difficulty of the problem.
 
 
