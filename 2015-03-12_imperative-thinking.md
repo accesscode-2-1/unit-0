@@ -7,20 +7,22 @@ Programming is hard because there is a big difference between knowing *what to d
 We're going to use [Fizz Buzz](http://programmingbydoing.com/a/fizzbuzz.html) as a running example.
 
 ### 1. Understand the problem
+
 ##### Restate the problem in plain language.
+
 At the beginning, we'll often give you a problem statements. But as you grow as a programmer, you'll encounter problems without clear problem statements. Try to be clear about what it is you want to do. For example:
 
-> "Fizz Buzz is a program that starts at 1 and counts to 100. When a number is divisible by 3 it prints 'Fizz', by 5 is prints 'Buzz', and by both it prints 'Fizz Buzz'."
+> "Fizz Buzz is a program that starts at 1 and counts to 100. When a number is divisible by 3 it prints 'Fizz', by 5 it prints 'Buzz', and by both it prints 'FizzBuzz'."
 
 ##### Clarify any jargon.
 While writing a solution to Fizz Buzz, you may hear the word `modulo` or `modulo operator`. What does that word mean? Can you test it to see what it does?
 
-##### Ask what is essential and what is not.
+##### Focus on what is essential; ignore what is inessential.
 Let's say you *don't* know what `modulo` does. Can you still explain a solution imperatively?
 
 ### 2. Break the problems into pieces
 ##### Write [pseudocode](http://en.wikipedia.org/wiki/Pseudocode)
-Pseudocode looks a lot like code but glosses over the details. It allows you to think and write more freely. Perhaps this is related to *ignoring the inessential details*? Here is some pseudocode for Fizz Buzz:
+Pseudocode looks a lot like code but glosses over the details. It allows you to think and write more freely. This is related to the suggestion to *ignore the inessential details*. Here is some pseudocode for Fizz Buzz:
 
 ```
 for numbers 1-100:
@@ -34,11 +36,27 @@ for numbers 1-100:
         say the number
 ```
 
+Notice that while the above pseudocode isn't anything the computer can understand, it is imperative. You are getting much closer to the idea of *what to do*. This is a first step in translating from the problem statement to code.
+
 ##### Analyze how your mind imperatively solves the problem without code:
 If I asked you to perform Fizz Buzz without a computer, you could. How? This is not a trivial or easy question. Your brain is smarter than any computer we have ever built. Ask it, slowly, how it solved the problem.
 
 ##### Draw a diagram
 Diagrams, like code, can help clarify a problem. Often an unclear diagram will suggest that one's thinking is unclear.
+
+```
+num
+ |
+ +--> if [num div by 15] --> else if [num div by 3] --> else if [  num div by 5  ]
+               |                           |                            |
+         [print "Fizz" ]             [print "Buzz"]             [print "FizzBuzz"]
+               |                           |                            |
+               +---------------------------+----------------------------+
+                                           |
+                                     [    num++   ]
+                                           |
+                                     [back to top ]
+```
 
 ### 3. Writing a solution
 #### Translate the pseudocode
