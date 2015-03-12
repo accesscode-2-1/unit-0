@@ -49,7 +49,7 @@ num
  |
  +--> if [num div by 15] --> else if [num div by 3] --> else if [  num div by 5  ]
                |                           |                            |
-         [print "Fizz" ]             [print "Buzz"]             [print "FizzBuzz"]
+         [print "FizzBuzz" ]         [print "Fizz"]             [print "Buzz"    ]
                |                           |                            |
                +---------------------------+----------------------------+
                                            |
