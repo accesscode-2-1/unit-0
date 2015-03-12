@@ -6,13 +6,13 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
 
  # |  Date | Week | Lesson |
 |---|---|---|---|
- 0 | Mar 1 | 0 | [Intro: Compiling & Printing](2015-03-01_intro-compiling-printing.md) 
- 1 | Mar 3 | | [Variables & Types](2015-03-03_variables-types-strings.md) 
- 2 | Mar 5 | | [Input & If](2015-03-05_input-if.md) 
- 3 | Mar 7 | | [Week 0 Review](2015-03-07_week-0-review.md) 
- 4 | Mar 8 | 1 | [Boolean expressions; while loops](2015-03-08 boolean and while.md)
- 5 | Mar 10 | | [For loops](2015-03-10_for-loops.md)
- 6 | Mar 12 | | [Methods](2015-03-12_methods.md)
+ 0 | Mar 1 | 0 | [Intro: Compiling & Printing](lessons/week-0/2015-03-01_intro-compiling-printing.md)
+ 1 | Mar 3 | | [Variables & Types](lessons/week-0/2015-03-03_variables-types-strings.md)
+ 2 | Mar 5 | | [Input & If](lessons/week-0/2015-03-05_input-if.md)
+ 3 | Mar 7 | | [Week 0 Review](lessons/week-0/2015-03-07_week-0-review.md)
+ 4 | Mar 8 | 1 | [Boolean expressions; while loops](lessons/week-1/2015-03-08 boolean and while.md)
+ 5 | Mar 10 | | [For loops](lessons/week-1/2015-03-10_for-loops.md)
+ 6 | Mar 12 | | [Methods](lessons/week-1/2015-03-12_methods.md)
 
 
 ### Homework
