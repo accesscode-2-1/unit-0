@@ -13,6 +13,7 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
  4 | Mar 8 | 1 | [Boolean expressions; while loops](lessons/week-1/2015-03-08 boolean and while.md)
  5 | Mar 10 | | [For loops](lessons/week-1/2015-03-10_for-loops.md)
  6 | Mar 12 | | [Methods](lessons/week-1/2015-03-12_methods.md)
+ 7 | Mar 14 | | [Week 1 Review](lessons/week-1/2015-03-14_week-1-review.md)
 
 
 ### Homework
