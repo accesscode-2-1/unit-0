@@ -65,7 +65,7 @@ What's an instance? "Instance" and "object" mean the same thing; typically, "ins
 - Information-hiding: You can use an object without knowing how it is implemented!
 - Code reuse: Many objects may share attributes or behavior; we can model this with classes.
 
-##### Using a class
+##### Creating a class
 
 You've already used classes and objects--in fact, you can't avoid it in Java, because everything is an object! 
 
@@ -77,6 +77,10 @@ For example, when you created a new Scanner instance, you wrote:
 Scanner input = new Scanner(System.in);
 ```
 
+> *Definition:* We create an *instance* of a class, also called "instantiating a class", using the `new` keyword.
+
+##### Classes are types
+
 In the above code, the `new` keyword tells Java to create a new instance of type `Scanner`. Remember how we always put a type in front of our variable names...
 
 ```java
@@ -85,6 +89,8 @@ boolean isTrue = 99 < 100;
 ```
 
 ...? This is the same as when we say that `input` is of type `Scanner`. We'll talk later about why `int` and `boolean` do not require the `new` keyword, but for now, think of them as just simpler objects.
+
+##### Classes have methods
 
 We've also already used methods on a class.
 
@@ -170,13 +176,13 @@ You can look at the `.java` files directly to see what methods are available to 
 
 `Drawing`
 
-| Type | Method |
-|---|---|
-| `String` | `get(int misses)` |
+| Type | Method | Description |
+|---|---|---|
+| `String` | `get(int misses)` | Returns the drawing as a `String`, dependent on the number of `misses`. |
 
 ##### Bonus questions:
 
 Have you already finished the assignment? Here are a few other things to try:
-- The `SecretWord` class expects uppercase letters, but the user can input anything they'd like. Check user input to ensure you don't throw an error.
-- If the user guesses the same letter twice, we don't care. Can you report a specific message, for example, "You've already guessed that letter"?
-- So long as you do not effect the input/output of the `Drawing` class, it can return whatever you'd like. Change how the stick figure is drawn.
+- `SecretWord` expects uppercase letters, but the user can input anything they'd like. Check user input and gracefully report back to the user ("Please only use uppercase letters") rather passing the input on to `SecretWord`.
+- If the user guesses the same letter twice, we don't care. Can you instead report a specific message, for example, "You've already guessed that letter"? You can do this without any new tools, i.e. without arrays.
+- So long as you do not effect the misses-to-output relationship of `Drawing`, the object can return whatever you'd like. Change how the stick figure is drawn.
