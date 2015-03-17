@@ -105,5 +105,6 @@ You can look at the .java files directly to see what methods are available to yo
 
 `Drawing`
 
- # |  Type | Method |
+| Type | Method |
+|---|---|
 | String | get(int misses) |
