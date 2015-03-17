@@ -99,7 +99,10 @@ Perhaps the most important notion of object-oriented programming is simply that 
 
 # In-class assignment
 
-Use two custom classes, [`SecretWord`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Hangman/SecretWord.java) and [`Drawing`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Hangman/Drawing.java) to implement the game [Hangman](http://en.wikipedia.org/wiki/Hangman_%28game%29). Hint: you need to write your own class in `Hangman.java` and then use the other two classes to build your program!
+Use two custom classes, [`SecretWord`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Hangman/SecretWord.java) and [`Drawing`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Hangman/Drawing.java) to implement the game [Hangman](http://en.wikipedia.org/wiki/Hangman_%28game%29). Hint: you need to write your own class in `Hangman.java` and then use then other two classes to build your program! Some things to consider:
+
+- Users can miss 5 times, after which they lose.
+- User input should be uppercase letters.
 
 You can choose how to precisely to implement hangman yourself, but here is an example game:
 
@@ -148,19 +151,12 @@ Word  : G _ M
  /
 Misses: 5
 Guess : Y
+
 You won!
 The word was: G Y M 
 ```
 
-Let's play Hangman!
-
-Word  : _ _ _ _ 
-  |
-Misses: 0
-Guess : A
-Word  : _ _ _ _ 
-
-You can look at the .java files directly to see what methods are available to you but in summary:
+You can look at the `.java` files directly to see what methods are available to you but in summary:
 
 `SecretWord`
 
@@ -177,3 +173,10 @@ You can look at the .java files directly to see what methods are available to yo
 | Type | Method |
 |---|---|
 | `String` | `get(int misses)` |
+
+##### Bonus questions:
+
+Have you already finished the assignment? Here are a few other things to try:
+- If the user guesses the same letter twice, we don't care. Can you report a specific message, for example, "You've already guessed that letter"?
+- The `SecretWord` class expects uppercase letters, but the user can input anything they'd like. Check user input to ensure you don't throw an error.
+- So long as you do not effect the input/output of the `Drawing` class, it can return whatever you'd like. Change how the stick figure is drawn.
