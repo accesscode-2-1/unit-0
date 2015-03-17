@@ -166,7 +166,7 @@ You can look at the `.java` files directly to see what methods are available to 
 | `void` | `set(char letter)` | Sets `letter` as correctly guessed but throws an error if `letter` is not in the secret word. |
 | `String` | `toString()` | Returns a `String` of the secret word with underscores for un-guessed letters. |
 | `String` | `reveal()` | Returns a full `String` of the secret word. |
-| `boolean` | `isGuessed()` | Returns `true` if the secret word has been guessed, `false` otherwise |
+| `boolean` | `isGuessed()` | Returns `true` if the secret word has been guessed, `false` otherwise. |
 
 `Drawing`
 
@@ -177,6 +177,6 @@ You can look at the `.java` files directly to see what methods are available to 
 ##### Bonus questions:
 
 Have you already finished the assignment? Here are a few other things to try:
-- If the user guesses the same letter twice, we don't care. Can you report a specific message, for example, "You've already guessed that letter"?
 - The `SecretWord` class expects uppercase letters, but the user can input anything they'd like. Check user input to ensure you don't throw an error.
+- If the user guesses the same letter twice, we don't care. Can you report a specific message, for example, "You've already guessed that letter"?
 - So long as you do not effect the input/output of the `Drawing` class, it can return whatever you'd like. Change how the stick figure is drawn.
