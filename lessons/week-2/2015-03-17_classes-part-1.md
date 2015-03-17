@@ -104,5 +104,6 @@ Use two custom classes, [`SecretWord`](https://github.com/accesscode-2-1/unit-0/
 You can look at the .java files directly to see what methods are available to you but in summary:
 
 `Drawing`
+
  # |  Type | Method |
 | String | get(int misses) |
