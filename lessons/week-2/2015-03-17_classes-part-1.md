@@ -41,6 +41,18 @@ We've already talked about methods. A method models the behavior of an object--i
 
 In Java, **everything is an object.**
 
+### But why?
+
+![NYC](https://github.com/accesscode-2-1/unit-0/blob/master/images/nyc.jpg)
+
+**Objects help us to build big programs.**
+
+More technically:
+
+- Modularity: Objects can be maintained independent of other objects in the system.
+- Information-hiding: You can use an object without knowing how it is implemented!
+- Code reuse: Many objects may share attributes or behavior.
+
 ### Classes
 
 You may notice that many real world objects share attributes and behavior. For example, a motorcycle, sedan, truck, and semi-truck are all vehicles. They can be thought of as the same kind of object.
@@ -59,11 +71,9 @@ Thus, we can amend our previous definition:
 
 What's an instance? "Instance" and "object" mean the same thing; typically, "instance" is used to refer to an object in reference to its class. For example, "The sedan is an instance of a vehicle."
 
-##### Why use classes?
+### Why classes?
 
-- Modularity: Objects can be maintained independent of other objects in the system.
-- Information-hiding: You can use an object without knowing how it is implemented!
-- Code reuse: Many objects may share attributes or behavior; we can model this with classes.
+![suburbs](https://github.com/accesscode-2-1/unit-0/blob/master/images/suburbs.jpg)
 
 ##### Creating a class
 
