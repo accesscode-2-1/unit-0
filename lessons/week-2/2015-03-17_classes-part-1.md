@@ -33,13 +33,13 @@ Object-oriented programming is a style of computer programming in which the prog
 
 Real world objects have state and behavior. For example, a car has state (color, make, model) and behavior (turning, accelerating). Object-oriented programming is an attempt to model this combination of state and behavior in a modular, comprehensible way.
 
-> *Definition:* *State* is the condition of something at a moment in time.
-
 ![Object-oriented programming](https://github.com/accesscode-2-1/unit-0/blob/master/images/car.jpg)
 
 *Figure: A car can be thought of as an object with certain state and behavior.*
 
-In Java, everything is an object.
+We've already talked about methods. A method models the behavior of an object--it *does something*.
+
+In Java, **everything is an object.**
 
 ### Classes
 
@@ -47,7 +47,9 @@ You may notice that many real world objects share attributes and behavior. For e
 
 ![Object-oriented programming](https://github.com/accesscode-2-1/unit-0/blob/master/images/oop.jpg)
 
-In Java, we can create a `class`, which then allows us to create many objects of the same kind or type.
+In Java, objects of the same kind are said to share a "type", a word we already know! For example, we might say that `motorcycle` and `semi-truck` are both of type `vehicle`. 
+
+What if we'd like to make lots of a particular type of object? We can create a `class`:
 
 > *Definition:* A *class* is a blueprint for creating objects.
 
@@ -63,7 +65,26 @@ What's an instance? "Instance" and "object" mean the same thing; typically, "ins
 - Information-hiding: You can use an object without knowing how it is implemented!
 - Code reuse: Many objects may share attributes or behavior; we can model this with classes.
 
-
 ##### Using a class
 
-You've already used classes and objects--in fact, you can't avoid it in Java. For example, when you create a 
+You've already used classes and objects--in fact, you can't avoid it in Java. For example, when you created a new Scanner instance, you wrote:
+
+```java
+    Scanner input = new Scanner(System.in);
+```
+
+In the above code, the `new` keyword tells Java to create a new instance of type `Scanner`. Remember how we always put a type in front of our variable names...
+
+```java
+int myNumber = 9;
+boolean isTrue = 99 < 100;
+```
+
+...? This is the same as when we say that `input` is of type `Scanner`.
+
+We've also already used methods on a class.
+
+```java
+char c = "Queens!".charAt(0); // 'Q'
+```
+
