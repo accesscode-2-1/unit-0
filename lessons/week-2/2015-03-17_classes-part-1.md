@@ -28,4 +28,4 @@
 # Object-oriented programming
 Object-oriented programming is a style of computer programming in which the programmer represents the real world as "objects." In this context, an *object* is a group of primitive types, methods, and other objects.
 
-[Object-oriented programming](https://github.com/accesscode-2-1/unit-0/blob/master/images/oop.jpg)
+![Object-oriented programming](https://github.com/accesscode-2-1/unit-0/blob/master/images/oop.jpg)
