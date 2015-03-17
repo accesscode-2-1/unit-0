@@ -67,9 +67,11 @@ What's an instance? "Instance" and "object" mean the same thing; typically, "ins
 
 ##### Using a class
 
+You've already used classes and objects--in fact, you can't avoid it in Java, because everything is an object! 
+
 ![The Matrix](https://github.com/accesscode-2-1/unit-0/blob/master/images/matrix.jpg)
 
-You've already used classes and objects--in fact, you can't avoid it in Java. For example, when you created a new Scanner instance, you wrote:
+For example, when you created a new Scanner instance, you wrote:
 
 ```java
 Scanner input = new Scanner(System.in);
@@ -91,4 +93,10 @@ String queens = new String("Queens!");
 char c = queens.charAt(0); // 'Q'
 ```
 
-###
+##### Composition
+
+Perhaps the most important notion of object-oriented programming is simply that once you have an object, you can compose it with other objects. Today, we're going to play around with some custom classes to get a feel for this.
+
+# In-class assignment
+
+Use two custom classes, `SecretWord` and `Drawing` to implement a `Hangman` game.
