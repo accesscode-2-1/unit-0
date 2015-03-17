@@ -5,6 +5,7 @@
 # What you should know by now...
 - How to print out using `System.out.println`.
 - How to use primitive types, e.g. `int`, `char`, `boolean`, etc. 
+- How to use `String`s.
 - How to read user input with `Scanner`.
 - How to use `while` loops.
 - How to use an `if` statement.
@@ -27,4 +28,4 @@
 # Object-oriented programming
 Object-oriented programming is a style of computer programming in which the programmer represents the real world as "objects." In this context, an *object* is a group of primitive types, methods, and other objects.
 
-[Object-oriented programming][../../images/oop.jpg]
+[Object-oriented programming](https://github.com/accesscode-2-1/unit-0/blob/master/images/oop.jpg)
