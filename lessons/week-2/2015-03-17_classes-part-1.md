@@ -14,7 +14,7 @@
 - How to declare a method
 
 # Review
-- `DrawRocket.java`
+- [`DrawRocket.java`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/DrawRocket.java)
 
 # Objects and classes
 ##### Today's lesson
@@ -31,11 +31,13 @@ Object-oriented programming is a style of computer programming in which the prog
 
 > *Definition:* An *object* is a group of primitive types, methods, and other objects.
 
-Real-world objects have state and behavior. For example, a car has state (color, make, model) and behavior (turning, accelerating). Object-oriented programming is an attempt to model this combination of state and behavior in a modular, comprehensible way.
+Real world objects have state and behavior. For example, a car has state (color, make, model) and behavior (turning, accelerating). Object-oriented programming is an attempt to model this combination of state and behavior in a modular, comprehensible way.
 
-![Object-oriented programming](https://github.com/accesscode-2-1/unit-0/blob/master/images/oop.jpg)
+> *Definition:* *State* is the condition of something at a moment in time.
 
-*Fig 1. A motorcycle, sedan, truck, and semi are all cars. They can be thought of as the same kind of object.*
+![Object-oriented programming](https://github.com/accesscode-2-1/unit-0/blob/master/images/car.jpg)
+
+*Figure: A car can be thought of as an object with certain state and behavior.*
 
 ##### Why use objects?
 - Modularity: objects can be maintained independent of other objects in the system.
@@ -43,6 +45,11 @@ Real-world objects have state and behavior. For example, a car has state (color,
 - Code reuse: If an object already exists, you can just use it rather than creating it yourself.
 
 ### Classes
+
+You may notice that many real world objects share attributes and behavior. For example, a motorcycle, sedan, truck, and semi-truck are all vehicles. They can be thought of as the same kind of object.
+
+![Object-oriented programming](https://github.com/accesscode-2-1/unit-0/blob/master/images/oop.jpg)
+
 > *Definition:* A *class* is a blueprint for creating objects.
 
 ##### Why use classes?
