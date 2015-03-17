@@ -103,8 +103,18 @@ Use two custom classes, [`SecretWord`](https://github.com/accesscode-2-1/unit-0/
 
 You can look at the .java files directly to see what methods are available to you but in summary:
 
+`SecretWord`
+
+| Type | Method | Description |
+|---|---|
+| `boolean` | `isLetter(char letter)` | Returns `true` if the letter is in the secret word, false otherwise. |
+| `void` | `set(char letter)` | Sets letter as correctly guessed but throws an error if the letter is not in the secret word. |
+| `String` | `toString()` | Returns a `String` of the secret word with underscores for un-guessed letters. |
+| `String` | `reveal()` | Returns a full `String` of the secret word. |
+| `boolean` | `isGuessed()` | Returns `true` if the secret word has been guessed, `false` otherwise |
+
 `Drawing`
 
 | Type | Method |
 |---|---|
-| String | get(int misses) |
+| `String` | `get(int misses)` |
