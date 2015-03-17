@@ -162,8 +162,8 @@ You can look at the `.java` files directly to see what methods are available to 
 
 | Type | Method | Description |
 |---|---|---|
-| `boolean` | `isLetter(char letter)` | Returns `true` if the letter is in the secret word, false otherwise. |
-| `void` | `set(char letter)` | Sets letter as correctly guessed but throws an error if the letter is not in the secret word. |
+| `boolean` | `isLetter(char letter)` | Returns `true` if `letter` is in the secret word, `false` otherwise. |
+| `void` | `set(char letter)` | Sets `letter` as correctly guessed but throws an error if `letter` is not in the secret word. |
 | `String` | `toString()` | Returns a `String` of the secret word with underscores for un-guessed letters. |
 | `String` | `reveal()` | Returns a full `String` of the secret word. |
 | `boolean` | `isGuessed()` | Returns `true` if the secret word has been guessed, `false` otherwise |
