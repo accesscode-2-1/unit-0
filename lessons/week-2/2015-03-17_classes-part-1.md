@@ -101,6 +101,65 @@ Perhaps the most important notion of object-oriented programming is simply that 
 
 Use two custom classes, [`SecretWord`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Hangman/SecretWord.java) and [`Drawing`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Hangman/Drawing.java) to implement the game [Hangman](http://en.wikipedia.org/wiki/Hangman_%28game%29). Hint: you need to write your own class in `Hangman.java` and then use the other two classes to build your program!
 
+You can choose how to precisely to implement hangman yourself, but here is an example game:
+
+```
+Let's play Hangman!
+
+Word  : _ _ _ 
+  |
+Misses: 0
+Guess : E
+Word  : _ _ _ 
+  |
+ \
+Misses: 1
+Guess : G
+Word  : G _ _ 
+  |
+ \
+Misses: 1
+Guess : I
+Word  : G _ _ 
+  |
+ \0
+Misses: 2
+Guess : L
+Word  : G _ _ 
+  |
+ \0/
+Misses: 3
+Guess : M
+Word  : G _ M 
+  |
+ \0/
+Misses: 3
+Guess : U
+Word  : G _ M 
+  |
+ \0/
+  |
+Misses: 4
+Guess : T
+Word  : G _ M 
+  |
+ \0/
+  |
+ /
+Misses: 5
+Guess : Y
+You won!
+The word was: G Y M 
+```
+
+Let's play Hangman!
+
+Word  : _ _ _ _ 
+  |
+Misses: 0
+Guess : A
+Word  : _ _ _ _ 
+
 You can look at the .java files directly to see what methods are available to you but in summary:
 
 `SecretWord`
