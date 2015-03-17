@@ -19,7 +19,7 @@
 # Objects and classes
 ##### Today's lesson
 - Object-oriented programming
-- Creating Classes
+- Creating classes
 - Using static methods
 
 ##### Thursday's lesson
@@ -67,10 +67,12 @@ What's an instance? "Instance" and "object" mean the same thing; typically, "ins
 
 ##### Using a class
 
+![The Matrix](https://github.com/accesscode-2-1/unit-0/blob/master/images/matrix.jpg)
+
 You've already used classes and objects--in fact, you can't avoid it in Java. For example, when you created a new Scanner instance, you wrote:
 
 ```java
-    Scanner input = new Scanner(System.in);
+Scanner input = new Scanner(System.in);
 ```
 
 In the above code, the `new` keyword tells Java to create a new instance of type `Scanner`. Remember how we always put a type in front of our variable names...
@@ -80,11 +82,13 @@ int myNumber = 9;
 boolean isTrue = 99 < 100;
 ```
 
-...? This is the same as when we say that `input` is of type `Scanner`.
+...? This is the same as when we say that `input` is of type `Scanner`. We'll talk later about why `int` and `boolean` do not require the `new` keyword, but for now, think of them as just simpler objects.
 
 We've also already used methods on a class.
 
 ```java
-char c = "Queens!".charAt(0); // 'Q'
+String queens = new String("Queens!");
+char c = queens.charAt(0); // 'Q'
 ```
 
+###
