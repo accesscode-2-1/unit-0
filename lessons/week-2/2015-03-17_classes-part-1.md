@@ -106,7 +106,7 @@ You can look at the .java files directly to see what methods are available to yo
 `SecretWord`
 
 | Type | Method | Description |
-|---|---|
+|---|---|---|
 | `boolean` | `isLetter(char letter)` | Returns `true` if the letter is in the secret word, false otherwise. |
 | `void` | `set(char letter)` | Sets letter as correctly guessed but throws an error if the letter is not in the secret word. |
 | `String` | `toString()` | Returns a `String` of the secret word with underscores for un-guessed letters. |
