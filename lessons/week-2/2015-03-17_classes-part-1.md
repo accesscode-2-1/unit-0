@@ -39,10 +39,7 @@ Real world objects have state and behavior. For example, a car has state (color,
 
 *Figure: A car can be thought of as an object with certain state and behavior.*
 
-##### Why use objects?
-- Modularity: objects can be maintained independent of other objects in the system.
-- Information-hiding: You can use an object without knowing how it is implemented!
-- Code reuse: If an object already exists, you can just use it rather than creating it yourself.
+In Java, everything is an object.
 
 ### Classes
 
@@ -50,6 +47,23 @@ You may notice that many real world objects share attributes and behavior. For e
 
 ![Object-oriented programming](https://github.com/accesscode-2-1/unit-0/blob/master/images/oop.jpg)
 
+In Java, we can create a `class`, which then allows us to create many objects of the same kind or type.
+
 > *Definition:* A *class* is a blueprint for creating objects.
 
+Thus, we can amend our previous definition:
+
+> *Definition:* An *object* is an *instance* of a *class*.
+
+What's an instance? "Instance" and "object" mean the same thing; typically, "instance" is used to refer to an object in reference to its class. For example, "The sedan is an instance of a vehicle."
+
 ##### Why use classes?
+
+- Modularity: Objects can be maintained independent of other objects in the system.
+- Information-hiding: You can use an object without knowing how it is implemented!
+- Code reuse: Many objects may share attributes or behavior; we can model this with classes.
+
+
+##### Using a class
+
+You've already used classes and objects--in fact, you can't avoid it in Java. For example, when you create a 
