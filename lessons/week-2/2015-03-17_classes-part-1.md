@@ -34,6 +34,7 @@ Object-oriented programming is a style of computer programming in which the prog
 Real-world objects have state and behavior. For example, a car has state (color, make, model) and behavior (turning, accelerating). Object-oriented programming is an attempt to model this combination of state and behavior in a modular, comprehensible way.
 
 ![Object-oriented programming](https://github.com/accesscode-2-1/unit-0/blob/master/images/oop.jpg)
+
 *Fig 1. A motorcycle, sedan, truck, and semi are all cars. They can be thought of as the same kind of object.*
 
 ##### Why use objects?
