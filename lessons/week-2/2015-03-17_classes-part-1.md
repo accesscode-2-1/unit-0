@@ -1,6 +1,6 @@
 # Objectives
 - How to instantiate a class.
-- How to use a class's API.
+- How to use a class's methods.
 
 # What you should know by now...
 - How to print out using `System.out.println`.
