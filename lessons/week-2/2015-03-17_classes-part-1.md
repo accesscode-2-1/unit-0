@@ -99,4 +99,10 @@ Perhaps the most important notion of object-oriented programming is simply that 
 
 # In-class assignment
 
-Use two custom classes, `SecretWord` and `Drawing` to implement a `Hangman` game.
+Use two custom classes, [`SecretWord`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Hangman/SecretWord.java) and [`Drawing`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Hangman/Drawing.java) to implement the game [Hangman](http://en.wikipedia.org/wiki/Hangman_%28game%29). Hint: you need to write your own class in `Hangman.java` and then use the other two classes to build your program!
+
+You can look at the .java files directly to see what methods are available to you but in summary:
+
+`Drawing`
+ # |  Type | Method |
+| String | get(int misses) |
