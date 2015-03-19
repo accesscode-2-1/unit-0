@@ -77,8 +77,6 @@ What's an instance? "Instance" and "object" mean the same thing; typically, "ins
 
 You've already used classes and objects. They're impossible to avoid, because in Java, **nearly everything is an object.** (Some things aren't and we'll talk about why later).
 
-![The Matrix](https://github.com/accesscode-2-1/unit-0/blob/master/images/matrix.jpg)
-
 For example, when you created a new Scanner instance, you wrote:
 
 ```java
