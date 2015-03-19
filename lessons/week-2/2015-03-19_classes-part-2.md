@@ -39,7 +39,13 @@ Person guy = new Person("Fred");
 Person guy = new Person("Fred", 45);
 ```
 
-> *Static method:* A *static method* is a method that belongs to a class, not an instance of the class. You can call a static method directly on the class, e.g. `String.format("Formatting the number %d", 9);`.
+> *Static method:* A *static method* is a method that belongs to a class, not an instance of the class.
+
+You can call a static method directly on the class:
+    
+```java
+String.format("Formatting the number %d", 9);
+```
 
 > *Definition:* A *getter* is a method that returns some value from an object.
 
