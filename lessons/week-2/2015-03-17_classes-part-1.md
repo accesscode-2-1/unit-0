@@ -39,8 +39,6 @@ Real world objects have state and behavior. For example, a car has state (color,
 
 We've already talked about methods. A method models the behavior of an object--it *does something*.
 
-In Java, **everything is an object.**
-
 ### But why?
 
 ![NYC](https://github.com/accesscode-2-1/unit-0/blob/master/images/nyc.jpg)
@@ -77,7 +75,7 @@ What's an instance? "Instance" and "object" mean the same thing; typically, "ins
 
 ##### Creating a class
 
-You've already used classes and objects--in fact, you can't avoid it in Java, because everything is an object! 
+You've already used classes and objects. They're impossible to avoid, because in Java, **nearly everything is an object.** (Some things aren't and we'll talk about why later).
 
 ![The Matrix](https://github.com/accesscode-2-1/unit-0/blob/master/images/matrix.jpg)
 
