@@ -1,15 +1,17 @@
 # Objectives
-- To know the difference between primitive and reference types
+- To know the difference between primitive and reference types.
+- To become comfortable reading API documentation.
 
 # Hangman.java
-Many students looked at the code rather than the API documentation. This is fine so long as you *used the API correctly*. Some common sources of confusion...
-- "What does `private` mean?
+Many students looked at the code rather than the API documentation. This is fine so long as you *used the API correctly*. Some questions such as...
+- "What does `private` mean?"
 - "How do I use `wordToHash`?"
+- "What's this `HashMap`?"
 
-...came about by trying to figure out *how* `SecretWord` works rather than what you can do with it.
+...were asked because students were trying to figure out *how* `SecretWord` worked rather than what to do with it. This isn't bad, but sometimes it can be distracting or confusing.
 
 # Review
-- **Correction:** I said, "Everything is an object," and this is not true. We'll talk about why later.
+- Correction: I said, "Everything is an object," and this is not true. We'll talk about why later.
 - *Definition:* *class* is a blueprint for creating objects.
 - *Definition:* An *object* is an instance of a class.
 - We can create an instance using the `new` keyword, e.g. `String s = new String("Hi");`.
@@ -58,6 +60,8 @@ In Java, every variable has a type. This tells Java...
 
 Java has some basic types, such as `int`, `char`, etc. These are called *primitive types*.
 
+A primitive type is a good example of something that is **not** an object.
+
 #### Reference type
 
 Classes allow us to create objects. When we create a new object, we have to declare its type. This is called a *reference type*. Also somtimes referred to as a "class type" or "object type."
@@ -74,7 +78,7 @@ In the above code, every variable is preceded by a capitalized type, the referen
 
 #### What's different?
 
-Variables that store reference types store them differently than a variable that stores a primitive type. When we write...
+A variable that stores a reference type stores it differently than a variable that stores a primitive type. When we write...
 
 ```java
 int n = 9;
@@ -109,11 +113,11 @@ String s = "foo";
 s += "bar";
 ```
 
-You are actually creating a *new object of type `String` and assigning it to the variable `s`. 
+You are actually creating a *new* object of type `String` and assigning it to the variable `s`. 
 
 #### == vs equals()
 
-The distinction between a reference type and a primitive type is tricky; let's look at the `String` class for a testable example.
+The notion of a reference can be tricky; let's look at the `String` class for examples.
 
 > *Definition:* `==` compares by reference.
 
@@ -192,9 +196,9 @@ new Person("Tom").toString()
 This will make more sense soon, but just know that Java will let you stringify almost anything.
 
 
-# In-class assignments: `BirthdayCalculator.java`
+# In-class assignments: BirthdayCalculator.java
 
-Use Java's `Calendar` and `GregorianCalendar` classes to write your own program `BirthdayCalculator` that asks a user for their birthday and then tells them how many days there are until their birthday. Is is an example program execution:
+Use Java's `Calendar` class to write a program `BirthdayCalculator` that asks a user for their birthday and then tells them how many days there are until their birthday. This is an example program execution:
 
 ```
 Year : 2015
@@ -208,9 +212,9 @@ What is the day (1-31): 4
 There are 107 days until your birthday!
 ```
 
-#### `Calendar`
+#### The Calendar API
 
-Part of this assignment is to have you starting to get comfortable reading API documentation. [Here](http://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html) is the documentation for `Calendar`. You'll need this classes in order to get information (year, month, day) without asking the user. Read their APIs to see what methods are available to you. What do you think this getter is going to return?
+Part of this assignment is to have you starting to get comfortable reading API documentation. [Here](http://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html) is the documentation for `Calendar`. You'll need this classes in order to get information (year, month, day) without asking the user. Read the API to see what methods are available to you. To get you started, what do you think this getter is going to return?
 
 ```java
 calendar.get(Calendar.YEAR);
@@ -220,7 +224,7 @@ calendar.get(Calendar.YEAR);
 
 #### Suggestions
 - Start by reading the API documentation. Do you generally understand the `Calendar` class, the fields, and how to get information from the calendar?
-- Calculate what day of the year it is, for example today (19/3) is the 78 day of the year.
+- Calculate what day of the year it is, for example today (19/3) is day 78 of the year.
 - Calculate what day of the year the user's birthday is.
 - Calculate how many days it is from the current day until the user's birthday (this is tricky!).    
 - Use [WolframAlpha](http://www.wolframalpha.com/) to check your answers.
