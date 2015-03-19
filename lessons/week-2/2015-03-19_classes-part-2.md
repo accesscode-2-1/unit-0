@@ -39,6 +39,14 @@ Person guy = new Person("Fred");
 Person guy = new Person("Fred", 45);
 ```
 
+> *Static method:* A *static method* is a method that belongs to a class, not an instance of the class.
+
+You can call a static method directly on the class:
+    
+```java
+String.format("Formatting the number %d", 9);
+```
+
 > *Definition:* A *factory method* is a static method on a class that creates an object.
 
 This is another way of creating objects from classes:
@@ -48,14 +56,6 @@ Calendar c = Calendar.getInstance();
 ```
 
 The biggest difference for us right now is that a factory method is not required to return a new object each time it's called; it could be the same instance every time.
-
-> *Static method:* A *static method* is a method that belongs to a class, not an instance of the class.
-
-You can call a static method directly on the class:
-    
-```java
-String.format("Formatting the number %d", 9);
-```
 
 > *Definition:* A *getter* is a method that returns some value from an object.
 
