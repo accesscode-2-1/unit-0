@@ -2,32 +2,32 @@
 - To know the difference between primitive and reference types
 
 # Hangman.java
-Many students looked at the code rather than the API documentation. This is fine so long as you *used the API correctly*. Some common questions:
+Many students looked at the code rather than the API documentation. This is fine so long as you *used the API correctly*. Some common sources of confusion...
 - "What does `private` mean?
 - "How do I use `wordToHash`?"
 
+...came about by trying to figure out *how* `SecretWord` works rather than what you can do with it.
+
 # Review
 - **Correction:** I said, "Everything is an object," and this is not true. We'll talk about why later.
-- Some definitions:
- >> *Definition:* *class* is a blueprint for creating objects.
- 
- >> *Definition:* An *object* is an instance of a class.
-
+- *Definition:* *class* is a blueprint for creating objects.
+- *Definition:* An *object* is an instance of a class.
 - We can create an instance using the `new` keyword, e.g. `String s = new String("Hi");`.
 - We can call an object's methods using the *dot-notation*, e.g. `s.charAt(0);`.
 
 # Person.java
 
-Today, we'll be working with a small class, `Person.java`. Download it from GitHub.
+Today, we'll be working with a small class, `Person.java`. Please [download](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/AskingQuestions.java) it from GitHub.
 
 # Terminology
 
 Let's introduce terminology for ideas that are becoming familiar:
 
->> *Definition:* A *constructor* is a special function that creates an object. It differs from a method in that it has no explicit return type.
+> *Definition:* A *constructor* is a special function that creates an object. It differs from a method in that it has no explicit return type.
+
+Below, `Person` is a constructor. The return value is an object, an instance of type or class `Person`.
 
 ```java
-// Here, `Person` is a constructor. The return value is an object, an instance of type or class `Person`.
 Person guy = new Person("Fred");
 ```
 
@@ -58,7 +58,7 @@ Java has some basic types, such as `int`, `char`, etc. These are called *primiti
 
 #### Reference type
 
-Classes allow us to create objects. When we create a new object, we have to declare its type. This is called a **reference type**. Also somtimes referred to as a "class type" or "object type."
+Classes allow us to create objects. When we create a new object, we have to declare its type. This is called a *reference type*. Also somtimes referred to as a "class type" or "object type."
 
 ```java
 Person p = new Person("Fred");
@@ -100,6 +100,15 @@ This memory address is called a *reference* to the object.
 
 To *mutate* means to change while still having the same identity. Some reference types are *mutable* while others are *immutable*. `Person` is mutable. It is possible to change the state of the object. `String`, on the other hand, is immutable.
 
+It's hard to demonstrate that a `String` is immutable. But when you write:
+
+```java
+String s = "foo";
+s += "bar";
+```
+
+You are actually creating a *new object of type `String` and assigning it to the variable `s`. 
+
 #### == vs equals()
 
 The distinction between a reference type and a primitive type is tricky; let's look at the `String` class for a testable example.
@@ -110,7 +119,7 @@ The distinction between a reference type and a primitive type is tricky; let's l
 
 Let's look at some examples:
 
-This is `true` because they share the same value.
+This is `true` because they share the same value:
 
 ```java
 String s1 = "Hello";
@@ -149,6 +158,20 @@ new String("Hello") == new String("Hello")
 This is from the Java Language Specification:
 
 > "There is also a special null type, the type of the expression null, which has no name. Because the null type has no name, it is impossible to declare a variable of the null type or to cast to the null type. The null reference is the only possible value of an expression of null type. The null reference can always be cast to any reference type. **In practice, the programmer can ignore the null type and just pretend that null is merely a special literal that can be of any reference type.**"
+
+The important thing is that any reference type can reference the `null` type:
+
+```java
+Person bob = null;
+```
+
+You cannot do this with a primitive type:
+
+```java
+int n = null;
+```
+
+The compiler will tell you that you have incompatible types.
 
 #### toString()
 
