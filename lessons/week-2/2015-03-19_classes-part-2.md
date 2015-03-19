@@ -39,6 +39,14 @@ Person guy = new Person("Fred");
 Person guy = new Person("Fred", 45);
 ```
 
+> *Definition:* A *factory method* is a static method on a class that creates an object.
+
+This is just another way of creating objects from classes:
+
+```java
+Calendar c = Calendar.getInstance();
+```
+
 > *Static method:* A *static method* is a method that belongs to a class, not an instance of the class.
 
 You can call a static method directly on the class:
@@ -84,12 +92,6 @@ Circle c = new Circle();
 Date d = new Date();
 Scanner in = new Scanner();
 String s = new String("Hello");
-```
-
-We can also use a *factory method*. A factory method is a static method on a class and is another way of creating objects from classes:
-
-```java
-Calendar c = Calendar.getInstance();
 ```
 
 In the above code, every variable is preceded by a capitalized type, the reference type.
