@@ -39,7 +39,23 @@ Person guy = new Person("Fred");
 Person guy = new Person("Fred", 45);
 ```
 
-> *Static method:* A *static method* is a method that belongs to a class, not an instance of the class. You can call a static method directly on the class, e.g. `String.format("Formatting the number %d", 9);`.
+> *Static method:* A *static method* is a method that belongs to a class, not an instance of the class.
+
+You can call a static method directly on the class:
+    
+```java
+String.format("Formatting the number %d", 9);
+```
+
+> *Definition:* A *factory method* is a static method on a class that creates an object.
+
+This is another way of creating objects from classes:
+
+```java
+Calendar c = Calendar.getInstance();
+```
+
+The biggest difference for us right now is that a factory method is not required to return a new object each time it's called; it could be the same instance every time.
 
 > *Definition:* A *getter* is a method that returns some value from an object.
 
@@ -70,7 +86,7 @@ A primitive type is a good example of something that is **not** an object.
 
 #### Reference type
 
-Classes allow us to create objects. When we create a new object, we have to declare its type. This is called a *reference type*. Also somtimes referred to as a "class type" or "object type."
+Classes allow us to create objects. When we create a new object, we have to declare its type. This is called a *reference type*. Also sometimes referred to as a "class type" or "object type."
 
 ```java
 Person p = new Person("Fred");
@@ -78,12 +94,6 @@ Circle c = new Circle();
 Date d = new Date();
 Scanner in = new Scanner();
 String s = new String("Hello");
-```
-
-We can also use a *factory method*. A factory method is a static method on a class and is another way of creating objects from classes:
-
-```java
-Calendar c = Calendar.getInstance();
 ```
 
 In the above code, every variable is preceded by a capitalized type, the reference type.
