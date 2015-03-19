@@ -108,7 +108,7 @@ p2.setName("Bob");
 System.out.println(p1.getName());
 ```
 
-Here, the variables `p1` and `p2` both reference the same object. When we change `p2`, `p1` also changed. This is beause a reference type refers to an object in memory but only stores the memory address of where the object is located.
+Here, the variables `p1` and `p2` both reference the same object. When we change `p2`, `p1` also changes. This is beause a reference type refers to an object in memory but only stores the memory address of where the object is located.
 
 ![Reference vs Primitive](http://thinkingweb.co/wp-content/uploads/2014/06/Capture.png)
 
@@ -177,7 +177,7 @@ This is from the Java Language Specification:
 
 > "There is also a special null type, the type of the expression null, which has no name. Because the null type has no name, it is impossible to declare a variable of the null type or to cast to the null type. The null reference is the only possible value of an expression of null type. The null reference can always be cast to any reference type. **In practice, the programmer can ignore the null type and just pretend that null is merely a special literal that can be of any reference type.**"
 
-The important thing is that any reference type can reference the `null` type:
+The important thing is that any reference type can reference `null`:
 
 ```java
 Person bob = null;
@@ -213,10 +213,6 @@ This will make more sense soon, but just know that Java will let you stringify a
 Use Java's `Calendar` class to write a program `BirthdayCalculator` that asks a user for their birthday and then tells them how many days there are until their birthday. This is an example program execution:
 
 ```
-Year : 2015
-Month: 3
-Day  : 19
-
 Please enter your birthday: 
 What is the month (1-12): 7
 What is the day (1-31): 4
@@ -226,20 +222,20 @@ There are 107 days until your birthday!
 
 #### The Calendar API
 
-Part of this assignment is to have you starting to get comfortable reading API documentation. [Here](http://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html) is the documentation for `Calendar`. You'll need this classes in order to get information (year, month, day) without asking the user. Read the API to see what methods are available to you. To get you started, what do you think this getter is going to return?
+Part of this assignment is to have you starting to get comfortable reading API documentation. [Here](http://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html) is the documentation for `Calendar`. Read the API to see what methods are available to you. To get you started, here's an example method call after creating a `Calendar`:
 
 ```java
 calendar.get(Calendar.YEAR);
 ```
 
-`Calendar.YEAR` is called a *field*. Fields are similar to static methods in that we can access them directly from the class. If we call the static method `get` and pass in the correct field, the `Calendar` class returns us some useful information.
+`Calendar.YEAR` is called a *field*. Fields are similar to static methods in that we can access them directly from the class. If we call the static method `get` and pass in the correct field, the `Calendar` class returns us some useful information. In this case, it returns the current year.
 
 #### Suggestions
-- Start by reading the API documentation. Do you generally understand the `Calendar` class, the fields, and how to get information from the calendar?
-- Calculate what day of the year it is, for example today (19/3) is day 78 of the year.
+- Start by skimming the API documentation. Do you generally understand the `Calendar` class, the fields, and how to get information from the calendar?
+- Calculate what day of the year it is, for example today (19 March) is day 78 of the year.
 - Calculate what day of the year the user's birthday is.
-- Calculate how many days it is from the current day until the user's birthday (this is tricky!).    
+- Calculate the difference (this is tricky!).    
 - Use [WolframAlpha](http://www.wolframalpha.com/) to check your answers.
 
 #### Bonus
-- 2015 isn't a leap year, but what if it was? Can you handle it? See [this class](http://docs.oracle.com/javase/7/docs/api/java/util/GregorianCalendar.html).
+- 2015 isn't a leap year, but what if it was? Could you handle it? First read the [algorithm](http://en.wikipedia.org/wiki/Leap_year#Algorithm) on Wikipedia; if that's too complicated, see if the [GregorianCalendar](http://docs.oracle.com/javase/7/docs/api/java/util/GregorianCalendar.html) API can help you.
