@@ -1,3 +1,11 @@
+/**
+ * Access Code 2.1
+ *
+ * Author  Gregory Gundersen
+ * Date    March 2015
+ *
+ * This class represents a person with a name and age.
+ */
 
 public class Person {
 
@@ -27,9 +35,5 @@ public class Person {
 
     public int getAge() {
         return this.age;
-    }
-
-    public static void main(String[] args) {
-
     }
 }
