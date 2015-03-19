@@ -75,7 +75,7 @@ What's an instance? "Instance" and "object" mean the same thing; typically, "ins
 
 ##### Creating a class
 
-You've already used classes and objects. They're impossible to avoid, because in Java, **nearly everything is an object.** (Some things aren't and we'll talk about why later).
+You've already used classes and objects. They're impossible to avoid, because in Java, **nearly everything is an object.** Some things aren't and we'll talk about those later.
 
 For example, when you created a new Scanner instance, you wrote:
 
