@@ -31,6 +31,8 @@ Below, `Person` is a constructor. The return value is an object, an instance of 
 Person guy = new Person("Fred");
 ```
 
+> *Static method:* A *static method* is a method that belongs to a class, not an instance of the class. You can call a static method directly on the class, e.g. `String.format("Formatting the number %d", 9);`.
+
 > *Definition:* A *getter* is a method that returns some value from an object.
 
 A getter is just a method but by convention it often follows a simple naming convention `getSomeProperty`. If we want some attribute `foo`, we call `getFoo`. Let's try it with our `Person` class:
@@ -39,7 +41,7 @@ A getter is just a method but by convention it often follows a simple naming con
 String name = guy.getName(); // Stores "Fred" in `name`
 ```
 
-> *Definition:* a *setter* is a method that sets a value on an objet.
+> *Definition:* a *setter* is a method that sets a value on an object.
 
 ```java
 // Returns `void` so we don't see anything happen,
@@ -188,3 +190,40 @@ new Person("Tom").toString()
 ```
 
 This will make more sense soon, but just know that Java will let you stringify almost anything.
+
+
+# In-class assignments: `BirthdayCalculator.java`
+
+Use Java's `Calendar` and `GregorianCalendar` classes to write your own program `BirthdayCalculator` that asks a user for their birthday and then tells them how many days there are until their birthday. Is is an example program execution:
+
+```
+Year : 2015
+Month: 3
+Day  : 19
+
+Please enter your birthday: 
+What is the month (1-12): 7
+What is the day (1-31): 4
+
+There are 107 days until your birthday!
+```
+
+#### `Calendar`
+
+Part of this assignment is to have you starting to get comfortable reading API documentation. [Here](http://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html) is the documentation for `Calendar`. You'll need this classes in order to get information (year, month, day) without asking the user. Read their APIs to see what methods are available to you. What do you think this getter is going to return?
+
+```java
+calendar.get(Calendar.YEAR);
+```
+
+`Calendar.YEAR` is called a *field*. Fields are similar to static methods in that we can access them directly from the class. If we call the static method `get` and pass in the correct field, the `Calendar` class returns us some useful information.
+
+#### Suggestions
+- Start by reading the API documentation. Do you generally understand the `Calendar` class, the fields, and how to get information from the calendar?
+- Calculate what day of the year it is, for example today (19/3) is the 78 day of the year.
+- Calculate what day of the year the user's birthday is.
+- Calculate how many days it is from the current day until the user's birthday (this is tricky!).    
+- Use [WolframAlpha](http://www.wolframalpha.com/) to check your answers.
+
+#### Bonus
+- 2015 isn't a leap year, but what if it was? Can you handle it? See [this class](http://docs.oracle.com/javase/7/docs/api/java/util/GregorianCalendar.html).
