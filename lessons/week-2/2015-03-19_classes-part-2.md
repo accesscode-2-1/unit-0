@@ -76,7 +76,7 @@ A primitive type is a good example of something that is **not** an object.
 
 #### Reference type
 
-Classes allow us to create objects. When we create a new object, we have to declare its type. This is called a *reference type*. Also somtimes referred to as a "class type" or "object type."
+Classes allow us to create objects. When we create a new object, we have to declare its type. This is called a *reference type*. Also sometimes referred to as a "class type" or "object type."
 
 ```java
 Person p = new Person("Fred");
