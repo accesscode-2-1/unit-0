@@ -3,23 +3,23 @@
 - To become comfortable reading API documentation.
 
 # Hangman.java
-Many students looked at the code rather than the API documentation. This is fine so long as you *used the API correctly*. Some questions such as...
+Many students looked at the source code for `SecretWord` and `Drawing` before reading the API documentation. This is fine so long as you *used the API correctly*. Some questions such as...
 - "What does `private` mean?"
 - "How do I use `wordToHash`?"
 - "What's this `HashMap`?"
 
-...were asked because students were trying to figure out *how* `SecretWord` worked rather than what to do with it. This isn't bad, but sometimes it can be distracting or confusing.
+...were asked because students were trying to figure out *how* `SecretWord` worked rather than what to do with it.
 
 # Review
-- Correction: I said, "Everything is an object," and this is not true. We'll talk about why later.
-- *Definition:* *class* is a blueprint for creating objects.
+- Correction: I said, "Everything is an object," and this is not true. We'll talk about this later.
+- *Definition:* A *class* is a blueprint for creating objects.
 - *Definition:* An *object* is an instance of a class.
 - We can create an instance using the `new` keyword, e.g. `String s = new String("Hi");`.
 - We can call an object's methods using the *dot-notation*, e.g. `s.charAt(0);`.
 
 # Person.java
 
-Today, we'll be working with a small class, `Person.java`. Please [download](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/AskingQuestions.java) it from GitHub.
+Today, we'll be working with a small class, `Person.java`. Please [download](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Person.java) it from GitHub.
 
 # Terminology
 
@@ -31,6 +31,12 @@ Below, `Person` is a constructor. The return value is an object, an instance of 
 
 ```java
 Person guy = new Person("Fred");
+```
+
+> *Definition:* A constructor (or other methods) can be *overloaded*, meaning the method can take multiple parameters.
+
+```java
+Person guy = new Person("Fred", 45);
 ```
 
 > *Static method:* A *static method* is a method that belongs to a class, not an instance of the class. You can call a static method directly on the class, e.g. `String.format("Formatting the number %d", 9);`.
@@ -72,6 +78,12 @@ Circle c = new Circle();
 Date d = new Date();
 Scanner in = new Scanner();
 String s = new String("Hello");
+```
+
+We can also use a *factory method*. A factory method is a static method on a class and is another way of creating objects from classes:
+
+```java
+Calendar c = Calendar.getInstance();
 ```
 
 In the above code, every variable is preceded by a capitalized type, the reference type.
