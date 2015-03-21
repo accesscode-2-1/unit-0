@@ -67,3 +67,46 @@ static int parseInt(String s)
 ```
 
 This method parses the string argument as a signed decimal integer.
+
+The following will generate a compiler error:
+
+```java
+String strNum1 = "1000"; 
+int val = strNum1;
+```
+
+Output:
+java: incompatible types
+required: int
+found: java.lang.String
+
+
+Instead use:
+
+```java
+String strNum1 = "1000";     
+int val = Integer.parseInt(strNum1);
+```
+
+Outputs: 1000
+
+But be careful:
+
+```java
+String strNum1 = "1000cats";
+int val = Integer.parseInt(strNum1);
+```
+
+Generates a NumberFormatException exception so you may want to use handle this exception:
+
+```java
+try{
+   String strNum1 = "1000cats";
+   int val = Integer.parseInt(strNum1);
+}catch (NumberFormatException e){
+   System.out.println("Not a proper integer value!");
+}
+```
+
+Outputs: Not a proper integer value!
+But atleast the exception is handled and the program may continue
