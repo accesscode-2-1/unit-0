@@ -7,6 +7,37 @@
 
 > *Defination* A *wrapper class* wraps (encloses) around a data type and gives it an object appearance. Wherever, the data type is required as an object, this object can be used. Wrapper classes include methods to unwrap the object and give back the data type. It can be compared with a chocolate. The manufacturer wraps the chocolate with some foil or paper to prevent from pollution. The user takes the chocolate, removes and throws the wrapper and eats it.
 
+Instead of:
+
+```java
+Integer i = new Integer(9);
+```
+
+use this instead:
+
+```java
+Integer l = 9;
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+A primitive-wrapper class in the Java language is one of eight classes provided in the java.lang package to provide object methods for the eight primitive types. All of the primitive wrapper classes in Java are immutable. J2SE 5.0 introduced autoboxing of primitive types into their wrapper object, and automatic unboxing of the wrapper objects into their primitive value—the implicit conversion between the wrapper objects and primitive values.
+
+
+# Terminology
+
+> *Defination* Autoboxing is the term for getting a reference type out of a value type just through type conversion (either implicit or explicit). The compiler automatically supplies the extra source code which creates the object.
+
 #### Below are two examples:
 
 - Value passed as a parameter
@@ -30,26 +61,6 @@ System.out.println(numbers.get(1)); // prints 6
 ```java
 Integer number = 13;
 ```
-
-A primitive-wrapper class in the Java language is one of eight classes provided in the java.lang package to provide object methods for the eight primitive types. All of the primitive wrapper classes in Java are immutable. J2SE 5.0 introduced autoboxing of primitive types into their wrapper object, and automatic unboxing of the wrapper objects into their primitive value—the implicit conversion between the wrapper objects and primitive values.
-
-
-# Terminology
-
-> *Defination* Autoboxing is the term for getting a reference type out of a value type just through type conversion (either implicit or explicit). The compiler automatically supplies the extra source code which creates the object.
-
-Instead of:
-
-```java
-Integer i = new Integer(9);
-```
-
-use this instead:
-
-```java
-Integer l = 9;
-```
-
 # Review
 
 > *Static method:* A *static method* is a method that belongs to a class, not an instance of the class.
