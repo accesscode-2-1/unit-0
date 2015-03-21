@@ -14,8 +14,9 @@ a) Value passed as a parameter
 ```java
 List<Integer> numbers = new ArrayList<>();
 
-numbers.add(5); // Although the add method ask for a parameter of type Integer, we can use the primitive 5
-                // because it gets automatically autoboxed into an object of type Integer implicitly.
+numbers.add(5); // Although the add method ask for a parameter of type Integer, we can use 
+                // the primitive 5 because it gets automatically autoboxed into 
+                // an object of type Integer implicitly.
 
 numbers.add(6);
 
@@ -30,5 +31,4 @@ b) Value passed to a variable
 Integer number = 13;
 ```
 
-A primitive - wrapper class in the Java and ActionScript programming languages is one of eight classes 
-provided in the java.lang package to provide object methods for the eight primitive types. All of the primitive wrapper classes in Java are immutable. J2SE 5.0 introduced autoboxing of primitive types into their wrapper object, and automatic unboxing of the wrapper objects into their primitive value—the implicit conversion between the wrapper objects and primitive values.
+A wrapper class in the Java language is one of eight classes provided in the java.lang package to provide object methods for the eight primitive types. All of the primitive wrapper classes in Java are immutable. J2SE 5.0 introduced autoboxing of primitive types into their wrapper object, and automatic unboxing of the wrapper objects into their primitive value—the implicit conversion between the wrapper objects and primitive values.
