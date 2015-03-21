@@ -12,7 +12,7 @@ Below are two examples:
 a) Value passed as a parameter
 
 ```java
-List<Integer> numbers = new ArrayList<>();
+List<Integer> numbers = new ArrayList<Integer>();
 
 numbers.add(5); // Although the add method ask for a parameter of type Integer, we can use 
                 // the primitive 5 because it gets automatically autoboxed into 
