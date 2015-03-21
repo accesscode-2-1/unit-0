@@ -13,20 +13,14 @@ a) Value passed as a parameter
 
 ```java
 List<Integer> numbers = new ArrayList<>();
-```
 
-```java
-numbers.add(5);
-```
+numbers.add(5); // Although the add method ask for a parameter of type Integer, we can use the primitive 5
+                // because it gets automatically autoboxed into an object of type Integer implicitly.
 
-```java
 numbers.add(6);
-```
-```java
-System.out.println(numbers.get(0)); // prints 5
-```
 
-```java
+System.out.println(numbers.get(0)); // prints 5
+
 System.out.println(numbers.get(1)); // prints 6
 ```
 
