@@ -50,3 +50,20 @@ use this instead:
 Integer l = 9;
 ```
 
+# Review
+
+> *Static method:* A *static method* is a method that belongs to a class, not an instance of the class.
+
+You can call a static method directly on the class:
+    
+```java
+String.format("Formatting the number %d", 9);
+```
+
+Useful static methods of the Integer class are:
+
+```java
+static int parseInt(String s) 
+```
+
+This method parses the string argument as a signed decimal integer.
