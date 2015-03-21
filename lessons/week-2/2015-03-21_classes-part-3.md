@@ -5,7 +5,9 @@
 
 # Terminology
 
-> *Defination* A *wrapper class* wraps (encloses) around a data type and gives it an object appearance. Wherever, the data type is required as an object, this object can be used. Wrapper classes include methods to unwrap the object and give back the data type. It can be compared with a chocolate. The manufacturer wraps the chocolate with some foil or paper to prevent from pollution. The user takes the chocolate, removes and throws the wrapper and eats it.
+> *Defination* A *wrapper class* wraps (encloses) around a data type and gives it an object appearance. Wherever the data type is required as an object, this object can be instead. Wrapper classes include methods to unwrap the object and give back the original data type. 
+
+#### It can be compared with a chocolate bar. The manufacturer wraps the chocolate bar with some foil or paper to prevent from pollution. The user takes the chocolate, removes the wrapper, throws the wrapper away and then eats it. yum.
 
 Instead of:
 
@@ -32,6 +34,7 @@ A primitive-wrapper class in the Java language is one of eight classes provided 
 | `double` | `Double` | `double` or `String` |
 | `char` | `Character` | `char` |
 | `boolean` | `Boolean` | `boolean` or `String` |
+
 
 # Terminology
 
@@ -60,6 +63,10 @@ System.out.println(numbers.get(1)); // prints 6
 ```java
 Integer number = 13;
 ```
+
+
+#### Why should you care? Autoboxing/unboxing is heavily used in java collections. More on this later!
+
 # Review
 
 > *Static method:* A *static method* is a method that belongs to a class, not an instance of the class.
