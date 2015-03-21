@@ -32,18 +32,3 @@ Integer number = 13;
 ```
 
 A primitive-wrapper class in the Java language is one of eight classes provided in the java.lang package to provide object methods for the eight primitive types. All of the primitive wrapper classes in Java are immutable. J2SE 5.0 introduced autoboxing of primitive types into their wrapper object, and automatic unboxing of the wrapper objects into their primitive value—the implicit conversion between the wrapper objects and primitive values.
-
-
-The primitive wrapper classes and their corresponding primitive types are:
-
-Primitive type	Wrapper class	Constructor Arguments
---------------  -------------   ---------------------
-byte	        Byte	        byte or String
-short	        Short	        short or String
-int	        Integer	        int or String
-long	        Long	        long or String
-float	        Float	        float, double or String
-double	        Double	        double or String
-char	        Character	char
-boolean	        Boolean	        boolean or String
-
