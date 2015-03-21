@@ -19,18 +19,6 @@ use this instead:
 Integer l = 9;
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
 A primitive-wrapper class in the Java language is one of eight classes provided in the java.lang package to provide object methods for the eight primitive types. All of the primitive wrapper classes in Java are immutable. J2SE 5.0 introduced autoboxing of primitive types into their wrapper object, and automatic unboxing of the wrapper objects into their primitive value—the implicit conversion between the wrapper objects and primitive values.
 
 
@@ -74,7 +62,7 @@ You can call a static method directly on the class:
 String.format("Formatting the number %d", 9);
 ```
 
-Useful static method  of the Integer class is:
+#### Useful static method  of the Integer class is:
 
 ```java
 static int parseInt(String s) 
@@ -123,7 +111,8 @@ try{
 ```
 
 Outputs: Not a proper integer value!
-But atleast the exception is handled and the program may continue
+
+##### But atleast the exception is handled and the program may continue
 
 # In-class assignment: BankAccount & Patron
 
