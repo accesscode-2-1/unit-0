@@ -56,11 +56,14 @@ Integer l = 9;
 
 You can call a static method directly on the class:
     
+
+# Static method of the Integer class
+
 ```java
 String.format("Formatting the number %d", 9);
 ```
 
-Useful static methods of the Integer class are:
+Useful static method  of the Integer class is:
 
 ```java
 static int parseInt(String s) 
@@ -97,7 +100,7 @@ String strNum1 = "1000cats";
 int val = Integer.parseInt(strNum1);
 ```
 
-Generates a NumberFormatException exception so you may want to use handle this exception:
+Generates a NumberFormatException exception therefore you may wish to properly handle it:
 
 ```java
 try{
