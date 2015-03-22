@@ -14,4 +14,18 @@ public class Patron {
         this.pocket = pocket;
         this.account = account;
     }
+
+    public void getMoneyFromAccount(int amount) {
+        account.withdraw(amount);
+        this.pocket += amount;
+    }
+
+    public void putMoneyInAccount(int amount) {
+        this.pocket -= amount;
+        account.deposit(amount);
+    }
+
+    public void printPocket() {
+        System.out.println(name + "'s pocket: " + pocket);
+    }
 }
