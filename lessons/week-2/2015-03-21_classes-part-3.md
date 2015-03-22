@@ -132,7 +132,7 @@ try{
 
    String strNum1 = "1000cats";
    int val = Integer.parseInt(strNum1);
-
+   System.out.println(val);
 } catch (NumberFormatException e){
 
    System.out.println("Not a proper integer value!");
