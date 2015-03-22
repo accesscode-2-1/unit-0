@@ -29,5 +29,21 @@ public class Main {
         davis.printPocket();
         john.printPocket();
         c4qAccount.printBalance();
+
+        System.out.println();
+
+        // Scenario 3: test separate accounts
+
+        // create 3rd patron, associate with separate account
+        BankAccount otherAccount = new BankAccount(5555);
+        Patron kevin = new Patron("Kevin", 10000, otherAccount);
+
+        // do something (behavior)
+        kevin.putMoneyInAccount(3000);
+
+        // verify state
+        c4qAccount.printBalance();
+        otherAccount.printBalance();
+        kevin.printPocket();
     }
 }
