@@ -14,5 +14,20 @@ public class Main {
         // verify state
         john.printPocket();
         c4qAccount.printBalance();
+
+        System.out.println();
+
+        // Scenario 2: test multiple patrons using single account
+
+        // create 2nd patron, associating same account as before
+        Patron davis = new Patron("Davis", 1000, c4qAccount);
+
+        // do something (behavior)
+        davis.getMoneyFromAccount(20);
+
+        // verify state
+        davis.printPocket();
+        john.printPocket();
+        c4qAccount.printBalance();
     }
 }
