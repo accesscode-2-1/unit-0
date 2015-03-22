@@ -152,8 +152,8 @@ Outputs: Not a proper integer value!
 - A Patron has a name, an account, and his/her “pocket”.
 
 ####For now, our constraints will be:
-- a patron can only interact with one account ( 1 <=> 1 )
-- an account can interact with many patrons ( 1<=> many))
+- A patron can only interact with one account ( 1 <=> 1 )
+- An account can interact with many patrons ( 1<=> many))
 - We will deal with dollars only, no cents
 
 #### Create a program that creates objects of these types and have them interact with each other.
@@ -161,12 +161,12 @@ Outputs: Not a proper integer value!
 ##### Some suggested “interactions”:
 - An account should allow withdrawals and deposits
 - A patron can get from and put money in the account
-- Both should be abled to show their current “balance”
+- Both should be able to show their current balance
 
 ##### Extra Credit:
 - Make it so a patron can interact with multiple accounts
 - Prevent the possibility of a Patron performing an overwithdrawl
-
+- Prevent the possibility of depositing more than you currently have in your pocket
 
 #### To view the progression of the BankAccount/Patron program, please go here:
 [Solution](https://github.com/accesscode-2-1/unit-0/compare/07c826a2babb8598f3e989293d243e6adf913b15...137ba349bc04c0959de88a3c96858be685d5078c)
