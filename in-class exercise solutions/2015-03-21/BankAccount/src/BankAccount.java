@@ -17,17 +17,22 @@ public class BankAccount {
         balance += amount;
     }
 
+    public void printBalance() {
+        System.out.println("balance: " + balance);
+    }
+
     public static void main(String[] args) {
         BankAccount a1 = new BankAccount(100);
         BankAccount a2 = new BankAccount();
 
-        System.out.println(a1.balance);
-        System.out.println(a2.balance);
+        // in class, i forgot to update these lines
+        a1.printBalance();
+        a2.printBalance();
 
         a1.withdraw(5);
         a2.deposit(200);
 
-        System.out.println(a1.balance);
-        System.out.println(a2.balance);
+        a1.printBalance();
+        a2.printBalance();
     }
 }
