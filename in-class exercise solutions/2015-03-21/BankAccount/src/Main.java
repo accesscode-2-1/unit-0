@@ -3,7 +3,7 @@ public class Main {
         //Scenario 1: test account/patron interaction
 
         //create account
-        BankAccount c4qAccount = new BankAccount(1000);
+        BankAccount c4qAccount = new BankAccount("C4Q", 1000);
 
         // create patron, associating account with patron
         Patron john = new Patron("John", 0, c4qAccount);
@@ -35,7 +35,7 @@ public class Main {
         // Scenario 3: test separate accounts
 
         // create 3rd patron, associate with separate account
-        BankAccount otherAccount = new BankAccount(5555);
+        BankAccount otherAccount = new BankAccount("Kevin", 5555);
         Patron kevin = new Patron("Kevin", 10000, otherAccount);
 
         // do something (behavior)
