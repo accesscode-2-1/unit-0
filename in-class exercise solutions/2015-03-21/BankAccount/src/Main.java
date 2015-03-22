@@ -45,5 +45,13 @@ public class Main {
         c4qAccount.printBalance();
         otherAccount.printBalance();
         kevin.printPocket();
+
+        System.out.println();
+
+        // Scenario 4: test for overdraft
+
+        // attempt to withdraw high amount
+        john.getMoneyFromAccount(1000000);
+        c4qAccount.printBalance();
     }
 }
