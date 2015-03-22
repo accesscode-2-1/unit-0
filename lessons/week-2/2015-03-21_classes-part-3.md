@@ -69,16 +69,16 @@ Integer number = 13;
 ```
 
 
-##### Why should you care? Autoboxing/unboxing is heavily used in java collections. More on this later!
+#### Why should you care? 
+- Autoboxing/unboxing is heavily used in java collections. More on this later!
 
-# Review
+### Review of static methods
 
 > *Static method:* A *static method* is a method that belongs to a class, not an instance of the class.
 
 You can call a static method directly on the class:
     
-
-# Static method of the Integer class
+#### For example:
 
 ```java
 String.format("Formatting the number %d", 9);
@@ -105,7 +105,7 @@ required: int
 found: java.lang.String
 
 
-Instead use:
+#### Instead use:
 
 ```java
 String strNum1 = "1000";     
@@ -114,7 +114,7 @@ int val = Integer.parseInt(strNum1);
 
 Outputs: 1000
 
-But be careful:
+#### But be careful:
 
 ```java
 String strNum1 = "1000cats";
