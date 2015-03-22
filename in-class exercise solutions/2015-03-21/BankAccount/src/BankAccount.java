@@ -10,7 +10,12 @@ public class BankAccount {
     }
 
     public void withdraw(int amount) {
-        balance -= amount;
+        if(amount > balance) {
+            System.out.println("not enough money in this account");
+        }
+        else {
+            balance -= amount;
+        }
     }
 
     public void deposit(int amount) {
