@@ -22,8 +22,13 @@ public class Patron {
     }
 
     public void putMoneyInAccount(int amount) {
-        this.pocket -= amount;
-        account.deposit(amount);
+        if(amount > pocket) {
+            System.out.println("not enough money in " + name + "'s pocket");
+        }
+        else {
+            this.pocket -= amount;
+            account.deposit(amount);
+        }
     }
 
     public void printPocket() {
