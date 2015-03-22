@@ -76,7 +76,7 @@ Integer number = 13;
 
 > *Static method:* A *static method* is a method that belongs to a class, not an instance of the class.
 
-You can call a static method directly on the class:
+You can call a static method directly on the class.
     
 #### For example:
 
@@ -101,10 +101,11 @@ System.out.println(val);
 ```
 
 Output:
+```java
 java: incompatible types
 required: int
 found: java.lang.String
-
+```
 
 #### Instead use:
 
