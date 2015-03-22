@@ -63,5 +63,19 @@ public class Main {
         john.putMoneyInAccount(20);
         c4qAccount.printBalance();
         john.printPocket();
+
+        System.out.println();
+
+        // Scenario 6: test for multiple accounts, single patron
+
+        BankAccount kennyAccount = new BankAccount("kenny", 1000);
+        BankAccount[] kennyAccounts = { c4qAccount, kennyAccount };
+        Patron kenny = new Patron("Kenny", kennyAccounts);
+
+        // Kenny expenses his lunch
+        kenny.getMoneyFromAccount(10, 0);  // 0 here means the index of the c4qAccount in the kennyAccounts array!
+        c4qAccount.printBalance();
+        kennyAccount.printBalance();
+        kenny.printPocket();
     }
 }
