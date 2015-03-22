@@ -169,5 +169,5 @@ Outputs: Not a proper integer value!
 
 
 #### To view the progression of the BankAccount/Patron program, please go here:
-![Solution](https://github.com/accesscode-2-1/unit-0/compare/07c826a2babb8598f3e989293d243e6adf913b15...137ba349bc04c0959de88a3c96858be685d5078c)
+[Solution](https://github.com/accesscode-2-1/unit-0/compare/07c826a2babb8598f3e989293d243e6adf913b15...137ba349bc04c0959de88a3c96858be685d5078c)
 
