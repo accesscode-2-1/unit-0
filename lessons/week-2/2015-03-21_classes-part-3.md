@@ -7,7 +7,7 @@
 
 > *Defination* A *wrapper class* wraps (encloses) around a data type and gives it an object appearance. Wherever the data type is required as an object, this object can be instead. Wrapper classes include methods to unwrap the object and give back the original data type. 
 
-#### It can be compared with a chocolate bar. The manufacturer wraps the chocolate bar with some foil or paper to prevent from pollution. The user takes the chocolate, removes the wrapper, throws the wrapper away and then eats it. yum.
+##### It can be compared with a chocolate bar. The manufacturer wraps the chocolate bar with some foil or paper to prevent from pollution. The user takes the chocolate, removes the wrapper, throws the wrapper away and then eats it. yum.
 
 Instead of:
 
@@ -40,7 +40,11 @@ A primitive-wrapper class in the Java language is one of eight classes provided 
 
 > *Defination* Autoboxing is the term for getting a reference type out of a value type just through type conversion (either implicit or explicit). The compiler automatically supplies the extra source code which creates the object.
 
-#### Below are two examples:
+> If we move in the opposite direction, then it's called unboxing
+
+![Autoboxing/unboxing](https://github.com/accesscode-2-1/unit-0/blob/master/images/AutoBoxing_UnBoxing.png)
+
+##### Below are two examples:
 
 - Value passed as a parameter
 
@@ -65,7 +69,7 @@ Integer number = 13;
 ```
 
 
-#### Why should you care? Autoboxing/unboxing is heavily used in java collections. More on this later!
+##### Why should you care? Autoboxing/unboxing is heavily used in java collections. More on this later!
 
 # Review
 
