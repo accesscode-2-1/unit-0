@@ -152,8 +152,8 @@ Outputs: Not a proper integer value!
 - A Patron has a name, an account, and his/her “pocket”.
 
 ####For now, our constraints will be:
-- A patron can only interact with one account ( 1 <=> 1 )
-- An account can interact with many patrons ( 1<=> many))
+- A patron can only interact with one account ( 1 <=> 1   )
+- An account can interact with many patrons   ( 1 <=> many)
 - We will deal with dollars only, no cents
 
 #### Create a program that creates objects of these types and have them interact with each other.
