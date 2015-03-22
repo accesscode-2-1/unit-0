@@ -97,6 +97,7 @@ The following will generate a compiler error:
 ```java
 String strNum1 = "1000"; 
 int val = strNum1;
+System.out.println(val);
 ```
 
 Output:
@@ -110,6 +111,7 @@ found: java.lang.String
 ```java
 String strNum1 = "1000";     
 int val = Integer.parseInt(strNum1);
+System.out.println(val);
 ```
 
 Outputs: 1000
@@ -119,22 +121,27 @@ Outputs: 1000
 ```java
 String strNum1 = "1000cats";
 int val = Integer.parseInt(strNum1);
+System.out.println(val);
 ```
 
 Generates a NumberFormatException exception therefore you may wish to properly handle it:
 
 ```java
 try{
+
    String strNum1 = "1000cats";
    int val = Integer.parseInt(strNum1);
-}catch (NumberFormatException e){
+
+} catch (NumberFormatException e){
+
    System.out.println("Not a proper integer value!");
+
 }
 ```
 
 Outputs: Not a proper integer value!
 
-##### But atleast the exception is handled and the program may continue
+##### But atleast the exception is handled and the program execution is able to continue
 
 # In-class assignment: BankAccount & Patron
 
