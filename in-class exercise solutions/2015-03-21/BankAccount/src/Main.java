@@ -48,10 +48,19 @@ public class Main {
 
         System.out.println();
 
-        // Scenario 4: test for overdraft
+        // Scenario 4: test for account overdraft
 
         // attempt to withdraw high amount
         john.getMoneyFromAccount(1000000);
+        c4qAccount.printBalance();
+        john.printPocket();
+
+        System.out.println();
+
+        // Scenario 5: test for 'pocket' overdraft
+
+        // attempt to take more $ out of pocket than patron has
+        john.putMoneyInAccount(20);
         c4qAccount.printBalance();
         john.printPocket();
     }
