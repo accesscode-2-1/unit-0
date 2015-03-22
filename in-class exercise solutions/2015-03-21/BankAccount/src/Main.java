@@ -53,5 +53,6 @@ public class Main {
         // attempt to withdraw high amount
         john.getMoneyFromAccount(1000000);
         c4qAccount.printBalance();
+        john.printPocket();
     }
 }

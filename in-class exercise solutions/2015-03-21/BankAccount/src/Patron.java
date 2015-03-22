@@ -16,8 +16,9 @@ public class Patron {
     }
 
     public void getMoneyFromAccount(int amount) {
-        account.withdraw(amount);
-        this.pocket += amount;
+        if(account.withdraw(amount)) {
+            this.pocket += amount;
+        }
     }
 
     public void putMoneyInAccount(int amount) {

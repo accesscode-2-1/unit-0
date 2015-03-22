@@ -9,12 +9,14 @@ public class BankAccount {
         this.balance = balance;
     }
 
-    public void withdraw(int amount) {
+    public boolean withdraw(int amount) {
         if(amount > balance) {
             System.out.println("not enough money in this account");
+            return false;
         }
         else {
             balance -= amount;
+            return true;
         }
     }
 
