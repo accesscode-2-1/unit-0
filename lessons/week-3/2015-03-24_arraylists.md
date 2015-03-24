@@ -102,7 +102,23 @@ ArrayList<Person> people = new ArrayList<Person>();
 
 > **Exercise:** Modify our program to save the user's input names as `Person` instances. Rather than storing `String` objects in the `ArrayList`, store `Person` objects by constructing them with the input name. You'll need to use the `Person` constructor to get a `Person` instance!
 
+# In-class assignment
 
+Write a class `BlueBook` that tells the user the price of their car, depending on the make, model, and year. You should use [`Car.java`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/BlueBook/Car.java) and the stencil file provided, [`BlueBook.java`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/BlueBook/BlueBook.java).
 
+Your program depends on what cars your `BlueBook` supports, but here is an example program:
 
+```
+What is your car's make?
+Toyota
+What is your Toyota's model?
+Corolla
+What is your Toyota Corolla's year?
+1999
 
+Your 1999 Toyota Corolla is worth $2000.
+```
+
+**Bonus exercise:** Notify the user if the car is not in your `BlueBook`.
+**Bonus exercise:** Clean up `main` by putting your code for creating the `ArrayList` in a separate method. What type should the method return?
+**Bonus exercise:** If the car is not in the `BlueBook`, ask the user to input the relevant data, construct a new `Car` instance, add it to your `ArrayList`.
