@@ -19,6 +19,7 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
  10 | Mar 19 | | [Classes](lessons/week-2/2015-03-19_classes-part-2.md)
  11 | Mar 21 | | [Classes/Review](lessons/week-2/2015-03-21_classes-part-3.md)
  12 | Mar 22 | 3 | [encoding, URLs, HTTP](https://github.com/accesscode-2-1/ac20150322)
+ 13 | Mar 25 |   | [ArrayList](https://github.com/accesscode-2-1/unit-0/blob/master/lessons/week-3/2015-03-24_arraylists.md)
 
 
 ### Homework

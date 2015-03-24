@@ -100,7 +100,7 @@ An `ArrayList` can hold any type of object! For example, here is a constructor f
 ArrayList<Person> people = new ArrayList<Person>();
 ```
 
-> **Exercise:** Modify our program to save the user's input names as `Person` instances. Rather than storing `String` objects in the `ArrayList`, store `Person` objects by constructing them with the input name.
+> **Exercise:** Modify our program to save the user's input names as `Person` instances. Rather than storing `String` objects in the `ArrayList`, store `Person` objects by constructing them with the input name. You'll need to use the `Person` constructor to get a `Person` instance!
 
 
 
