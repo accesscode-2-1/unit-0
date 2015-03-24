@@ -3,7 +3,7 @@
 - Add objects to list
 - Get objects from the list
 
-# (DaysUntil.java)[https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/DaysUntilBirthday.java]
+# [DaysUntil.java](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/DaysUntilBirthday.java)
 
 # ArrayLists
 
