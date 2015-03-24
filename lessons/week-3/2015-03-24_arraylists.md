@@ -5,7 +5,7 @@
 
 # DaysUntil
 - [DaysUntil.java](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/DaysUntil/DaysUntil.java)
-- [DaysUntilWLY.java](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/DaysUntil/DaysUntilWLY.java)
+- [DaysUntilWLD.java](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/DaysUntil/DaysUntilWLD.java)
 
 
 # ArrayLists
