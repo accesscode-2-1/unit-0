@@ -4,7 +4,7 @@
  * Author  <YOUR NAME>
  * Date    March 2015
  *
- * This class asks the user which car they have and prints some facts about it.
+ * This class asks the user which car they have and prints its price.
  */
 
 import java.util.ArrayList;
