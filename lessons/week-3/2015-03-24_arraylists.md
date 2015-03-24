@@ -119,6 +119,8 @@ What is your Toyota Corolla's year?
 Your 1999 Toyota Corolla is worth $2000.
 ```
 
-**Bonus exercise:** Notify the user if the car is not in your `BlueBook`.
-**Bonus exercise:** Clean up `main` by putting your code for creating the `ArrayList` in a separate method. What type should the method return?
-**Bonus exercise:** If the car is not in the `BlueBook`, ask the user to input the relevant data, construct a new `Car` instance, add it to your `ArrayList`.
+> **Bonus exercise:** Notify the user if the car is not in your `BlueBook`.
+
+> **Bonus exercise:** Clean up `main` by putting your code for creating the `ArrayList` in a separate method. What type should the method return?
+
+> **Bonus exercise:** If the car is not in the `BlueBook`, ask the user to input the relevant data, construct a new `Car` instance, add it to your `ArrayList`.
