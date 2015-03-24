@@ -21,14 +21,19 @@ public class Car {
         this.price = price;
     }
 
-    public String getMake() { return this.make; }
+    public String getMake() {
+        return this.make;
+    }
 
-    public String getModel() { return this.model; }
+    public String getModel() {
+        return this.model;
+    }
 
-    public int getYear() { return this.year; }
+    public int getYear() {
+        return this.year;
+    }
 
     public double getPrice() {
         return this.price;
     }
-
 }
