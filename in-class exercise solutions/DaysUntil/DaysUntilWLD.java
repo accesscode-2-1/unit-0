@@ -51,7 +51,7 @@ public class DaysUntilWLD {
         } else {
             calendar.set(thisYear, birthMonth-1, birthDay);
             int daysTilBirthday = calendar.get(Calendar.DAY_OF_YEAR);
-            daysUntil = daysThisYear - daysTilBirthday;
+            daysUntil = daysTilBirthday - daysThisYear;
         }
 
         System.out.println("Your birthday is in " + daysUntil + " days");
