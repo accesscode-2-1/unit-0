@@ -81,18 +81,18 @@ Finally, we can ask our `names` `ArrayList` it has a particular string.
 ```java
 names.add("Veer");
 System.out.println(names.contains("Veer")); // true
+```
 
 > *Exercise:* Update your program to check if a name was input by the user. For example:
-
-```
-Please give me some names:
-Ying
-Jordan
-
-Search for a name:
-Ying
-Yes!
-```
+> ```
+> Please give me some names:
+> Ying
+> Jordan
+> 
+> Search for a name:
+> Ying
+> Yes!
+> ```
 
 An `ArrayList` can hold any type of object! For example, here is a constructor for an `ArrayList` holding our `Person` class from last week.
 
