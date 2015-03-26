@@ -79,7 +79,7 @@ System.out.println(names.get(2)); // "Ezekiel"
 > Ying
 > ```
 
-Finally, we can ask our `names` `ArrayList` it has a particular string.
+Finally, we can ask our `names` `ArrayList` whether or not it has a particular string.
 
 ```java
 names.add("Veer");
