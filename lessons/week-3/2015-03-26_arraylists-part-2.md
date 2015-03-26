@@ -86,7 +86,7 @@ When would we want to do this? Perhaps if our input is stateful and we do not wa
 
 # clear()
 
-`ArrayList`s have a nice method `clear()` that will clear their contents. Try it:
+`ArrayList`s have a nice method `clear()` that will remove any added objects. Try it:
 
 ```java
 numbers.add(1);
@@ -105,3 +105,45 @@ System.out.println(numbers.size()); // 0
 > 33
 > -2
 > 66
+
+# In-class assignment: Counting and graphing the number of subway entrances in NYC
+
+#### Parsing the data
+
+[NYC Open Data](https://nycopendata.socrata.com/) is a public repository of data about New York City. We're going to be analyzing and graphing the dataset for [subway entrances](https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56). Our end goal is to produce a [colored and labeled bar chart](subway-graph.png) comparing the number of entrances per line. Don't worry, you'll get to use two classes that will help you with this!
+
+I've already downloaded the data, but you can also do so [here](https://data.cityofnewyork.us/api/views/he7q-3hwy/rows.csv?accessType=DOWNLOAD). The text file should look like this:
+
+```
+http://www.mta.info/nyct/service/,Smith St & Bergen St At Ne Corner (To Manhattan And Queens Only),F-G
+http://www.mta.info/nyct/service/,Court St & Montague St At Sw Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,Court St & Montague St At Sw Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,Clinton St & Montague St At Nw Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,Flatbush Ave & Empire Blvd At Sw Corner,B-Q-S
+...
+```
+
+Use the provided [File class](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Subway/File.java) to read in the text file. You create a new file like this:
+
+```java
+File f = new File("/Subway/src/subway-data.txt");
+```
+
+Next, you can call `getLines` on the `File` instance and it will return you an `ArrayList` of `ArrayList` of `Strings`. Each inner `ArrayList` is a line and each `String` is the string between the commas. Call the method, store it in a variable, and play with it. How can you get the number of subway entrances per line?
+
+#### Graphing the data
+
+Use the [DrawingPanel](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Subway/DrawingPanel.java) class--credit to Marty Stepp for writing this--to create a `Graphics2D` object. Don't worry about how all this works; just use this snippet:
+
+```
+DrawingPanel panel = new DrawingPanel(500, 250);
+Graphics2D g = panel.getGraphics();
+```
+
+Now `g` is a `Graphics2D` object. Use [its API](http://docs.oracle.com/javase/7/docs/api/java/awt/Graphics2D.html) to draw the necessary objects. You will want to use `setColor()`, `setStroke()`, `drawString()`, and `drawLine()`.
+
+Refer to the [stencil file](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Subway/Subway.java) for more specific instructions.
+
+#### Bonus questions
+> Use `setStroke` and the `BasicStroke` class create a thicker bar graph.
+> You can use `Color.BLACK`, `Color.WHITE`, etc. to create the bar graph. Now use the `Color` constructor, which takes a hexidecimal number, to print more interesting colors.
