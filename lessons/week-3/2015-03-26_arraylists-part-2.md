@@ -145,5 +145,7 @@ Now `g` is a `Graphics2D` object. Use [its API](http://docs.oracle.com/javase/7/
 Refer to the [stencil file](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Subway/Subway.java) for more specific instructions.
 
 #### Bonus questions
+
 > Use `setStroke` and the `BasicStroke` class create a thicker bar graph.
+
 > You can use `Color.BLACK`, `Color.WHITE`, etc. to create the bar graph. Now use the `Color` constructor, which takes a hexidecimal number, to print more interesting colors.
