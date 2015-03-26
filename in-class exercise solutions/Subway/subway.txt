@@ -1,0 +1,1904 @@
+http://www.mta.info/nyct/service/,Smith St & Bergen St At Ne Corner (To Manhattan And Queens Only),F-G
+http://www.mta.info/nyct/service/,Court St & Montague St At Sw Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,Court St & Montague St At Sw Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,Clinton St & Montague St At Nw Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,Flatbush Ave & Empire Blvd At Sw Corner,B-Q-S
+http://www.mta.info/nyct/service/,4th Ave & Union St At Sw Corner (To Bay Ridge And Coney Island Only),D-N-R
+http://www.mta.info/nyct/service/,4th Ave & Union St At Se Corner (To Manhattan Only),D-N-R
+http://www.mta.info/nyct/service/,4th Ave & Union St At Se Corner (To Manhattan Only),D-N-R
+http://www.mta.info/nyct/service/,Flatbush Ave & Bergen St At Sw Corner (To New Lots And Flatbush Only),2-3-4
+http://www.mta.info/nyct/service/,Lawrence St & Willoughby St At Ne Corner,N-R
+http://www.mta.info/nyct/service/,Lawrence St & Willoughby St At Se Corner,N-R
+http://www.mta.info/nyct/service/,Hoyt St & Fulton St At Sw Corner (To New Lots And Flatbush Only),2-3
+http://www.mta.info/nyct/service/,Bridge St & Fulton St At Ne Corner (To Manhattan Only),2-3
+http://www.mta.info/nyct/service/,Duffield St & Fulton St At Nw Corner (To Manhattan Only),2-3
+http://www.mta.info/nyct/service/,Duffield St & Fulton St At Ne Corner (To Manhattan Only),2-3
+http://www.mta.info/nyct/service/,Bridge St & Willoughby St At Sw Corner,N-R
+http://www.mta.info/nyct/service/,Bridge St & Willoughby St At Ne Corner,N-R
+http://www.mta.info/nyct/service/,Flatbush Ave & Fleet St At Ne Corner,B-D-N-Q-R
+http://www.mta.info/nyct/service/,4th Ave & Pacific St At Nw Corner,2-3-4-5-B-D-N-Q-R
+http://www.mta.info/nyct/service/,Ashland Pl & Hanson Pl At Ne Corner,2-3-4-5-B-D-N-Q-R
+http://www.mta.info/nyct/service/,Lawrence St & Willoughby St At Ne Corner,N-R
+http://www.mta.info/nyct/service/,Smith St & President St At Nw Corner,F-G
+http://www.mta.info/nyct/service/,Washington Ave & Eastern Pkwy At Sw Corner,2-3-4
+http://www.mta.info/nyct/service/,Washington Ave & Eastern Pkwy At Nw Corner,2-3-4
+http://www.mta.info/nyct/service/,Franklin Ave & Eastern Pkwy At Se Corner,2-3-4-5-S
+http://www.mta.info/nyct/service/,Franklin Ave & Eastern Pkwy At Ne Corner,2-3-4-5-S
+http://www.mta.info/nyct/service/,Franklin Ave & Fulton St At Sw Corner,A-C-S
+http://www.mta.info/nyct/service/,Franklin Ave & Eastern Pkwy At Ne Corner,2-3-4-5-S
+http://www.mta.info/nyct/service/,Jay St & York St At Sw Corner,F
+http://www.mta.info/nyct/service/,Essex St & Delancey St At Nw Corner,F-J-M-Z
+http://www.mta.info/nyct/service/,Flatbush Ave & De Kalb Ave At Se Corner,B-D-N-Q-R
+http://www.mta.info/nyct/service/,Beach 90th St & Rockaway Frwy At Se Corner,A-S
+http://www.mta.info/nyct/service/,Red Cross Pl & Adams St At Sw Corner,A-C
+http://www.mta.info/nyct/service/,Sands St & Adams St At Se Corner,A-C
+http://www.mta.info/nyct/service/,Court St & Joralemon St At Ne Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,144-01 Hillside Avenue,F
+http://www.mta.info/nyct/service/,1515 Foster Avenue (Enter From Newkirk Ave Pz),B-Q
+http://www.mta.info/nyct/service/,37-01 36 Street (To Manhattan And Brooklyn Only),E-M-R
+http://www.mta.info/nyct/service/,4902 12 Avenue,D
+http://www.mta.info/nyct/service/,1 Barclay Street (Enter On Park Place),2-3-A-C-E
+http://www.mta.info/nyct/service/,486 Clinton Avenue (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,1175 Mc Donald Avenue,F
+http://www.mta.info/nyct/service/,135-02 89 Avenue,E
+http://www.mta.info/nyct/service/,40-02 75 Street,7-E-F-M-R
+http://www.mta.info/nyct/service/,1122 Broadway,J
+http://www.mta.info/nyct/service/,729 7 Avenue (Uptown Only),N-Q-R
+http://www.mta.info/nyct/service/,421 7 Avenue,1-2-3
+http://www.mta.info/nyct/service/,401 7 Avenue,1-2-3
+http://www.mta.info/nyct/service/,502 Broadway,G
+http://www.mta.info/nyct/service/,2 Ann Street,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,421 7 Avenue,1-2-3
+http://www.mta.info/nyct/service/,92-20 Jamaica Avenue,J-Z
+http://www.mta.info/nyct/service/,235 Brook Avenue (To Manhattan Only),6
+http://www.mta.info/nyct/service/,101 Avenue I,F
+http://www.mta.info/nyct/service/,102 Beverly Road,F
+http://www.mta.info/nyct/service/,656 5 Avenue,E-M
+http://www.mta.info/nyct/service/,1490 Fulton Street (To Queens Only),A-C
+http://www.mta.info/nyct/service/,311 7 Avenue (Uptown Only),1-2
+http://www.mta.info/nyct/service/,Nassau Pl & Averill Pl At Sw Corner,@
+http://www.mta.info/nyct/service/,75 Richmond Terrace,@
+http://www.mta.info/nyct/service/,295 Broadway (To Manhattan Only),J-M-Z
+http://www.mta.info/nyct/service/,166 6 Avenue,A-C-E
+http://www.mta.info/nyct/service/,701 Seneca Avenue,M
+http://www.mta.info/nyct/service/,82-01 Roosevelt Avenue,7
+http://www.mta.info/nyct/service/,47 Pine Street,2-3
+http://www.mta.info/nyct/service/,1025 Longwood Avenue (To Manhattan Only),6
+http://www.mta.info/nyct/service/,573 Lafayette Avenue,G
+http://www.mta.info/nyct/service/,180 Central Park West,A-C-B
+http://www.mta.info/nyct/service/,4761 Broadway,A
+http://www.mta.info/nyct/service/,39-16 111 Street,7
+http://www.mta.info/nyct/service/,418 Broadway,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,462 Flatbush Avenue (Enter From Lincoln Rd),B-Q-S
+http://www.mta.info/nyct/service/,956 8 Avenue,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,1720 Broadway,J-Z
+http://www.mta.info/nyct/service/,856 Fulton Street (To Queens Only),A-C
+http://www.mta.info/nyct/service/,42-01 28 Street,E-M-R
+http://www.mta.info/nyct/service/,2154 Fulton Street,A-C
+http://www.mta.info/nyct/service/,1 Centre Street,4-5-6-6 Express-J-Z
+http://www.mta.info/nyct/service/,626 Manhattan Avenue,G
+http://www.mta.info/nyct/service/,344 Classon Avenue,G
+http://www.mta.info/nyct/service/,40-33 21 Street,F
+http://www.mta.info/nyct/service/,1824 Broadway,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,602 Marcy Avenue,G
+http://www.mta.info/nyct/service/,131 East 60 Street,4-5-6-6 Express-N-Q-R
+http://www.mta.info/nyct/service/,2137 Nostrand Avenue,2-5
+http://www.mta.info/nyct/service/,70 6 Avenue (To Manhattan Only),2-3-4
+http://www.mta.info/nyct/service/,Nostrand Ave & Flatbush Ave At Nw Corner,2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & Flatbush Ave At Ne Corner,2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & Church Ave At Se Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & President St At Ne Corner,2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & Eastern Pkwy At Se Corner,3-4
+http://www.mta.info/nyct/service/,Marcy Ave & Myrtle Ave At Nw Corner,G
+http://www.mta.info/nyct/service/,Schenectady Ave & Eastern Pkwy At Ne Corner,3-4
+http://www.mta.info/nyct/service/,Utica Ave & Eastern Pkwy At Se Corner,3-4
+http://www.mta.info/nyct/service/,Broadway & Myrtle Ave At Nw Corner,J-Z
+http://www.mta.info/nyct/service/,Bedford Ave & N 7th St At Se Corner,L
+http://www.mta.info/nyct/service/,Union Ave & Flushing Ave At Ne Corner (To Queens Only),G
+http://www.mta.info/nyct/service/,Hewes St & Broadway At Ne Corner,J-M
+http://www.mta.info/nyct/service/,Union Ave & Metropolitan Ave At Se Corner,G-L
+http://www.mta.info/nyct/service/,Lorimer St & Broadway At Sw Corner,J-M
+http://www.mta.info/nyct/service/,Flushing Ave & Broadway At Se Corner,J-M
+http://www.mta.info/nyct/service/,Manhattan Ave & Norman Ave At Nw Corner,G
+http://www.mta.info/nyct/service/,Manhattan Ave & Nassau Ave At Nw Corner,G
+http://www.mta.info/nyct/service/,Graham Ave & Metropolitan Ave At Se Corner (To Canarsie Only),L
+http://www.mta.info/nyct/service/,Grand St & Bushwick Ave At Ne Corner (To Canarsie Only),L
+http://www.mta.info/nyct/service/,Morgan Ave & Harrison Pl At Sw Corner,L
+http://www.mta.info/nyct/service/,Manhattan Ave & India St At Se Corner,G
+http://www.mta.info/nyct/service/,Rutland Rd & E. 98th St At Ne Corner,3-4
+http://www.mta.info/nyct/service/,Saratoga Ave & Livonia Ave At Ne Corner,3-4
+http://www.mta.info/nyct/service/,Glenwood Rd & Rockaway Pkwy At Nw Corner,L
+http://www.mta.info/nyct/service/,Ralph Ave & Fulton St At Se Corner,A-C
+http://www.mta.info/nyct/service/,Hopkinson Ave & Fulton St At Nw Corner,A-C
+http://www.mta.info/nyct/service/,Palmetto St & Broadway At Sw Corner,J-Z
+http://www.mta.info/nyct/service/,Jefferson Ave & Broadway At Ne Corner,J
+http://www.mta.info/nyct/service/,Linden St & Broadway At Nw Corner,J-Z
+http://www.mta.info/nyct/service/,Snediker Ave & New York Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Alabama Av & Fulton St At Se Corner,J
+http://www.mta.info/nyct/service/,Pennsylvania Ave & Liberty Ave At Sw Corner,A-C
+http://www.mta.info/nyct/service/,Lirr Bay Ridge Divide & Wilson Ave At Nw Corner,L
+http://www.mta.info/nyct/service/,Van Siclen Ave & Pitkin Ave At Se Corner,A-C
+http://www.mta.info/nyct/service/,Ashford St & Livonia Av At Sw Corner,3-4
+http://www.mta.info/nyct/service/,Shepherd Ave & Pitkin Ave At Se Corner,A-C
+http://www.mta.info/nyct/service/,Euclid Ave & Pitkin Ave At Sw Corner,A-C-S
+http://www.mta.info/nyct/service/,Euclid Ave & Pitkin Ave At Nw Corner,A-C-S
+http://www.mta.info/nyct/service/,Starr St & Wyckoff Ave At Se Corner,L
+http://www.mta.info/nyct/service/,Dekalb Ave & Wycoff Ave At Se Corner,L
+http://www.mta.info/nyct/service/,Stanhope St & Wycoff Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Stanhope St & Wycoff Ave At Ne Corner,L
+http://www.mta.info/nyct/service/,Jefferson St & Wyckoff Ave At Nw Corner,L
+http://www.mta.info/nyct/service/,Starr St & Wyckoff Ave At Ne Corner,L
+http://www.mta.info/nyct/service/,Forest Ave & Myrtle Ave At Nw Corner,M
+http://www.mta.info/nyct/service/,62nd St & 67th Ave At Se Corner,M
+http://www.mta.info/nyct/service/,Britton Ave & Broadway At Nw Corner,E-M-R
+http://www.mta.info/nyct/service/,126th St & Roosevelt Ave At Nw Corner,7-7 Express
+http://www.mta.info/nyct/service/,126th St & Roosevelt Ave At Sw Corner,7-7 Express
+http://www.mta.info/nyct/service/,64th Rd & Queens Blvd At Nw Corner,E-M-R
+http://www.mta.info/nyct/service/,75th St & Jamaica At Nw Corner,J-Z
+http://www.mta.info/nyct/service/,104th St & Jamaica Ave At Ne Corner,J-Z
+http://www.mta.info/nyct/service/,Van Wyck Expwy & 89th Ave At Sw Corner,E
+http://www.mta.info/nyct/service/,Flushing Ave & Broadway At Se Corner,J-M
+http://www.mta.info/nyct/service/,Halsey St & Wycoff Ave At Sw Corner (To Canarsie Only),L
+http://www.mta.info/nyct/service/,Utica Ave & Fulton St At Nw Corner,A-C
+http://www.mta.info/nyct/service/,Washington Ave & Lafayette Ave At Ne Corner,G
+http://www.mta.info/nyct/service/,Clinton Ave & Lafayette Ave At Sw Corner,G
+http://www.mta.info/nyct/service/,Bedford Ave & Lafayette Ave At Se Corner,G
+http://www.mta.info/nyct/service/,Bedford Ave & Lafayette Ave At Nw Corner,G
+http://www.mta.info/nyct/service/,Utica Ave & Eastern Pkwy At Se Corner,3-4
+http://www.mta.info/nyct/service/,St. Pauls Pl & Caton Ave At Se Corner,B-Q
+http://www.mta.info/nyct/service/,8th St & Surf Ave At Nw Corner,F-Q
+http://www.mta.info/nyct/service/,4th Ave & 10th St At Nw Corner,D-F-G-N-R
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue J At Nw Corner,F
+http://www.mta.info/nyct/service/,Main St & Utah St At Nw Corner,@
+http://www.mta.info/nyct/service/,Tracy Av & Arthur Kill Rd At Nw Corner,@
+http://www.mta.info/nyct/service/,90th St & Roosevelt Ave At Nw Corner,7
+http://www.mta.info/nyct/service/,Woodhaven Blvd & Queens Blvd At Sw Corner,E-M-R
+http://www.mta.info/nyct/service/,Horace Harding Expwy & Queens Blvd At Ne Corner,E-M-R
+http://www.mta.info/nyct/service/,103rd St & Roosevelt Ave At Se Corner,7
+http://www.mta.info/nyct/service/,67th Ave & Queens Blvd At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,71st & Queens Blvd At Ne Corner,E-F-M-R
+http://www.mta.info/nyct/service/,Union Tpke & Queens Blvd At Se Corner,E-F
+http://www.mta.info/nyct/service/,75th & Queens Blvd At Nw Corner (To Manhattan And Brooklyn Only),E-F
+http://www.mta.info/nyct/service/,Union Tpke & Queens Blvd At Nw Corner,E-F
+http://www.mta.info/nyct/service/,Main St & Roosevelt Ave At Se Corner,7-7 Express
+http://www.mta.info/nyct/service/,Main St & Roosevelt Ave At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,Van Wyck Blvd & Queens Blvd At Sw Corner (To Jamaica Only),E-F
+http://www.mta.info/nyct/service/,Van Wyck Expwy & Jamaica Ave At Nw Corner,E
+http://www.mta.info/nyct/service/,Sutphin Blvd & Archer Ave At Nw Corner,E-J-Z
+http://www.mta.info/nyct/service/,Sutphin Blvd & Hillside Ave At Se Corner,F
+http://www.mta.info/nyct/service/,153rd St & Hillside Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,Parsons Blvd & Hillside Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,168th St & Hillside Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,169th St & Hillside Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,169th St & Hillside Ave At Ne Corner,F
+http://www.mta.info/nyct/service/,179th St & Hillside Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,179th St & Hillside Ave At Se Corner,F
+http://www.mta.info/nyct/service/,180th St & Hillside Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,180th St & Hillside Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,Beach 22nd St & Mott Ave At Sw Corner,A
+http://www.mta.info/nyct/service/,Beach 106th St & Rockaway Frwy At Nw Corner,A-S
+http://www.mta.info/nyct/service/,Beach 106th St & Rockaway Frwy At Nw Corner,A-S
+http://www.mta.info/nyct/service/,Beach 98th St & Rockaway Frwy At Nw Corner,A-S
+http://www.mta.info/nyct/service/,Beach 67th St & Rockaway Frwy At Sw Corner,A
+http://www.mta.info/nyct/service/,Beach 69th St & Rockaway Frwy At Se Corner,A
+http://www.mta.info/nyct/service/,Beach 59th Sr & Rockaway Frwy At Sw Corner,A
+http://www.mta.info/nyct/service/,Beach 45th St & Edgemere Ave At Sw Corner,A
+http://www.mta.info/nyct/service/,Beach 45th St & Edgemere Ave At Ne Corner,A
+http://www.mta.info/nyct/service/,Beach 35th & Rockaway Frwy At Sw Corner,A
+http://www.mta.info/nyct/service/,Alabama Av & Fulton St At Se Corner,J
+http://www.mta.info/nyct/service/,Turnbull Ave & E 105th St At Se Corner,L
+http://www.mta.info/nyct/service/,8th Ave & 14th St At Sw Corner,A-C-E-L
+http://www.mta.info/nyct/service/,8th Ave & 14th St At Nw Corner,A-C-E-L
+http://www.mta.info/nyct/service/,8th Ave & 14th St At Ne Corner,A-C-E-L
+http://www.mta.info/nyct/service/,8th Ave & 15th St At Ne Corner,A-C-E-L
+http://www.mta.info/nyct/service/,8th Ave & 16th St At Se Corner,A-C-E-L
+http://www.mta.info/nyct/service/,8th Ave & 16th St At Ne Corner,A-C-E-L
+http://www.mta.info/nyct/service/,Fulton St & Nassau St At Ne Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,8th Ave & 23rd St At Sw Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 23rd St At Nw Corner,A-C-E
+http://www.mta.info/nyct/service/,6th Ave & 14th St At Sw Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,6th Ave & 14th St At Nw Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,6th Ave & 14th St At Se Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,6th Ave & 14th St At Se Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,6th Ave & 14th St At Ne Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,6th Ave & 16th St At Se Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,4th Ave & 14th St At Sw Corner,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 14th St At Sw Corner,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,4th Ave & 15th St At Sw Corner,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 16th St At Ne Corner,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 18th St At Nw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 18th St At Se Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 18th St At Nw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 18th St At Ne Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,8th Ave & 23rd St At Ne Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 24th St At Nw Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 25th St At Sw Corner,A-C-E
+http://www.mta.info/nyct/service/,Church St & Warren St At Se Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Broadway & Warren St At Ne Corner,N-R
+http://www.mta.info/nyct/service/,8th Ave & 25th St At Nw Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 25th St At Ne Corner,A-C-E
+http://www.mta.info/nyct/service/,7th Ave & 23rd St At Se Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 23rd St At Nw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 23rd St At Ne Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,6th Ave & 23rd St At Nw Corner (Downtown Only),F-M
+http://www.mta.info/nyct/service/,8th Ave & 33rd St At Sw Corner,A-C-E
+http://www.mta.info/nyct/service/,7th Ave & 28th St At Sw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 28th St At Ne Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 33rd St At Nw Corner,1-2-3
+http://www.mta.info/nyct/service/,7th Ave & 34th St At Se Corner,1-2-3
+http://www.mta.info/nyct/service/,8th Ave & 33rd St At Se Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 33rd St At Nw Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 34th St At Se Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 34th St At Nw Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 34th St At Ne Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 35th St At Nw Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 35th St At Ne Corner,A-C-E
+http://www.mta.info/nyct/service/,7th Ave & 34th St At Nw Corner,1-2-3
+http://www.mta.info/nyct/service/,8th Ave & 40th St At Ne Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,4th Ave & 14th St At Se Corner,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,3rd Ave & 14th St At Se Corner (To Brooklyn Only),L
+http://www.mta.info/nyct/service/,3rd Ave & 14th St At Ne Corner (To 8 Av Only),L
+http://www.mta.info/nyct/service/,1st Ave & 14th St At Se Corner (To Brooklyn Only),L
+http://www.mta.info/nyct/service/,1st Ave & 14th St At Se Corner (To Brooklyn Only),L
+http://www.mta.info/nyct/service/,1st Ave & 14th St At Ne Corner (To 8 Av Only),L
+http://www.mta.info/nyct/service/,Broadway & 22nd St At Nw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,5th Ave & 22nd St At Ne Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Chambers St & West Broadway At Sw Corner,1-2-3
+http://www.mta.info/nyct/service/,Chambers St & West Broadway At Se Corner,1-2-3
+http://www.mta.info/nyct/service/,Chambers St & West Broadway At Ne Corner,1-2-3
+http://www.mta.info/nyct/service/,Church St & Chambers St At Sw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Church St & Chambers St At Se Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Church St & Chambers St At Ne Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Varick St & Franklin St At Sw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,West Broadway & Franklin St At Sw Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Varick St & North Moore St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Canal St & Varick St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Broadway & 23rd St At Nw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Broadway & 23rd St At Se Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Broadway & 23rd St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Broadway & 23rd St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Park Ave & 23rd St At Sw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 23rd St At Sw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 23rd St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Broadway & 28th St At Nw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Broadway & 28th St At Se Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Park Ave & 23rd St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 28th St At Sw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 28th St At Nw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 28th St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 28th St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 32nd St At Sw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 32nd St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 33rd St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 33rd St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,6th Ave & 32nd St At Nw Corner,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 34th St At Nw Corner,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 32nd St At Ne Corner,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,6th Ave & 35th St At Nw Corner,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 40th St At Se Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 40th St At Ne Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,6th Ave & 40th St At Nw Corner,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 40th St At Se Corner,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,State St & Whitehall St At   Corner,N-R
+http://www.mta.info/nyct/service/,State & Battery Pl At Sw Corner,4-5
+http://www.mta.info/nyct/service/,Broadway & Battery Pl At Nw Corner,4-5
+http://www.mta.info/nyct/service/,Stone St & Whitehall St At Sw Corner,N-R
+http://www.mta.info/nyct/service/,Broadway & Bowling Green At Nw Corner,4-5
+http://www.mta.info/nyct/service/,Stone St & Whitehall St At Ne Corner,N-R
+http://www.mta.info/nyct/service/,Broad St & Exchange Pl At Sw Corner,J-Z
+http://www.mta.info/nyct/service/,Broad St & Exchange Pl At Se Corner,J-Z
+http://www.mta.info/nyct/service/,Greenwich St & Morris St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Greenwich St & Morris St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Greenwich St & Rector St At Sw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Trinity Pl & Rector St At Sw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Trinity Pl & Rector St At Sw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Trinity Pl & Rector St At Se Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Trinity Pl & Rector St At Nw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Trinity Pl & Rector St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Greenwich St & Rector St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Broadway & Rector St At Sw Corner,4-5
+http://www.mta.info/nyct/service/,Broadway & Rector St At Nw Corner,4-5
+http://www.mta.info/nyct/service/,Broadway & Rector St At Se Corner,4-5
+http://www.mta.info/nyct/service/,Broadway & Wall St At Se Corner,4-5
+http://www.mta.info/nyct/service/,Broad St & Exchange Pl At Nw Corner,J-Z
+http://www.mta.info/nyct/service/,Broad St & Exchange Pl At Se Corner,J-Z
+http://www.mta.info/nyct/service/,Broad St & Wall St At Se Corner,J-Z
+http://www.mta.info/nyct/service/,Church St & Cortlandt St At Se Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Church St & Cortlandt St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Church St & Dey St At Se Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Broad St & Wall St At Se Corner,J-Z
+http://www.mta.info/nyct/service/,William St & Wall St At Sw Corner,2-3
+http://www.mta.info/nyct/service/,William St & Wall St At Se Corner,2-3
+http://www.mta.info/nyct/service/,William St & Wall St At Nw Corner,2-3
+http://www.mta.info/nyct/service/,William St & Cedar St At Nw Corner,2-3
+http://www.mta.info/nyct/service/,Fulton St & Nassau St At Se Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,Broadway & Dey St At Sw Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,Church St & Fulton St At Ne Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Broadway & John St At Se Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,Broadway & Fulton St At Sw Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,Church St & Vesey St At Nw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Church St & Park Pl At Se Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Church St & Park Pl At Sw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Church St & Park Pl At Ne Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Church St & Murray St At Nw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,7th Ave & 12th St At Ne Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,7th Ave & 13th St At Nw Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,7th Ave & 14th St At Sw Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,7th Ave & 14th St At Se Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,40-33 21 Street,F
+http://www.mta.info/nyct/service/,908 Fulton Street (To Queens Only),A-C
+http://www.mta.info/nyct/service/,36 Bond Street,A-C-G
+http://www.mta.info/nyct/service/,27 Cleveland Place (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,137 East 42 Street (Enter From E 43 St),4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,481 8 Avenue,A-C-E
+http://www.mta.info/nyct/service/,368 Jay Street,A-C-F
+http://www.mta.info/nyct/service/,133 Greenpoint Avenue,G
+http://www.mta.info/nyct/service/,1745 Palmetto Street,M
+http://www.mta.info/nyct/service/,640 3 Avenue,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,Richmond Valley Rd & Richmond Valley Rd At Se Corner,@
+http://www.mta.info/nyct/service/,Weiner St & Richmond Valley Rd At Sw Corner,@
+http://www.mta.info/nyct/service/,Richmond Valley Rd & Amboy Rd At Nw Corner,@
+http://www.mta.info/nyct/service/,Amboy Rd & Penton St At Nw Corner,@
+http://www.mta.info/nyct/service/,Seguine Av & Herbert St At Ne Corner,@
+http://www.mta.info/nyct/service/,Belfield Av & N Railroad St At Sw Corner,@
+http://www.mta.info/nyct/service/,Richmond Av & Eltingville Bl At Se Corner,@
+http://www.mta.info/nyct/service/,Richmond Av & Mosely Av At Ne Corner,@
+http://www.mta.info/nyct/service/,Nelson Av & Brower St At Ne Corner,@
+http://www.mta.info/nyct/service/,Annadale Rd & N Railroad St At Sw Corner,@
+http://www.mta.info/nyct/service/,Bay Te & S Railroad Av At Ne Corner,@
+http://www.mta.info/nyct/service/,Oak Av & S Railroad Av At Nw Corner,@
+http://www.mta.info/nyct/service/,Guyon Av & N Railroad Av At Se Corner,@
+http://www.mta.info/nyct/service/,Rose Av & New Dorp Pz At   Corner,@
+http://www.mta.info/nyct/service/,Lincoln Av & N Railroad Av At Sw Corner,@
+http://www.mta.info/nyct/service/,Fremont Av & N Railroad Av At Sw Corner,@
+http://www.mta.info/nyct/service/,Jefferson Av & N Railroad Av At Sw Corner,@
+http://www.mta.info/nyct/service/,Seaview Av & Hancock St At Nw Corner,@
+http://www.mta.info/nyct/service/,Seaview Av & N Railroad Av At Sw Corner,@
+http://www.mta.info/nyct/service/,Seaview Av & Hancock St At Ne Corner,@
+http://www.mta.info/nyct/service/,Oregon Rd & Old Town Rd At Nw Corner,@
+http://www.mta.info/nyct/service/,Clove Rd & Hillcrest Te At Sw Corner,@
+http://www.mta.info/nyct/service/,Bay St & Townsend Av At Ne Corner,@
+http://www.mta.info/nyct/service/,Bay St & Cross St At Ne Corner,@
+http://www.mta.info/nyct/service/,Minthorne St & Victory Bl At Se Corner,@
+http://www.mta.info/nyct/service/,101 Church Avenue,F
+http://www.mta.info/nyct/service/,134 India Street,G
+http://www.mta.info/nyct/service/,1173 50 Street,D
+http://www.mta.info/nyct/service/,67-05 Fresh Pond Road,M
+http://www.mta.info/nyct/service/,1725 Broadway,J-Z
+http://www.mta.info/nyct/service/,125 East 77 Street (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,849a East 149 Street (To Manhattan Only),6
+http://www.mta.info/nyct/service/,45 Court Street,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,136-32 Roosevelt Avenue,7-7 Express
+http://www.mta.info/nyct/service/,10-51 Wyckoff Avenue (To Manhattan Only),L
+http://www.mta.info/nyct/service/,201 East 188 Street,B-D
+http://www.mta.info/nyct/service/,1100 6 Avenue,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,1 Madison Avenue (Enter On E 23 St) (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,41-41 Crescent Street,7-7 Express-N-Q
+http://www.mta.info/nyct/service/,973 8 Avenue,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,265 Broadway (To Manhattan Only),J-M-Z
+http://www.mta.info/nyct/service/,1654 77 Street,D
+http://www.mta.info/nyct/service/,233 Livonia Avenue,3-4
+http://www.mta.info/nyct/service/,1611 St Nicholas Avenue,1
+http://www.mta.info/nyct/service/,1673 79 Street,D
+http://www.mta.info/nyct/service/,1081 6 Avenue,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,390 6 Avenue,A-C-E-B-D-F-M
+http://www.mta.info/nyct/service/,741 St Nicholas Avenue,A-C-B-D
+http://www.mta.info/nyct/service/,4761 Broadway,A
+http://www.mta.info/nyct/service/,344 Graham Avenue (To Manhattan Only),L
+http://www.mta.info/nyct/service/,69 East 98 Street,3-4
+http://www.mta.info/nyct/service/,1518 Cortelyou Road,B-Q
+http://www.mta.info/nyct/service/,136-32 Roosevelt Avenue,7-7 Express
+http://www.mta.info/nyct/service/,100 Ditmas Avenue,F
+http://www.mta.info/nyct/service/,543 Metropolitan Avenue,G-L
+http://www.mta.info/nyct/service/,96-02 Liberty Avenue,A-S
+http://www.mta.info/nyct/service/,493 Clinton Avenue (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,7514 4 Avenue,R
+http://www.mta.info/nyct/service/,51 East 42 Street,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,3001 Foster Avenue (Enter (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Liberty St (Between 80 St And 81 St),A-S
+http://www.mta.info/nyct/service/,1663 Atlantic Avenue,A-C
+http://www.mta.info/nyct/service/,31 East 53 Street,E-M
+http://www.mta.info/nyct/service/,1280 Fulton Street (To Queens Only),A-C
+http://www.mta.info/nyct/service/,108-70 Roosevelt Avenue,7
+http://www.mta.info/nyct/service/,59-02 92 Street,E-M-R
+http://www.mta.info/nyct/service/,204 Broadway,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,551 Driggs Avenue,L
+http://www.mta.info/nyct/service/,131 East 60 Street,4-5-6-6 Express-N-Q-R
+http://www.mta.info/nyct/service/,819 8 Avenue,F
+http://www.mta.info/nyct/service/,5 Av (Between E 60 St And E 61 St),N-Q-R
+http://www.mta.info/nyct/service/,102 Brighton Beach Avenue,B-Q
+http://www.mta.info/nyct/service/,85 Cedar Street,M
+http://www.mta.info/nyct/service/,3001 Church Avenue (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,2042 Amsterdam Avenue (Downtown Only),A-C
+http://www.mta.info/nyct/service/,815 8 Avenue (Downtown Only),A-C-E
+http://www.mta.info/nyct/service/,235 Bushwick Avenue,L
+http://www.mta.info/nyct/service/,441 7 Avenue,1-2-3
+http://www.mta.info/nyct/service/,35 Hoyt Street,A-C-G
+http://www.mta.info/nyct/service/,3001 Avenue H,2-5
+http://www.mta.info/nyct/service/,179-36 Hillside Avenue,F
+http://www.mta.info/nyct/service/,1548 Bay Ridge Avenue,D
+http://www.mta.info/nyct/service/,Intersection Of Harrison Place And Bogart Street,L
+http://www.mta.info/nyct/service/,37 East 32 Street (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,45 Court Street,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,126 Fulton Street,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,1550 71 Street,D
+http://www.mta.info/nyct/service/,138 East 68 Street,4-6-6 Express
+http://www.mta.info/nyct/service/,104-02 116 Street,A-S
+http://www.mta.info/nyct/service/,392 7 Avenue,1-2-3
+http://www.mta.info/nyct/service/,69 John Street,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,92-17 Jamaica Avenue,J-Z
+http://www.mta.info/nyct/service/,23 Avenue I,F
+http://www.mta.info/nyct/service/,1261 6 Avenue,B-D-F-M
+http://www.mta.info/nyct/service/,82-55 Broadway,E-M-R
+http://www.mta.info/nyct/service/,1605 Palmetto Street,L-M
+http://www.mta.info/nyct/service/,168-02 Hillside Avenue,F
+http://www.mta.info/nyct/service/,4405 New Utrecht Avenue,D
+http://www.mta.info/nyct/service/,189 Broadway,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,280 Park Avenue South (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,30 Rockefeller Plaza,B-D-F-M
+http://www.mta.info/nyct/service/,764 5 Avenue,N-Q-R
+http://www.mta.info/nyct/service/,463 Bergen Street (To New Lots And Flatbush Only),2-3-4
+http://www.mta.info/nyct/service/,299 Broadway (To Manhattan Only),J-M-Z
+http://www.mta.info/nyct/service/,137 East 52 Street,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,33 East 42 Street,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,902 6 Avenue,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,326 7 Avenue,F
+http://www.mta.info/nyct/service/,11 East 42 Street,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,1561 Broadway,J
+http://www.mta.info/nyct/service/,6908 New Utrecht Avenue,D
+http://www.mta.info/nyct/service/,1231 Nostrand Avenue (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,78 Clinton Street,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,361 Classon Avenue,G
+http://www.mta.info/nyct/service/,2 Hemlock Street,J
+http://www.mta.info/nyct/service/,1029 Mc Donald Avenue,F
+http://www.mta.info/nyct/service/,300 Broadway,J-M-Z
+http://www.mta.info/nyct/service/,1039 44 Street,D
+http://www.mta.info/nyct/service/,1260 6 Avenue,B-D-F-M
+http://www.mta.info/nyct/service/,10-34 Wyckoff Avenue (To Canarsie Only),L
+http://www.mta.info/nyct/service/,4 Ave (Between 35 St And 36 St),D-N-R
+http://www.mta.info/nyct/service/,628 Manhattan Avenue,G
+http://www.mta.info/nyct/service/,6th Ave & 35th St At Se Corner,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,6th Ave & 35th St At Ne Corner,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 40th St At Sw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 40th St At Se Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,6th Ave & 40th St At Sw Corner,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,South St & Whitehall St At Ne Corner,N-R
+http://www.mta.info/nyct/service/,State St & Whitehall St At   Corner,N-R
+http://www.mta.info/nyct/service/,Broadway & Battery Pl At Nw Corner,4-5
+http://www.mta.info/nyct/service/,Stone St & Whitehall St At Nw Corner,N-R
+http://www.mta.info/nyct/service/,Water St & Whitehall St At Se Corner,N-R
+http://www.mta.info/nyct/service/,Broad St & Exchange Pl At Sw Corner,J-Z
+http://www.mta.info/nyct/service/,Greenwich St & Morris St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Trinity Pl & Exchange Alley At Nw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Trinity Pl & Rector St At Nw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Trinity Pl & Rector St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Greenwich St & Rector St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Broadway & Rector St At Nw Corner,4-5
+http://www.mta.info/nyct/service/,Broadway & Rector St At Sw Corner,4-5
+http://www.mta.info/nyct/service/,Broadway & Wall St At Se Corner,4-5
+http://www.mta.info/nyct/service/,Broad St & Wall St At Sw Corner,J-Z
+http://www.mta.info/nyct/service/,Broad St & Wall St At Sw Corner,J-Z
+http://www.mta.info/nyct/service/,Church St & Dey St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,West Broadway & Vesey St At Se Corner,1
+http://www.mta.info/nyct/service/,Nassau St & Cedar St At Se Corner,J-Z
+http://www.mta.info/nyct/service/,William St & Wall St At Ne Corner,2-3
+http://www.mta.info/nyct/service/,John St & Nassau St At Ne Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,William St & Fulton St At Sw Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,Church St & Vesey St At Se Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Broadway & Dey St At Nw Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,Broadway & Fulton St At Nw Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,Church St & Barclay St At Sw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Church St & Park Pl At Nw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Church St & Murray St At Sw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,7th Ave & 12th St At Nw Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,7th Ave & 13th St At Ne Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,7th Ave & 14th St At Nw Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,1276 Fulton Street (To Queens Only),A-C
+http://www.mta.info/nyct/service/,2152 Fulton Street,A-C
+http://www.mta.info/nyct/service/,770 Livonia Avenue,3-4
+http://www.mta.info/nyct/service/,40-01 111 Street,7
+http://www.mta.info/nyct/service/,111 East 50 Street,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,300 7 Avenue (Downtown Only),1-2
+http://www.mta.info/nyct/service/,109-04 Liberty Avenue,A-S
+http://www.mta.info/nyct/service/,101 Brighton Beach Avenue,B-Q
+http://www.mta.info/nyct/service/,Bethel Av & St Andrew's Pl At Nw Corner,@
+http://www.mta.info/nyct/service/,Richmond Valley Rd & Amboy Rd At Ne Corner,@
+http://www.mta.info/nyct/service/,Amboy Rd & Station Av At Sw Corner,@
+http://www.mta.info/nyct/service/,Seguine Av & Waterbury Av At Se Corner,@
+http://www.mta.info/nyct/service/,E Tenafly Av & S Railroad St At Nw Corner,@
+http://www.mta.info/nyct/service/,Giffords La & Baltimore St At Sw Corner,@
+http://www.mta.info/nyct/service/,Huguenot Av & West Te At Se Corner,@
+http://www.mta.info/nyct/service/,Justin Av & S Railroad Av At Nw Corner,@
+http://www.mta.info/nyct/service/,Cedarview Av & N Railroad Av At Se Corner,@
+http://www.mta.info/nyct/service/,New Dorp La & New Dorp Pz At   Corner,@
+http://www.mta.info/nyct/service/,Fremont Av & S Railroad Av At Nw Corner,@
+http://www.mta.info/nyct/service/,Jefferson Av & S Railroad Av At Nw Corner,@
+http://www.mta.info/nyct/service/,Garretson Av & Hancock St At Nw Corner,@
+http://www.mta.info/nyct/service/,N Railroad Av & Old Town Rd At Ne Corner,@
+http://www.mta.info/nyct/service/,Bay St & Norwood Av At Se Corner,@
+http://www.mta.info/nyct/service/,Bay St & Hannah St At Ne Corner,@
+http://www.mta.info/nyct/service/,146-18 Hillside Avenue,F
+http://www.mta.info/nyct/service/,39-23 103 Street,7
+http://www.mta.info/nyct/service/,625 Livonia Avenue,3-4
+http://www.mta.info/nyct/service/,2843 Church Avenue (To Flatbush Only),2-5
+http://www.mta.info/nyct/service/,574 Lorimer Street,G-L
+http://www.mta.info/nyct/service/,158 Greenpoint Avenue,G
+http://www.mta.info/nyct/service/,36 Lawrence Avenue (Enter From Parkville Av),F
+http://www.mta.info/nyct/service/,51 Clark Street,2-3
+http://www.mta.info/nyct/service/,969 62 Street (Enter From Ft Hamilton Py),N
+http://www.mta.info/nyct/service/,1623 De Kalb Avenue,L
+http://www.mta.info/nyct/service/,949 8 Avenue,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,884 3 Avenue (Enter On E 53 St),4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,107-31 71 Avenue,E-F-M-R
+http://www.mta.info/nyct/service/,Intersection Of Parsons Block And Archer Avenue,E-J-Z
+http://www.mta.info/nyct/service/,40-02 Junction Boulevard,7-7 Express
+http://www.mta.info/nyct/service/,Staten Island Ferry Terminal,@
+http://www.mta.info/nyct/service/,3069 Brighton 7 Street,B-Q
+http://www.mta.info/nyct/service/,6003 4 Avenue,N-R
+http://www.mta.info/nyct/service/,1340 Greene Avenue,M
+http://www.mta.info/nyct/service/,1 Federal Reserve Plaza,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,7 Bentley Street,@
+http://www.mta.info/nyct/service/,368 Jay Street,A-C-F
+http://www.mta.info/nyct/service/,179-30 Hillside Avenue,F
+http://www.mta.info/nyct/service/,1605 Palmetto Street,L-M
+http://www.mta.info/nyct/service/,1506 Avenue J,B-Q
+http://www.mta.info/nyct/service/,240 Canal Street,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,242 West 34 Street,1-2-3
+http://www.mta.info/nyct/service/,2914 Beverly Road (To Flatbush Only),2-5
+http://www.mta.info/nyct/service/,586 Lafayette Avenue,G
+http://www.mta.info/nyct/service/,38-23 69 Street,7
+http://www.mta.info/nyct/service/,101 East 41 Street,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,657 Carlton Avenue,B-Q
+http://www.mta.info/nyct/service/,137 East 42 Street,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,824 7 Avenue,B-D-E
+http://www.mta.info/nyct/service/,462 Flatbush Avenue,B-Q-S
+http://www.mta.info/nyct/service/,1030 Longwood Avenue (To Pelham Bay Pk Only),6
+http://www.mta.info/nyct/service/,125 East 86 Street (Downtown Only),4-5-6-6 Express
+http://www.mta.info/nyct/service/,3327 Fulton Street,J-Z
+http://www.mta.info/nyct/service/,4941 Broadway,A
+http://www.mta.info/nyct/service/,700 Pelham Parkway South,2-5
+http://www.mta.info/nyct/service/,93-18 Liberty Avenue,A-S
+http://www.mta.info/nyct/service/,692 Parkside Avenue (To Flatbush Only),2-5
+http://www.mta.info/nyct/service/,1842 Nostrand Avenue (To Flatbush Only),2-5
+http://www.mta.info/nyct/service/,25-04 Brookhaven Avenue,A
+http://www.mta.info/nyct/service/,902 8 Avenue,F
+http://www.mta.info/nyct/service/,75-06 Jamaica Avenue,J-Z
+http://www.mta.info/nyct/service/,9-91 Wyckoff Avenue (To Manhattan Only),L
+http://www.mta.info/nyct/service/,1289 Fulton Street (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,40-15 75 Street,7-E-F-M-R
+http://www.mta.info/nyct/service/,250 Brook Avenue (To Manhattan Only),6
+http://www.mta.info/nyct/service/,4910 New Utrecht Avenue,D
+http://www.mta.info/nyct/service/,7102 16 Avenue,D
+http://www.mta.info/nyct/service/,170 Marcy Avenue (To Manhattan Only),J-M-Z
+http://www.mta.info/nyct/service/,103 8 Avenue,A-C-E-L
+http://www.mta.info/nyct/service/,957 Fulton Street (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,2222 Pitkin Avenue,A-C
+http://www.mta.info/nyct/service/,42-01 28 Street,E-M-R
+http://www.mta.info/nyct/service/,2084 Fulton Street,A-C
+http://www.mta.info/nyct/service/,104 Van Siclen Avenue,J-Z
+http://www.mta.info/nyct/service/,101 East 41 Street,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,116 Delancey Street,F-J-M-Z
+http://www.mta.info/nyct/service/,1331 Broadway,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,956 Mc Donald Avenue,F
+http://www.mta.info/nyct/service/,107 East 42 Street,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,28 East 53 Street,E-M
+http://www.mta.info/nyct/service/,128 William Street,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,1713 Church Avenue,B-Q
+http://www.mta.info/nyct/service/,53-02 Roosevelt Avenue,7
+http://www.mta.info/nyct/service/,1518 Avenue H,B-Q
+http://www.mta.info/nyct/service/,1551 71 Street,D
+http://www.mta.info/nyct/service/,214 Cleveland Street,J
+http://www.mta.info/nyct/service/,111-37 75 Avenue (To Jamaica Only),E-F
+http://www.mta.info/nyct/service/,3000 Church Avenue (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,183 Bedford Avenue,L
+http://www.mta.info/nyct/service/,623 Manhattan Avenue,G
+http://www.mta.info/nyct/service/,95 Bushwick Avenue (To Manhattan Only),L
+http://www.mta.info/nyct/service/,43 East 41 Street,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,815 8 Avenue (Downtown Only),A-C-E
+http://www.mta.info/nyct/service/,441 7 Avenue (Corner Of Broadway And W 35 St),B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,7 Times Square,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,378 6 Avenue,A-C-E-B-D-F-M
+http://www.mta.info/nyct/service/,93-01 Sutphin Boulevard,E-J-Z
+http://www.mta.info/nyct/service/,1 Boerum Street,G
+http://www.mta.info/nyct/service/,41-31 53 Street,7
+http://www.mta.info/nyct/service/,81-20 Roosevelt Avenue,7
+http://www.mta.info/nyct/service/,401 7 Avenue,1-2-3
+http://www.mta.info/nyct/service/,275 Kings Highway,N
+http://www.mta.info/nyct/service/,302 Broadway (To Queens And Canarsie Only),J-M-Z
+http://www.mta.info/nyct/service/,1 Greene Avenue (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,368 Jay Street,A-C-F
+http://www.mta.info/nyct/service/,105-02 86 Street,A-S
+http://www.mta.info/nyct/service/,394 Broadway,J-M
+http://www.mta.info/nyct/service/,88-01 180 Street,F
+http://www.mta.info/nyct/service/,2848 Church Avenue (To Flatbush Only),2-5
+http://www.mta.info/nyct/service/,88-04 Liberty Avenue,A-S
+http://www.mta.info/nyct/service/,118-16 Liberty Avenue,A-S
+http://www.mta.info/nyct/service/,624 Livonia Avenue,3-4
+http://www.mta.info/nyct/service/,632 Ashford Street,3-4
+http://www.mta.info/nyct/service/,47 East 22 Street (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,38-10 Junction Boulevard,7-7 Express
+http://www.mta.info/nyct/service/,40-02 75 Street,7-E-F-M-R
+http://www.mta.info/nyct/service/,9 Kew Gardens Road,E-F
+http://www.mta.info/nyct/service/,48-02 Broadway (To Jamaica Only),E-M-R
+http://www.mta.info/nyct/service/,40-01 Junction Boulevard,7-7 Express
+http://www.mta.info/nyct/service/,1282 Broadway,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,469 Bergen Street (To Manhattan Only),2-3-4
+http://www.mta.info/nyct/service/,742 7 Avenue (Downtown Only),N-Q-R
+http://www.mta.info/nyct/service/,54-00 Myrtle Avenue,L-M
+http://www.mta.info/nyct/service/,1492 Fulton Street (To Queens Only),A-C
+http://www.mta.info/nyct/service/,52 East 32 Street (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,3180 Broadway,1
+http://www.mta.info/nyct/service/,69 John Street,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,1512 Beverly Road,B-Q
+http://www.mta.info/nyct/service/,1772 Broadway,J-Z
+http://www.mta.info/nyct/service/,2059 Fulton Street,A-C
+http://www.mta.info/nyct/service/,34-02 Steinway Street,E-M-R
+http://www.mta.info/nyct/service/,Oxford St & Fulton Ave At Ne Corner (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,1627 Broadway (Downtown Only),1-2
+http://www.mta.info/nyct/service/,Nostrand Ave & Flatbush Ave At Ne Corner,2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & Flatbush Ave At Nw Corner,2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & Flatbush Ave At Se Corner,2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & Newkirk Ave At Sw Corner (To Flatbush Only),2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & Church Ave At Nw Corner (To Flatbush Only),2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & Sterling St At Nw Corner,2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & President St At Nw Corner,2-5
+http://www.mta.info/nyct/service/,Nostrand Ave & Eastern Pkwy At Sw Corner,3-4
+http://www.mta.info/nyct/service/,Kingston Ave & Eastern Pkwy At Sw Corner,3-4
+http://www.mta.info/nyct/service/,Kingston Ave & Eastern Pkwy At Se Corner,3-4
+http://www.mta.info/nyct/service/,Schenectady Ave & Eastern Pkwy At Se Corner,3-4
+http://www.mta.info/nyct/service/,Utica Ave & Eastern Pkwy At Sw Corner,3-4
+http://www.mta.info/nyct/service/,Utica Ave & Eastern Pkwy At Nw Corner,3-4
+http://www.mta.info/nyct/service/,Utica Ave & Eastern Pkwy At Nw Corner,3-4
+http://www.mta.info/nyct/service/,Patchen Ave & Broadway At Sw Corner,J
+http://www.mta.info/nyct/service/,Patchen Ave & Broadway At Ne Corner,J
+http://www.mta.info/nyct/service/,Union Ave & Flushing Ave At Sw Corner (To Downtown Brooklyn Only),G
+http://www.mta.info/nyct/service/,Hooper St & Broadway At Nw Corner,J-M
+http://www.mta.info/nyct/service/,Hewes St & Broadway At Se Corner,J-M
+http://www.mta.info/nyct/service/,Union Ave & Metropolitan Ave At Ne Corner,G-L
+http://www.mta.info/nyct/service/,Union Ave & Metropolitan Ave At Sw Corner,G-L
+http://www.mta.info/nyct/service/,Moore St & Broadway At Sw Corner,J-M
+http://www.mta.info/nyct/service/,Moore St & Broadway At Nw Corner,J-M
+http://www.mta.info/nyct/service/,Lorimer St & Broadway At Nw Corner,J-M
+http://www.mta.info/nyct/service/,Flushing Ave & Broadway At Nw Corner,J-M
+http://www.mta.info/nyct/service/,Manhattan Ave & Greenpoint Ave At Sw Corner,G
+http://www.mta.info/nyct/service/,Manhattan Ave & Norman Ave At Ne Corner,G
+http://www.mta.info/nyct/service/,Graham Ave & Metropolitan Ave At Nw Corner (To Canarsie Only),L
+http://www.mta.info/nyct/service/,Graham Ave & Metropolitan Ave At Sw Corner (To Manhattan Only),L
+http://www.mta.info/nyct/service/,Montrose Ave & Bushwick Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Grand St & Bushwick Ave At Nw Corner (To Canarsie Only),L
+http://www.mta.info/nyct/service/,Grand St & Bushwick Ave At Sw Corner (To Manhattan Only),L
+http://www.mta.info/nyct/service/,Myrtle Ave & Cedar St At Nw Corner,M
+http://www.mta.info/nyct/service/,Morgan Ave & Harrison Pl At Se Corner,L
+http://www.mta.info/nyct/service/,Morgan Ave & Harrison Pl At Ne Corner,L
+http://www.mta.info/nyct/service/,Rutland Rd & E. 98th St At Sw Corner,3-4
+http://www.mta.info/nyct/service/,Saratoga Ave & Livonia Ave At Sw Corner,3-4
+http://www.mta.info/nyct/service/,Saratoga Ave & Livonia Ave At Se Corner,3-4
+http://www.mta.info/nyct/service/,Rockaway Ave & Livonia Ave At Se Corner,3-4
+http://www.mta.info/nyct/service/,Powell St & Livonia Ave At Sw Corner,3-4
+http://www.mta.info/nyct/service/,Powell St & Livonia Ave At Sw Corner,3-4
+http://www.mta.info/nyct/service/,Ralph Ave & Mac Dougal St At Ne Corner,A-C
+http://www.mta.info/nyct/service/,Ralph Ave & Fulton St At Ne Corner,A-C
+http://www.mta.info/nyct/service/,Rockaway Ave & Fulton St At Nw Corner,A-C
+http://www.mta.info/nyct/service/,Palmetto St & Broadway At Nw Corner,J-Z
+http://www.mta.info/nyct/service/,Jefferson Ave & Broadway At Se Corner,J
+http://www.mta.info/nyct/service/,Linden St & Broadway At Sw Corner,J-Z
+http://www.mta.info/nyct/service/,Weirfield St & Broadway At Se Corner,J
+http://www.mta.info/nyct/service/,Chauncey St & Broadway At Ne Corner,J-Z
+http://www.mta.info/nyct/service/,Snediker Ave & New York Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Snediker Ave & New York Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Georgia Av & Fulton St At Sw Corner,J
+http://www.mta.info/nyct/service/,Pennsylvania Ave & Liberty Ave At Se Corner,A-C
+http://www.mta.info/nyct/service/,Pennsylvania Ave & Liberty Ave At Ne Corner,A-C
+http://www.mta.info/nyct/service/,Van Siclen Ave & Livonia Ave At Nw Corner,3-4
+http://www.mta.info/nyct/service/,Van Siclen Ave & Pitkin Ave At Nw Corner,A-C
+http://www.mta.info/nyct/service/,Van Siclen Ave & Pitkin Ave At Ne Corner,A-C
+http://www.mta.info/nyct/service/,Shepherd Ave & Pitkin Ave At Nw Corner,A-C
+http://www.mta.info/nyct/service/,Shepherd Ave & Pitkin Ave At Sw Corner,A-C
+http://www.mta.info/nyct/service/,Shepherd Ave & Pitkin Ave At Ne Corner,A-C
+http://www.mta.info/nyct/service/,Norwood Ave & Fulton St At Ne Corner,J-Z
+http://www.mta.info/nyct/service/,Euclid Ave & Pitkin Ave At Se Corner,A-C-S
+http://www.mta.info/nyct/service/,Euclid Ave & Pitkin Ave At Ne Corner,A-C-S
+http://www.mta.info/nyct/service/,Pine St & Fulton St At Se Corner,J-Z
+http://www.mta.info/nyct/service/,Myrtle Ave & Greene Ave At Se Corner,M
+http://www.mta.info/nyct/service/,Dekalb Ave & Wycoff Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Dekalb Ave & Wycoff Ave At Ne Corner,L
+http://www.mta.info/nyct/service/,Stanhope St & Wycoff Ave At Se Corner,L
+http://www.mta.info/nyct/service/,Stanhope St & Wycoff Ave At Nw Corner,L
+http://www.mta.info/nyct/service/,Jefferson St & Wyckoff Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Starr St & Wyckoff Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Starr St & Wyckoff Ave At Nw Corner,L
+http://www.mta.info/nyct/service/,Forest Ave & Myrtle Ave At Sw Corner,M
+http://www.mta.info/nyct/service/,Fulton St & Van Sinderen Ave At Sw Corner,A-C-J-Z-L
+http://www.mta.info/nyct/service/,De Sales Pl & Bushwick Ave At Nw Corner,L
+http://www.mta.info/nyct/service/,Elmhurst Ave & Broadway At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,Main St & Roosevelt Ave At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,126th St & Roosevelt Ave At Nw Corner,7-7 Express
+http://www.mta.info/nyct/service/,126th St & Roosevelt Ave At Nw Corner,7-7 Express
+http://www.mta.info/nyct/service/,Elmhurst Ave & Broadway At Sw Corner,E-M-R
+http://www.mta.info/nyct/service/,63rd Dr & Queens Blvd At Sw Corner,E-M-R
+http://www.mta.info/nyct/service/,64th Rd & Queens Blvd At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,63rd Rd & Queens Blvd At Sw Corner,E-M-R
+http://www.mta.info/nyct/service/,104th St & Jamaica Ave At Se Corner,J-Z
+http://www.mta.info/nyct/service/,158th St & Archer Ave At Sw Corner,E-J-Z
+http://www.mta.info/nyct/service/,Parsons Blvd & Archer Ave At Ne Corner,E-J-Z
+http://www.mta.info/nyct/service/,Marcy Ave & Broadway At Sw Corner (To Queens And Canarsie Only),J-M-Z
+http://www.mta.info/nyct/service/,George St & Wycoff Ave At Ne Corner (To Manhattan Only),L
+http://www.mta.info/nyct/service/,Halsey St & Wycoff Ave At Se Corner (To Canarsie Only),L
+http://www.mta.info/nyct/service/,Portland Ave & Fulton Ave At Nw Corner (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,Clinton Ave & Fulton Ave At Se Corner (To Queens Only),A-C
+http://www.mta.info/nyct/service/,Throop Ave & Fulton St At Nw Corner (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,Utica Ave & Fulton St At Sw Corner,A-C
+http://www.mta.info/nyct/service/,Stuyvesant Ave & Fulton St At Nw Corner,A-C
+http://www.mta.info/nyct/service/,Washington Ave & Lafayette Ave At Se Corner,G
+http://www.mta.info/nyct/service/,Clinton Ave & Lafayette Ave At Ne Corner,G
+http://www.mta.info/nyct/service/,Classon Ave & Lafayette Ave At Nw Corner,G
+http://www.mta.info/nyct/service/,Bedford Ave & Lafayette Ave At Ne Corner,G
+http://www.mta.info/nyct/service/,Bedford Ave & Lafayette Ave At Sw Corner,G
+http://www.mta.info/nyct/service/,Union Ave & Broadway At Sw Corner,G
+http://www.mta.info/nyct/service/,Union Ave & Broadway At Se Corner,G
+http://www.mta.info/nyct/service/,8th St & 86th St At Se Corner,N
+http://www.mta.info/nyct/service/,Ocean Ave & Parkside Ave At Ne Corner,B-Q
+http://www.mta.info/nyct/service/,15th St & Avenue H At Se Corner,B-Q
+http://www.mta.info/nyct/service/,Nostrand Ave & Flatbush Ave At Ne Corner,2-5
+http://www.mta.info/nyct/service/,Prospect Expwy & Fort Hamilton Pkwy At Nw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & 18th Ave At Se Corner,F
+http://www.mta.info/nyct/service/,5th Ave & 95th St At Ne Corner,R
+http://www.mta.info/nyct/service/,Grand Concourse & 138th St At Ne Corner,4-5
+http://www.mta.info/nyct/service/,Main St & Ellis St At Sw Corner,@
+http://www.mta.info/nyct/service/,& Ellis St At S Corner,@
+http://www.mta.info/nyct/service/,74th St & Roosevelt Ave At Ne Corner,7-E-F-M-R
+http://www.mta.info/nyct/service/,82nd St & Roosevelt Ave At Nw Corner,7
+http://www.mta.info/nyct/service/,90th St & Roosevelt Ave At Se Corner,7
+http://www.mta.info/nyct/service/,90th St & Roosevelt Ave At Ne Corner,7
+http://www.mta.info/nyct/service/,Woodhaven Blvd & Queens Blvd At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,Junction Blvd & Roosevelt Ave At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,103rd St & Roosevelt Ave At Se Corner,7
+http://www.mta.info/nyct/service/,67th Dr & Queens Blvd At Sw Corner,E-M-R
+http://www.mta.info/nyct/service/,67th Dr & Queens Blvd At Nw Corner,E-M-R
+http://www.mta.info/nyct/service/,67th Ave & Queens Blvd At Ne Corner,E-M-R
+http://www.mta.info/nyct/service/,71st & Queens Blvd At Se Corner,E-F-M-R
+http://www.mta.info/nyct/service/,108th St & Queens Blvd At Nw Corner,E-F-M-R
+http://www.mta.info/nyct/service/,Union Tpke & Queens Blvd At Se Corner,E-F
+http://www.mta.info/nyct/service/,Union Tpke & Queens Blvd At Ne Corner,E-F
+http://www.mta.info/nyct/service/,75th Rd & Queens Blvd At Se Corner (To Jamaica Only),E-F
+http://www.mta.info/nyct/service/,Union Tpke & Queens Blvd At Nw Corner,E-F
+http://www.mta.info/nyct/service/,Union Tpke & Queens Blvd At Sw Corner,E-F
+http://www.mta.info/nyct/service/,Main St & Roosevelt Ave At Sw Corner,7-7 Express
+http://www.mta.info/nyct/service/,Main St & Roosevelt Ave At Nw Corner,7-7 Express
+http://www.mta.info/nyct/service/,Main St & Roosevelt Ave At Se Corner,7-7 Express
+http://www.mta.info/nyct/service/,Main St & Roosevelt Ave At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,Main St & Roosevelt Ave At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,Van Wyck Blvd & Queens Blvd At Se Corner (To Jamaica Only),E-F
+http://www.mta.info/nyct/service/,84th Rd & Queens Blvd At Ne Corner (To Manhattan Only),E-F
+http://www.mta.info/nyct/service/,144th St & Hillside Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,Sutphin Blvd & Archer Ave At Sw Corner,E-J-Z
+http://www.mta.info/nyct/service/,Sutphin Blvd & Archer Ave At Ne Corner,E-J-Z
+http://www.mta.info/nyct/service/,Sutphin Blvd & Hillside Ave At Ne Corner,F
+http://www.mta.info/nyct/service/,153rd St & Archer Ave At Ne Corner,E-J-Z
+http://www.mta.info/nyct/service/,153rd St & Hillside Ave At Se Corner,F
+http://www.mta.info/nyct/service/,153rd St & Hillside Ave At Ne Corner,F
+http://www.mta.info/nyct/service/,Parsons Blvd & Hillside Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,Parsons Blvd & Archer Ave At Ne Corner,E-J-Z
+http://www.mta.info/nyct/service/,168th St & Hillside Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,169th St & Hillside Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,169th St & Hillside Ave At Se Corner,F
+http://www.mta.info/nyct/service/,179th St & Hillside Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,179th St & Hillside Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,179th St & Hillside Ave At Ne Corner,F
+http://www.mta.info/nyct/service/,179th St & Hillside Ave At Ne Corner,F
+http://www.mta.info/nyct/service/,179th Pl & Hillside Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,180th St & Hillside Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,Midland Pkwy & Hillside Ave At Ne Corner,F
+http://www.mta.info/nyct/service/,Beach 116th St & Wainwright Ct At Ne Corner,A-S
+http://www.mta.info/nyct/service/,Beach 106th St & Rockaway Frwy At Sw Corner,A-S
+http://www.mta.info/nyct/service/,Beach 106th St & Rockaway Frwy At Sw Corner,A-S
+http://www.mta.info/nyct/service/,Beach 106th St & Rockaway Frwy At Nw Corner,A-S
+http://www.mta.info/nyct/service/,Beach 98th St & Rockaway Frwy At Sw Corner,A-S
+http://www.mta.info/nyct/service/,Beach 90th St & Rockaway Frwy At Ne Corner,A-S
+http://www.mta.info/nyct/service/,Beach 89th St & Rockaway Frwy At Nw Corner,A-S
+http://www.mta.info/nyct/service/,Beach 67th St & Rockaway Frwy At Nw Corner,A
+http://www.mta.info/nyct/service/,Beach 67th St & Rockaway Frwy At Sw Corner,A
+http://www.mta.info/nyct/service/,Beach 60th St & Rockaway Frwy At Se Corner,A
+http://www.mta.info/nyct/service/,Beach 60th St & Rockaway Frwy At Ne Corner,A
+http://www.mta.info/nyct/service/,Beach 59th Sr & Rockaway Frwy At Nw Corner,A
+http://www.mta.info/nyct/service/,Beach 59th St & Rockaway Frwy At Se Corner,A
+http://www.mta.info/nyct/service/,Beach 44th St & Edgemere Ave At Sw Corner,A
+http://www.mta.info/nyct/service/,Beach 44th St & Edgemere Ave At Nw Corner,A
+http://www.mta.info/nyct/service/,Beach 36th & Edgemere Ave At Ne Corner,A
+http://www.mta.info/nyct/service/,Beach 35th & Rockaway Frwy At Nw Corner,A
+http://www.mta.info/nyct/service/,Georgia Av & Fulton St At Sw Corner,J
+http://www.mta.info/nyct/service/,South Portland Ave & Fulton St At Nw Corner,G
+http://www.mta.info/nyct/service/,South Portland Ave & Fulton St At Sw Corner,G
+http://www.mta.info/nyct/service/,Grant Ave & Pitkin Ave At Ne Corner,A-S
+http://www.mta.info/nyct/service/,77th St & Liberty Ave At Se Corner,A-S
+http://www.mta.info/nyct/service/,Crescent St & Jamaica Ave At Ne Corner,J
+http://www.mta.info/nyct/service/,85th St & Jamaica Ave At Ne Corner,J
+http://www.mta.info/nyct/service/,103rd St & 159th Ave At Se Corner,A
+http://www.mta.info/nyct/service/,80th St & Liberty Ave At Se Corner,A-S
+http://www.mta.info/nyct/service/,Van Sinderen Ave & New Lots Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Lirr Bay Ridge Divide & Sutter Ave At Nw Corner,L
+http://www.mta.info/nyct/service/,Fort Greene Pl & Lafayette Ave At Nw Corner,G
+http://www.mta.info/nyct/service/,86th St & Liberty Ave At Nw Corner,A-S
+http://www.mta.info/nyct/service/,94th St & Liberty Ave At Nw Corner,A-S
+http://www.mta.info/nyct/service/,85th St & Jamaica Ave At Se Corner,J
+http://www.mta.info/nyct/service/,99th Pl & Hawtree St At Ne Corner,A
+http://www.mta.info/nyct/service/,102nd St & Liberty Ave At Nw Corner,A-S
+http://www.mta.info/nyct/service/,104th St & Liberty Ave At Se Corner,A-S
+http://www.mta.info/nyct/service/,111th St & Jamaica Blvd At Ne Corner,J
+http://www.mta.info/nyct/service/,111th St & Liberty Ave At Se Corner,A-S
+http://www.mta.info/nyct/service/,111th St & Liberty Ave At Ne Corner,A-S
+http://www.mta.info/nyct/service/,121st St & Jamaica Ave At Sw Corner,J-Z
+http://www.mta.info/nyct/service/,111th St & Jamaica Blvd At Se Corner,J
+http://www.mta.info/nyct/service/,123rd St & Jamaica Ave At Se Corner,J-Z
+http://www.mta.info/nyct/service/,4th Ave & 95th St At Sw Corner,R
+http://www.mta.info/nyct/service/,4th Ave & 93th St At Sw Corner,R
+http://www.mta.info/nyct/service/,4th Ave & 86th St At Sw Corner,R
+http://www.mta.info/nyct/service/,4th Ave & 85th St At Sw Corner,R
+http://www.mta.info/nyct/service/,4th Ave & 77th St At Nw Corner,R
+http://www.mta.info/nyct/service/,18th Ave & 85th St At Se Corner,D
+http://www.mta.info/nyct/service/,20th Ave & 86th St At Sw Corner,D
+http://www.mta.info/nyct/service/,New Utrecht Ave & 77th St At Ne Corner,D
+http://www.mta.info/nyct/service/,20th Ave & 86th St At Ne Corner,D
+http://www.mta.info/nyct/service/,Bay Pkwy & 86th St At Sw Corner,D
+http://www.mta.info/nyct/service/,Bay Pkwy & 86th St At Nw Corner,D
+http://www.mta.info/nyct/service/,Bay Pkwy & 86th St At Ne Corner,D
+http://www.mta.info/nyct/service/,11th Ave & 62nd St At Nw Corner,N
+http://www.mta.info/nyct/service/,New Utrecht Ave & 62nd St At Se Corner,D-N
+http://www.mta.info/nyct/service/,14th Ave & 61st St At Nw Corner,D-N
+http://www.mta.info/nyct/service/,14th Ave & 61st St At Nw Corner,D-N
+http://www.mta.info/nyct/service/,New Utrecht Ave & 55th St At Sw Corner,D
+http://www.mta.info/nyct/service/,New Utrecht Ave & 55th St At Ne Corner,D
+http://www.mta.info/nyct/service/,Stillwell Ave & Surf Ave At Ne Corner,D-F-N-Q
+http://www.mta.info/nyct/service/,8th St & Surf Ave At Nw Corner,F-Q
+http://www.mta.info/nyct/service/,West 6th St & Neptune Ave At Ne Corner,F
+http://www.mta.info/nyct/service/,Stillwell Ave & Bay 50th St At Sw Corner,D
+http://www.mta.info/nyct/service/,Stillwell Ave & Bay 50th St At Sw Corner,D
+http://www.mta.info/nyct/service/,Stillwell Ave & Bay 50th St At Se Corner,D
+http://www.mta.info/nyct/service/,25th Ave & 86th St At Se Corner,D
+http://www.mta.info/nyct/service/,25th Ave & 86th St At Ne Corner,D
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue X At Nw Corner,F
+http://www.mta.info/nyct/service/,8th St & Avenue U At Ne Corner,N
+http://www.mta.info/nyct/service/,Ocean Pkwy & Brighton Beach Rd At Nw Corner,Q
+http://www.mta.info/nyct/service/,Ocean Pkwy & Brighton Beach Rd At Nw Corner,Q
+http://www.mta.info/nyct/service/,Branch 6 St & Brighton Beach Rd At Sw Corner,B-Q
+http://www.mta.info/nyct/service/,Branch 6 St & Brighton Beach Rd At Nw Corner,B-Q
+http://www.mta.info/nyct/service/,Branch 6 St & Brighton Beach Rd At Nw Corner,B-Q
+http://www.mta.info/nyct/service/,Branch 7 St & Brighton Beach Rd At Se Corner,B-Q
+http://www.mta.info/nyct/service/,Mcdonald Ave & Gravesend Neck Rd At Sw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue U At Sw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue U At Se Corner,F
+http://www.mta.info/nyct/service/,7th St & Highlawn Ave At Sw Corner,N
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue N At Nw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue N At Ne Corner,F
+http://www.mta.info/nyct/service/,20th Ave & 64th St At Ne Corner,N
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue M At Se Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Bay Pkwy At Sw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Bay Pkwy At Nw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue S At Ne Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Kings Hwy At Sw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue P At Sw Corner,F
+http://www.mta.info/nyct/service/,15th St & Kings Hwy At Se Corner,B-Q
+http://www.mta.info/nyct/service/,15th St & Kings Hwy At Se Corner,B-Q
+http://www.mta.info/nyct/service/,15th St & Avenue M At Se Corner,B-Q
+http://www.mta.info/nyct/service/,15th St & Avenue J At Se Corner,B-Q
+http://www.mta.info/nyct/service/,14th St & Voorhies Ave At Ne Corner,B-Q
+http://www.mta.info/nyct/service/,15th St & Gravesend Neck Rd At Ne Corner,B-Q
+http://www.mta.info/nyct/service/,15th St & Avenue U At Ne Corner,B-Q
+http://www.mta.info/nyct/service/,4th Ave & Bay Ridge Ave At Nw Corner,R
+http://www.mta.info/nyct/service/,4th Ave & 68th St At Nw Corner,R
+http://www.mta.info/nyct/service/,4th Ave & 59th St At Nw Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 59th St At Ne Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 59th St At Ne Corner,N-R
+http://www.mta.info/nyct/service/,8th Ave & 62nd St At Nw Corner,N
+http://www.mta.info/nyct/service/,4th Ave & 53rd St At Se Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 53rd St At Sw Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 45th St At Nw Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 45th St At Nw Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 45th St At Ne Corner,N-R
+http://www.mta.info/nyct/service/,New Utrecht Ave & 45th St At Nw Corner,D
+http://www.mta.info/nyct/service/,New Utrecht Ave & 44th St At Ne Corner,D
+http://www.mta.info/nyct/service/,4th Ave & 36th St At Nw Corner,D-N-R
+http://www.mta.info/nyct/service/,4th Ave & 25th St At Sw Corner (To Bay Ridge And Coney Island Only),D-N-R
+http://www.mta.info/nyct/service/,4th Ave & Prospect Ave At Se Corner (To Bay Ridge And Coney Island Onl,D-N-R
+http://www.mta.info/nyct/service/,4th Ave & Prospect Ave At Sw Corner (To Manhattan Only),D-N-R
+http://www.mta.info/nyct/service/,Smith St & 9th St At Ne Corner,F-G
+http://www.mta.info/nyct/service/,Mcdonald Ave & Ditmas Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Cortelyou Rd At Se Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Church Ave At Sw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Albemarle Rd At Sw Corner,F
+http://www.mta.info/nyct/service/,Prospect Ave & Greenwood Ave At Ne Corner,F
+http://www.mta.info/nyct/service/,Prospect Ave & Reeve Pl At Se Corner,F
+http://www.mta.info/nyct/service/,Prospect Park West & 16th St At Ne Corner,F
+http://www.mta.info/nyct/service/,Howard Pl & Windsor Pl At Ne Corner,F
+http://www.mta.info/nyct/service/,Prospect Park West & Prospect Park Southwest At Ne Corner,F
+http://www.mta.info/nyct/service/,Prospect Park West & 14th St At Sw Corner,F
+http://www.mta.info/nyct/service/,Ocean Ave & Woodruff Ave At Nw Corner,B-Q
+http://www.mta.info/nyct/service/,4th Ave & 9th St At Nw Corner,D-F-G-N-R
+http://www.mta.info/nyct/service/,4th Ave & 9th St At Ne Corner,D-F-G-N-R
+http://www.mta.info/nyct/service/,7th Ave & 9th St At Se Corner,F
+http://www.mta.info/nyct/service/,8th Ave & 9th St At Se Corner,F
+http://www.mta.info/nyct/service/,Portland Ave & Fulton Ave At Se Corner (To Queens Only),A-C
+http://www.mta.info/nyct/service/,Portland Ave & Fulton Ave At Ne Corner (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,Oxford St & Fulton Ave At Sw Corner (To Queens Only),A-C
+http://www.mta.info/nyct/service/,Fort Washington Ave & Margaret Corbin Dr At Se Corner,A
+http://www.mta.info/nyct/service/,Hillside Ave & Nagle Ave At Sw Corner,1
+http://www.mta.info/nyct/service/,Hillside Ave & Nagle Ave At Sw Corner,1
+http://www.mta.info/nyct/service/,Broadway & Dyckman St At Se Corner,A
+http://www.mta.info/nyct/service/,Broadway & Dyckman St At Se Corner,A
+http://www.mta.info/nyct/service/,Broadway & Dyckman St At Ne Corner,A
+http://www.mta.info/nyct/service/,Broadway & 207th St At Sw Corner,A
+http://www.mta.info/nyct/service/,Broadway & 207th St At Sw Corner,A
+http://www.mta.info/nyct/service/,10th Ave & 207th St At Se Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,10th Ave & 207th St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Broadway & Isham St At Nw Corner,A
+http://www.mta.info/nyct/service/,10th Ave & 215th St At Sw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,10th Ave & 215th St At Se Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,10th Ave & 215th St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Broadway & 225th St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Broadway & 231st St At Sw Corner (To Manhattan Only),1
+http://www.mta.info/nyct/service/,Broadway & 231st St At Se Corner (To Van Cortlandt Pk Only),1
+http://www.mta.info/nyct/service/,Broadway & 231st St At Nw Corner (To Manhattan Only),1
+http://www.mta.info/nyct/service/,Broadway & 238th St At Sw Corner (To Manhattan Only),1
+http://www.mta.info/nyct/service/,Broadway & 238th St At Se Corner (To Van Cortlandt Pk Only),1
+http://www.mta.info/nyct/service/,Broadway & 242nd St At Nw Corner,1
+http://www.mta.info/nyct/service/,Broadway & 242nd St At Ne Corner,1
+http://www.mta.info/nyct/service/,Hunter St & 44th Ave At Sw Corner,E-G-M
+http://www.mta.info/nyct/service/,21st St & 44th Ave At Ne Corner,E-G-M
+http://www.mta.info/nyct/service/,23rd St & 45th Rd At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,Broadway & 66th St At Se Corner,1-2
+http://www.mta.info/nyct/service/,Broadway & 72nd St At Ne Corner,1-2-3
+http://www.mta.info/nyct/service/,Lexington Ave & 86th St At Se Corner (Uptown Only),4-5-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 86th St At Ne Corner (Uptown Only),4-5-6-6 Express
+http://www.mta.info/nyct/service/,Fort Washington Ave & 185th St At Se Corner,A
+http://www.mta.info/nyct/service/,Broadway & 190th St At Ne Corner,1
+http://www.mta.info/nyct/service/,Lincoln Ave & 138th St At Se Corner,6-6 Express
+http://www.mta.info/nyct/service/,3rd Ave & 138th St At Ne Corner,6-6 Express
+http://www.mta.info/nyct/service/,Alexander Ave & 138th St At Sw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Alexander Ave & 138th St At Nw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Grand Concourse & 149th St At Sw Corner,2-4-5
+http://www.mta.info/nyct/service/,Grand Concourse & 149th St At Sw Corner,2-4-5
+http://www.mta.info/nyct/service/,Grand Conccourse & 149th St At Se Corner,2-4-5
+http://www.mta.info/nyct/service/,River Ave & 161st St At Sw Corner,4-B-D
+http://www.mta.info/nyct/service/,River Ave & 161st St At Sw Corner,4-B-D
+http://www.mta.info/nyct/service/,River Ave & 161st St At Se Corner,4-B-D
+http://www.mta.info/nyct/service/,River Ave & 161st St At Nw Corner,4-B-D
+http://www.mta.info/nyct/service/,River Ave & 161st St At Ne Corner,4-B-D
+http://www.mta.info/nyct/service/,Brook Ave & 138th St At Se Corner (To Pelham Bay Pk Only),6
+http://www.mta.info/nyct/service/,Cypress Ave & 138th St At Sw Corner (To Pelham Bay Pk Only),6
+http://www.mta.info/nyct/service/,Cypress Ave & 138th St At Ne Corner (To Manhattan Only),6
+http://www.mta.info/nyct/service/,Cypress Ave & 138th St At Ne Corner (To Manhattan Only),6
+http://www.mta.info/nyct/service/,3rd Ave & 149th St At Se Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Melrose Ave & 149th St At Nw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Walton Ave & 161st St At Nw Corner,4-B-D
+http://www.mta.info/nyct/service/,Walton Ave & 161st St At Nw Corner,4-B-D
+http://www.mta.info/nyct/service/,Southern Blvd & St Mary's St At Sw Corner (To Manhattan Only),6
+http://www.mta.info/nyct/service/,Southern Blvd & St Mary's St At Nw Corner (To Manhattan Only),6
+http://www.mta.info/nyct/service/,Southern Blvd & St Mary's St At Ne Corner (To Pelham Bay Pk Only),6
+http://www.mta.info/nyct/service/,Southern Blvd & 149th St At Se Corner (To Pelham Bay Pk Only),6
+http://www.mta.info/nyct/service/,River Ave & 161st St At Sw Corner,4-B-D
+http://www.mta.info/nyct/service/,River Ave & 161st St At Sw Corner,4-B-D
+http://www.mta.info/nyct/service/,Beach 25th St & Rockaway Frwy At Nw Corner,A
+http://www.mta.info/nyct/service/,Southern Blvd & 149th St At Nw Corner (To Manhattan Only),6
+http://www.mta.info/nyct/service/,Jackson Ave & 152nd St At Ne Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Jackson Ave & Westchester Ave At Ne Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Westchester & 160th St At Sw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Prospect Ave & Longwood Ave At Ne Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Prospect Ave & 160th St At Nw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Southern Blvd & Longwood Ave At Sw Corner (To Manhattan Only),6
+http://www.mta.info/nyct/service/,Westchester Ave & Simpson St At Sw Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Westchester Ave & Simpson St At Nw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Westchester Ave & Simpson St At Ne Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Hunts Point Ave & 163rd St At Sw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Hunts Point Ave & 163rd St At Se Corner,6-6 Express
+http://www.mta.info/nyct/service/,Whitlock Ave & Westchester Ave At Sw Corner,6
+http://www.mta.info/nyct/service/,Elder Ave & Westchester Ave At Sw Corner,6
+http://www.mta.info/nyct/service/,Elder Ave & Westchester Ave At Ne Corner,6
+http://www.mta.info/nyct/service/,River Ave & 167th St At Ne Corner,4
+http://www.mta.info/nyct/service/,River Ave & 167th St At Nw Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & Mcclellan St At Se Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & Mcclellan St At Sw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 167th St At Se Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 167th St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & 170th St At Sw Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & 170th St At Se Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & 170th St At Sw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 170th St At Se Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 171st St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & Cross Bronx Expwy At Sw Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & 174th St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 174th St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & 176th St At Nw Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & 176th St At Se Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & 175th St At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Southern Blvd & Freeman St At Nw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Jerome Ave & Burnside Ave At Sw Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & Echo Pl At Sw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & Echo Pl At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 179th St At Sw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 179th St At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & Burnside Ave At Se Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & 182nd St At Se Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 182nd St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & 183rd St At Sw Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & 183rd St At Nw Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & 188th St At Sw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 188th St At Se Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & Fordham Rd At Sw Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Fordham Rd At Se Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & Fordham Rd At Se Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & Fordham Rd At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & Kingsbridge Rd At Ne Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Kingsbridge Rd At Ne Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & Kingsbridge Rd At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & Kingsbridge Rd At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 196th St At Se Corner,B-D
+http://www.mta.info/nyct/service/,Southern Blvd & Freeman St At Se Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Southern Blvd & Freeman St At Ne Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Boston Rd & 174th St At Nw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Boston Rd & 174th St At Se Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Boston Rd & E Tremont Ave At Nw Corner,2-5
+http://www.mta.info/nyct/service/,Boston Rd & E Tremont Ave At Ne Corner,2-5
+http://www.mta.info/nyct/service/,Boston Rd & 178th St At Se Corner,2-5
+http://www.mta.info/nyct/service/,Morrison Ave & Westchester Ave At Sw Corner,6
+http://www.mta.info/nyct/service/,Morrison Ave & Westchester Ave At Nw Corner,6
+http://www.mta.info/nyct/service/,St Lawrence Ave & Westchester Ave At Ne Corner,6
+http://www.mta.info/nyct/service/,Metropolitan Ave & Westchester Ave At Nw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Birchall Ave & Sagamore St At Se Corner,2-5
+http://www.mta.info/nyct/service/,Birchall Ave & Sagamore St At Ne Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & Pelham Pkwy At Sw Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & Pelham Pkwy At Nw Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & Pelham Pkwy At Ne Corner,2-5
+http://www.mta.info/nyct/service/,Seymour Ave & Gun Hill Rd At Se Corner,5
+http://www.mta.info/nyct/service/,Jerome Ave & Bedford Park Blvd At Sw Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & Bedford Park Blvd At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 203rd St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Bainbridge Ave & 205th St At Ne Corner,D
+http://www.mta.info/nyct/service/,Perry Ave & 205th St At Nw Corner,D
+http://www.mta.info/nyct/service/,Jerome Ave & Mosholu Pkwy At Sw Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Mosholu Pkwy At Se Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Mosholu Pkwy At Sw Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Mosholu Pkwy At Nw Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Mosholu Pkwy At Ne Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Bainbridge Ave At Se Corner,4
+http://www.mta.info/nyct/service/,White Plains Rd & Burke Ave At Nw Corner,2-5
+http://www.mta.info/nyct/service/,White Plains & Burke Ave At Se Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & 211th St At Sw Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & 219th St At Nw Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & 225th St At Sw Corner,2-5
+http://www.mta.info/nyct/service/,Baychester Ave & Tillotson Ave At Nw Corner,5
+http://www.mta.info/nyct/service/,White Plains Rd & 225th St At Se Corner,2-5
+http://www.mta.info/nyct/service/,Castle Hill Ave & Westchester Ave At Ne Corner,6-6 Express
+http://www.mta.info/nyct/service/,Westchester Ave & Zerega Ave At Nw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Westchester Ave & Ferris Pl At Sw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Westchester Ave & Middletown Rd At Nw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Edison Ave & Westchester Ave At Se Corner,6-6 Express
+http://www.mta.info/nyct/service/,Edison Ave & Westchester Ave At Ne Corner,6-6 Express
+http://www.mta.info/nyct/service/,Burr Ave & Westchester Ave At Se Corner,6-6 Express
+http://www.mta.info/nyct/service/,White Plains Rd & 233rd St At Se Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & Nereid Ave At Se Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & 241st St At Se Corner,2
+http://www.mta.info/nyct/service/,Broadway & 242nd St At Nw Corner,1
+http://www.mta.info/nyct/service/,Melrose Ave & 149th St At Sw Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Melrose Ave & 149th St At Nw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,3rd Ave & 149th St At Se Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Intervale Ave & Westchester Ave At Se Corner,2-5
+http://www.mta.info/nyct/service/,Westchester Ave & Simpson St At Ne Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Morris Park Ave & 180th St At Nw Corner,2-5
+http://www.mta.info/nyct/service/,Dyre Ave & Light St At Ne Corner,5
+http://www.mta.info/nyct/service/,River Ave & 161st St At Ne Corner,4-B-D
+http://www.mta.info/nyct/service/,73rd St & Broadway At Sw Corner,7-E-F-M-R
+http://www.mta.info/nyct/service/,63rd Rd & Queens Blvd At Ne Corner,E-M-R
+http://www.mta.info/nyct/service/,75th St & Broadway At Se Corner,7-E-F-M-R
+http://www.mta.info/nyct/service/,54th St & Queens Blvd At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,54th St & Queens Blvd At Ne Corner,E-M-R
+http://www.mta.info/nyct/service/,Broadway & Queens Blvd At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,Court St & Joralemon St At Sw Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,Jay St & Willoughby St At Nw Corner,A-C-F
+http://www.mta.info/nyct/service/,Jay St & Willoughby St At Nw Corner,A-C-F
+http://www.mta.info/nyct/service/,Jay St & Metrotech Walk At Sw Corner,A-C-F
+http://www.mta.info/nyct/service/,Jay St & Metrotech Walk At Se Corner,A-C-F
+http://www.mta.info/nyct/service/,Jay St & Fulton St At Nw Corner,A-C-F
+http://www.mta.info/nyct/service/,Jay St & Fulton St At Ne Corner,A-C-F
+http://www.mta.info/nyct/service/,Flatbush Ave & De Kalb Ave At Se Corner,B-D-N-Q-R
+http://www.mta.info/nyct/service/,Ashland Pl & Hanson Pl At Se Corner,2-3-4-5-B-D-N-Q-R
+http://www.mta.info/nyct/service/,Flatbush Ave & Plaza Street East At Se Corner,2-3-4
+http://www.mta.info/nyct/service/,Flatbush Ave & Plaza Street West At Nw Corner,2-3-4
+http://www.mta.info/nyct/service/,Franklin Ave & Park Pl At Nw Corner,S
+http://www.mta.info/nyct/service/,Franklin Ave & Fulton St At Ne Corner,A-C-S
+http://www.mta.info/nyct/service/,Flatbush Ave & Livingston St At Nw Corner,2-3-4-5
+http://www.mta.info/nyct/service/,Flatbush Ave & Livingston St At Ne Corner,2-3-4-5
+http://www.mta.info/nyct/service/,Vernon Blvd & 50th Ave At Sw Corner (To Flushing Only),7-7 Express
+http://www.mta.info/nyct/service/,Vernon Blvd & 50th Ave At Sw Corner (To Flushing Only),7-7 Express
+http://www.mta.info/nyct/service/,Vernon Blvd & 50th Ave At Ne Corner (To Manhattan Only),7-7 Express
+http://www.mta.info/nyct/service/,Jackson Ave & 50th Ave At Se Corner (To Flushing Only),7-7 Express
+http://www.mta.info/nyct/service/,Jackson Ave & 50th Ave At Ne Corner (To Manhattan Only),7-7 Express
+http://www.mta.info/nyct/service/,Jackson Ave & 47th Ave At Sw Corner,G
+http://www.mta.info/nyct/service/,Jackson Ave & 47th Ave At Nw Corner,G
+http://www.mta.info/nyct/service/,23rd St & 45th Rd At Nw Corner,7-7 Express
+http://www.mta.info/nyct/service/,Jackson Ave & 45th Rd At Nw Corner,E-G-M
+http://www.mta.info/nyct/service/,Jackson Ave & 45th Ave At Nw Corner,E-G-M
+http://www.mta.info/nyct/service/,21st St & 44th Ave At Se Corner,E-G-M
+http://www.mta.info/nyct/service/,33rd St & Queens Blvd At Nw Corner,7
+http://www.mta.info/nyct/service/,33rd St & Queens Blvd At Se Corner,7
+http://www.mta.info/nyct/service/,33rd St & Queens Blvd At Ne Corner,7
+http://www.mta.info/nyct/service/,34th St & Queens Blvd At Nw Corner,7
+http://www.mta.info/nyct/service/,Queens Plaza South & 27th St At Sw Corner,7-7 Express-N-Q
+http://www.mta.info/nyct/service/,Jackson Ave & Queens Blvd At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,Northern Blvd & 41st Ave At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,31st St & 39th Ave At Se Corner,N-Q
+http://www.mta.info/nyct/service/,34th St & Northern Blvd At Sw Corner (To Jamaica Only),E-M-R
+http://www.mta.info/nyct/service/,35th St & 38th Ave At Ne Corner (To Manhattan And Brooklyn Only),E-M-R
+http://www.mta.info/nyct/service/,36th St & Northern Blvd At Se Corner (To Jamaica Only),E-M-R
+http://www.mta.info/nyct/service/,31st St & 36th Ave At Sw Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & 36th Ave At Nw Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & Broadway At Se Corner,N-Q
+http://www.mta.info/nyct/service/,40th St & Queens Blvd At Sw Corner (To Flushing Only),7
+http://www.mta.info/nyct/service/,40th St & Queens Blvd At Nw Corner (To Manhattan Only),7
+http://www.mta.info/nyct/service/,40th St & Queens Blvd At Ne Corner (To Manhattan Only),7
+http://www.mta.info/nyct/service/,46th St & Queens Blvd At Sw Corner,7
+http://www.mta.info/nyct/service/,46th St & Queens Blvd At Se Corner,7
+http://www.mta.info/nyct/service/,47th St & Queens Blvd At Sw Corner,7
+http://www.mta.info/nyct/service/,47th St & Queens Blvd At Nw Corner,7
+http://www.mta.info/nyct/service/,52nd St & Roosevelt Ave At Nw Corner,7
+http://www.mta.info/nyct/service/,Steinway St & Broadway At Sw Corner,E-M-R
+http://www.mta.info/nyct/service/,Steinway St & Broadway At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,46th St & Broadway At Nw Corner (To Manhattan And Brooklyn Only),E-M-R
+http://www.mta.info/nyct/service/,48th St & Newtown Rd At Ne Corner (To Manhattan And Brooklyn Only),E-M-R
+http://www.mta.info/nyct/service/,61st St & Roosevelt Ave At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,54th St & Northern Blvd At Nw Corner (To Jamaica Only),E-M-R
+http://www.mta.info/nyct/service/,54th St & Broadway At Sw Corner (To Manhattan And Brooklyn Only),E-M-R
+http://www.mta.info/nyct/service/,65th St & Broadway At Ne Corner,E-M-R
+http://www.mta.info/nyct/service/,31st St & 30th Ave At Se Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & 30th Ave At Ne Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & Hoyt Ave South At Sw Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & Hoyt Ave North At Nw Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & Hoyt Ave North At Ne Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & 23rd Ave At Ne Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & 23rd Ave At Nw Corner,N-Q
+http://www.mta.info/nyct/service/,21st St & 41st Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,21st St & 41st Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,Broadway & 65th St At Sw Corner,1-2
+http://www.mta.info/nyct/service/,Broadway & 66th St At Sw Corner,1-2
+http://www.mta.info/nyct/service/,Broadway & 72nd St At Se Corner,1-2-3
+http://www.mta.info/nyct/service/,Central Park West & 70th St At Sw Corner,A-C-B
+http://www.mta.info/nyct/service/,Central Park West & 72nd St At Nw Corner,A-C-B
+http://www.mta.info/nyct/service/,Broadway & 79th St At Sw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,Broadway & 79th St At Nw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,Broadway & 79th St At Ne Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,Broadway & 86th St At Se Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,Broadway & 86th St At Nw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,Lexington Ave & 68th St At Sw Corner,4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 68th St At Nw Corner,4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 68th St At Ne Corner,4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 77th St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 77th St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 77th St At Sw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 77th St At Sw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 77th St At Nw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Central Park West & 81st St At Sw Corner,A-C-B
+http://www.mta.info/nyct/service/,Central Park West & 81st St At Nw Corner,A-C-B
+http://www.mta.info/nyct/service/,Central Park West & 86th St At Sw Corner,A-C-B
+http://www.mta.info/nyct/service/,Central Park West & 86th St At Nw Corner,A-C-B
+http://www.mta.info/nyct/service/,Central Park West & 88th St At Nw Corner,A-C-B
+http://www.mta.info/nyct/service/,Broadway & 96th St At Sw Corner,1-2-3
+http://www.mta.info/nyct/service/,Broadway & 96th St At Se Corner,1-2-3
+http://www.mta.info/nyct/service/,Broadway & 96th St At Sw Corner,1-2-3
+http://www.mta.info/nyct/service/,Broadway & 96th St At Se Corner,1-2-3
+http://www.mta.info/nyct/service/,Central Park West & 96th St At Sw Corner,A-C-B
+http://www.mta.info/nyct/service/,Central Park West & 97th St At Sw Corner,A-C-B
+http://www.mta.info/nyct/service/,Broadway & 103rd St At Nw Corner,1
+http://www.mta.info/nyct/service/,214 North 7 Street,L
+http://www.mta.info/nyct/service/,Broadway & 103rd St At Ne Corner,1
+http://www.mta.info/nyct/service/,Broadway & 103rd St At Nw Corner,1
+http://www.mta.info/nyct/service/,Broadway & Cathedral Pkwy At Se Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Broadway & Cathedral Pkwy At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Central Park West & 103rd St At Nw Corner,A-C-B
+http://www.mta.info/nyct/service/,Frederick Douglass Blvd & 109th St At Ne Corner,A-C-B
+http://www.mta.info/nyct/service/,Frederick Douglass Blvd & Cathedral Pkwy At Sw Corner,A-C-B
+http://www.mta.info/nyct/service/,Broadway & 116th St At Nw Corner,1
+http://www.mta.info/nyct/service/,Broadway & 116th St At Nw Corner,1
+http://www.mta.info/nyct/service/,Broadway & 116th St At Ne Corner,1
+http://www.mta.info/nyct/service/,Broadway & Tiemann Pl At Nw Corner,1
+http://www.mta.info/nyct/service/,Lexington Ave & 86th St At Sw Corner (Downtown Only),4-5-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 86th St At Nw Corner (Downtown Only),4-5-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 96th St At Sw Corner,4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 96th St At Se Corner,4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 96th St At Nw Corner,4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 110th St At Sw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Beach 25th St & Rockaway Frwy At Sw Corner,A
+http://www.mta.info/nyct/service/,Lexington Ave & 110th St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Frederick Douglass Blvd & 116th St At Sw Corner (Downtown Only),A-C-B
+http://www.mta.info/nyct/service/,Frederick Douglass Blvd & 116th St At Se Corner (Uptown Only),A-C-B
+http://www.mta.info/nyct/service/,Lenox Ave & 111th St At Nw Corner,2-3
+http://www.mta.info/nyct/service/,Lenox Ave & 116th St At Sw Corner (Downtown Only),2-3
+http://www.mta.info/nyct/service/,Lenox Ave & 116th St At Se Corner (Uptown Only),2-3
+http://www.mta.info/nyct/service/,Lenox Ave & 116th St At Ne Corner (Uptown Only),2-3
+http://www.mta.info/nyct/service/,Frederick Douglass Blvd & 116th St At Ne Corner (Uptown Only),A-C-B
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 125th St At Sw Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 125th St At Nw Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 125th St At Ne Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 126th St At Nw Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 127th St At Sw Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Lexington Ave & 116th St At Sw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 116th St At Nw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 116th St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lenox Ave & 125th St At Se Corner (Uptown Only),2-3
+http://www.mta.info/nyct/service/,Lenox Ave & 125th St At Ne Corner (Uptown Only),2-3
+http://www.mta.info/nyct/service/,Broadway & 137th St At Sw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Broadway & 137th St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Broadway & 137th St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Broadway & 145th St At Sw Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Broadway & 145th St At Nw Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 135th St At Sw Corner (Downtown Only),A-C-B
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 135th St At Sw Corner (Uptown Only),A-C-B
+http://www.mta.info/nyct/service/,Edgecombe Ave & 135th St At Ne Corner (Uptown Only),A-C-B
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 137th St At Se Corner (Uptown Only),A-C-B
+http://www.mta.info/nyct/service/,Lenox Ave & 135th St At Sw Corner (Downtown Only),2-3
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 145th St At Nw Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 145th St At Ne Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 146th St At Nw Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Lexington Ave & 125th St At Sw Corner,4-5-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 125th St At Se Corner,4-5-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 125th St At Ne Corner,4-5-6-6 Express
+http://www.mta.info/nyct/service/,Lenox Ave & 135th St At Nw Corner (Downtown Only),2-3
+http://www.mta.info/nyct/service/,Lenox Ave & 135th St At Ne Corner (Uptown Only),2-3
+http://www.mta.info/nyct/service/,Lenox Ave & 145th St At Se Corner (Exit Only),3
+http://www.mta.info/nyct/service/,Lenox Ave & 145th St At Nw Corner (Downtown Only),3
+http://www.mta.info/nyct/service/,Adam C. Powell Blvd & 149th St At Ne Corner,3
+http://www.mta.info/nyct/service/,Broadway & 157th St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 155th St At Sw Corner,A-C
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 155th St At Sw Corner,A-C
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 155th St At Nw Corner,A-C
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 155th St At Nw Corner,A-C
+http://www.mta.info/nyct/service/,Broadway & 157th St At Se Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Amsterdam Ave & 161st St At Se Corner (Downtown Only),A-C
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 161st St At Ne Corner (Uptown Only),A-C
+http://www.mta.info/nyct/service/,Broadway & 168th St At Sw Corner,1-A-C
+http://www.mta.info/nyct/service/,Broadway & 168th St At Se Corner,1-A-C
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 169th St At Nw Corner,1-A-C
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 169th St At Nw Corner,1-A-C
+http://www.mta.info/nyct/service/,Fort Washington Ave & 175th St At Sw Corner,A
+http://www.mta.info/nyct/service/,Fort Washington Ave & 175th St At Se Corner,A
+http://www.mta.info/nyct/service/,Fort Washington Ave & 177th St At Sw Corner,A
+http://www.mta.info/nyct/service/,Fort Washington Ave & 177th St At Ne Corner,A
+http://www.mta.info/nyct/service/,Fort Washington Ave & 181st St At Sw Corner,A
+http://www.mta.info/nyct/service/,Fort Washington Ave & 181st St At Se Corner,A
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 181st St At Se Corner,1
+http://www.mta.info/nyct/service/,6th Ave & 40th St At Ne Corner,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 42nd St At Se Corner,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,8th Ave & 42nd St At Ne Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,8th Ave & 43rd St At Sw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,8th Ave & 44th St At Nw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,8th Ave & 44th St At Se Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 41st St At Se Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 42nd St At Sw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 43rd St At Sw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,8th Ave & 49th St At Sw Corner (Downtown Only),A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 50th St At Nw Corner (Downtown Only),A-C-E
+http://www.mta.info/nyct/service/,6th Ave & 33rd St At Sw Corner,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,Nassau St & Frankfort St At Se Corner,4-5-6-6 Express-J-Z
+http://www.mta.info/nyct/service/,7th Ave & 47th St At Se Corner (Uptown Only),N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 47th St At Ne Corner (Downtown Only),N-Q-R
+http://www.mta.info/nyct/service/,8th Ave & 50th St At Se Corner (Uptown Only),A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 50th St At Ne Corner (Uptown Only),A-C-E
+http://www.mta.info/nyct/service/,Broadway & 50th St At Nw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 49th St At Sw Corner (Downtown Only),N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 49th St At Ne Corner (Uptown Only),N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 50th St At Ne Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,5th Ave & 42nd St At Sw Corner,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,103rd St & 159th Ave At Ne Corner,A
+http://www.mta.info/nyct/service/,Park Ave & 42nd St At Sw Corner,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,Park Ave & 42nd St At Se Corner,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,3rd Ave & 53rd St At Se Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,6th Ave & 47th St At Ne Corner,B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 48th St At Ne Corner,B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 48-49th Sts At W Corner,B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 49th St At Nw Corner,B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 50th St At Nw Corner,B-D-F-M
+http://www.mta.info/nyct/service/,7th Ave & 53rd St At Ne Corner,B-D-E
+http://www.mta.info/nyct/service/,5th Ave & 53rd St At Se Corner,E-M
+http://www.mta.info/nyct/service/,Lexington Ave & 51st St At Nw Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,Lexington Ave & 51st St At Se Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,Lexington Ave & 51st St At Ne Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,Lexington Ave & 53rd St At Se Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,3rd Ave & 53rd St At Ne Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,Lexington Ave & 59th St At Se Corner,4-5-6-6 Express-N-Q-R
+http://www.mta.info/nyct/service/,Lexington Ave & 59th St At Nw Corner,4-5-6-6 Express-N-Q-R
+http://www.mta.info/nyct/service/,3rd Ave & 60th St At Sw Corner,4-5-6-6 Express-N-Q-R
+http://www.mta.info/nyct/service/,3rd Ave & 60th St At Nw Corner,4-5-6-6 Express-N-Q-R
+http://www.mta.info/nyct/service/,3rd Ave & 60th St At Ne Corner,4-5-6-6 Express-N-Q-R
+http://www.mta.info/nyct/service/,8th Ave & 58th St At Ne Corner,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,Broadway & 60th St At Sw Corner,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,7th Ave & 55th St At Nw Corner,N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 55th St At Se Corner,N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 57th St At Sw Corner,N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 57th St At Nw Corner,N-Q-R
+http://www.mta.info/nyct/service/,6th Ave & 56th St At Sw Corner,F
+http://www.mta.info/nyct/service/,Cohancy St & North Conduit Ave At Ne Corner,A
+http://www.mta.info/nyct/service/,Broadway & 50th St At Se Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,Columbus Circle & 59th St At Se Corner,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,Columbus Circle & 59th St At Se Corner,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,6th Ave & 56th St At Se Corner,F
+http://www.mta.info/nyct/service/,6th Ave & 56th St At Nw Corner,F
+http://www.mta.info/nyct/service/,6th Ave & 56th St At Ne Corner,F
+http://www.mta.info/nyct/service/,6th Ave & 57th St At Nw Corner,F
+http://www.mta.info/nyct/service/,Grand Army Plaza & Central Park South At Ne Corner,N-Q-R
+http://www.mta.info/nyct/service/,Grand Army Plaza & Central Park South At Ne Corner,N-Q-R
+http://www.mta.info/nyct/service/,5th Ave & 60th St At Se Corner,N-Q-R
+http://www.mta.info/nyct/service/,Lexington Ave & 63rd St At Sw Corner,F
+http://www.mta.info/nyct/service/,Centre St & Brooklyn Bridge Approach At Nw Corner,4-5-6-6 Express-J-Z
+http://www.mta.info/nyct/service/,Centre St & Brooklyn Bridge Approach At Nw Corner,4-5-6-6 Express-J-Z
+http://www.mta.info/nyct/service/,Centre St & Reade St At Nw Corner,4-5-6-6 Express-J-Z
+http://www.mta.info/nyct/service/,Lafayette St & Duane St At Ne Corner,4-5-6-6 Express-J-Z
+http://www.mta.info/nyct/service/,6th Ave & 47th St At Se Corner,B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 48th St At Sw Corner,B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 23rd St At Nw Corner (Downtown Only),F-M
+http://www.mta.info/nyct/service/,6th Ave & 23rd St At Se Corner (Uptown Only),F-M
+http://www.mta.info/nyct/service/,6th Ave & 23rd St At Sw Corner (Downtown Only),F-M
+http://www.mta.info/nyct/service/,St. John La & Laight St At Se Corner,A-C-E
+http://www.mta.info/nyct/service/,6th Ave & West Broadway At Nw Corner,A-C-E
+http://www.mta.info/nyct/service/,Thompson St & Canal St At Ne Corner,A-C-E
+http://www.mta.info/nyct/service/,Broadway & Canal St At Se Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & Canal St At Sw Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & Canal St At Sw Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & Canal St At Nw Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Lafayette St & Canal St At Nw Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Canal St & Varick St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,6th Ave & Vandam St At Sw Corner,A-C-E
+http://www.mta.info/nyct/service/,Varick St & King St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Varick St & Houston St At Sw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Varick St & King St At Se Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Varick St & King St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Varick St & Houston St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Varick St & Houston St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Lafayette St & Spring St At Sw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lafayette St & Spring St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Chrystie St & Grand St At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Bowery & Delancey St At Se Corner,J-Z
+http://www.mta.info/nyct/service/,Bowery & Delencey St At Ne Corner,J-Z
+http://www.mta.info/nyct/service/,Broadway & Prince St At Nw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Broadway & Prince St At Se Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,"Broadway & Houston St At Ne Corner ((4)(6) Dntn, (B)(D)(F)(M))",4-5-6-6 Express-B-D-F-M
+http://www.mta.info/nyct/service/,"Lafayette St & Houston St At Sw Corner ((4)(6) Dntn, (B)(D)(F)(M))",4-5-6-6 Express-B-D-F-M
+http://www.mta.info/nyct/service/,"Crosby St & Houston St At Se Corner ((4)(6) Dntn, (B)(D)(F)(M))",4-5-6-6 Express-B-D-F-M
+http://www.mta.info/nyct/service/,"Crosby St & Houston St At Ne Corner ((4)(6) Dntn, (B)(D)(F)(M))",4-5-6-6 Express-B-D-F-M
+http://www.mta.info/nyct/service/,"Lafayette St & Bleecker St At Nw Corner ((4)(6) Dntn, (B)(D)(F)(M))",4-5-6-6 Express-B-D-F-M
+http://www.mta.info/nyct/service/,Lafayette St & Mulberry St At Sw Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lafayette St & Mulberry St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Chrystie St & Houston St At Sw Corner,F
+http://www.mta.info/nyct/service/,Broadway & Waverly Pl At Nw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Broadway & Waverly Pl At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Broadway & 8th St At Se Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Lafayette St & Astor Pl At Nw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,4th Ave & East 8th St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,7th Ave & Christopher St At Sw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,7th Ave & Christopher St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,7th Ave & West 4th St At Se Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,6th Ave & West 3rd St At Nw Corner,A-C-E-B-D-F-M
+http://www.mta.info/nyct/service/,Broadway & 8th St At Sw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Broadway & 8th St At Nw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Rutgers St & Madison Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,Essex St & Canal St At Ne Corner,F
+http://www.mta.info/nyct/service/,Essex St & Delancey St At Se Corner,F-J-M-Z
+http://www.mta.info/nyct/service/,Norfolk St & Delancey St At Nw Corner,F-J-M-Z
+http://www.mta.info/nyct/service/,Allen St & Houston St At Sw Corner,F
+http://www.mta.info/nyct/service/,1st Ave & Houston St At Nw Corner,F
+http://www.mta.info/nyct/service/,Greenwich St & Morris St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Lafayette St & Canal St At Nw Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Lafayette St & Canal St At Se Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Church St & Dey St At Sw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Smith St & 2nd St At Nw Corner,F-G
+http://www.mta.info/nyct/service/,Smith St & President St At Se Corner,F-G
+http://www.mta.info/nyct/service/,Smith St & Warren St At Ne Corner (To Manhattan And Queens Only),F-G
+http://www.mta.info/nyct/service/,Smith St & Bergen St At Sw Corner (To Coney Island Only),F-G
+http://www.mta.info/nyct/service/,Smith St & Bergen St At Nw Corner (To Coney Island Only),F-G
+http://www.mta.info/nyct/service/,9 Greene Avenue (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,1200 Morrison Avenue,6
+http://www.mta.info/nyct/service/,Intersection Of Archer Avenue And 153 Street,E-J-Z
+http://www.mta.info/nyct/service/,103-07 Roosevelt Avenue,7
+http://www.mta.info/nyct/service/,926 Broadway,J-M-Z
+http://www.mta.info/nyct/service/,101 Brighton Beach Avenue,B-Q
+http://www.mta.info/nyct/service/,1117 Broadway,J
+http://www.mta.info/nyct/service/,1293 Fulton Street (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,820 8 Avenue,F
+http://www.mta.info/nyct/service/,566 Lorimer Street,G-L
+http://www.mta.info/nyct/service/,29-00 Northern Boulevard,E-M-R
+http://www.mta.info/nyct/service/,349 Liberty Avenue,A-C
+http://www.mta.info/nyct/service/,47 Pine Street,2-3
+http://www.mta.info/nyct/service/,192 Broadway (Enter On John St.),2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,565 Broadway (Downtown Only),N-R
+http://www.mta.info/nyct/service/,3010 Beverly Road (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,1 Whitehall Street,1
+http://www.mta.info/nyct/service/,567 Marcy Avenue,G
+http://www.mta.info/nyct/service/,1021 Nostrand Avenue,2-5
+http://www.mta.info/nyct/service/,1422 St Nicholas Avenue,1
+http://www.mta.info/nyct/service/,266 Broadway (To Queens And Canarsie Only),J-M-Z
+http://www.mta.info/nyct/service/,1220 6 Avenue,B-D-F-M
+http://www.mta.info/nyct/service/,Jackson Ave & 50th Ave At Sw Corner (To Flushing Only),7-7 Express
+http://www.mta.info/nyct/service/,Vanderbilt Ave & 42nd St At Se Corner,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,Broadway & 40th St At Sw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,6th Ave & 42nd St At Nw Corner,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,Lexington Ave & 96th St At Ne Corner,4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 51st St At Sw Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,Centre St & Reade St At Nw Corner,4-5-6-6 Express-J-Z
+http://www.mta.info/nyct/service/,Broadway & 14th St At Ne Corner,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,Park Ave & 33rd St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,101 East 14 Street,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,Lexington Ave & 116th St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,168th St & Hillside Ave At Ne Corner,F
+http://www.mta.info/nyct/service/,180th St & Hillside Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,Beach 67th St & Rockaway Frwy At Nw Corner,A
+http://www.mta.info/nyct/service/,Beach 36th & Edgemere Ave At Se Corner,A
+http://www.mta.info/nyct/service/,Van Sinderen Ave & Livonia Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Lefferts Blvd & Liberty Ave At Nw Corner,A-S
+http://www.mta.info/nyct/service/,18th Ave & 85th St At Ne Corner,D
+http://www.mta.info/nyct/service/,Grand Concourse & 203rd St At Ne Corner,B-D
+http://www.mta.info/nyct/service/,White Plains Rd & Allerton Ave At Nw Corner,2-5
+http://www.mta.info/nyct/service/,Castle Hill Ave & Westchester Ave At Sw Corner,6-6 Express
+http://www.mta.info/nyct/service/,White Plains Rd & 241st St At Nw Corner,2
+http://www.mta.info/nyct/service/,63rd Dr & Queens Blvd At Nw Corner,E-M-R
+http://www.mta.info/nyct/service/,Court St & Joralemon St At Nw Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,Lafayette St & Canal St At Se Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Canal St & Varick St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Throop Ave & Fulton St At Ne Corner (To Manhattan Only),A-C
+http://www.mta.info/nyct/service/,Grand Concourse & 138th St At Nw Corner,4-5
+http://www.mta.info/nyct/service/,70th Rd & Queens Blvd At Nw Corner,E-F-M-R
+http://www.mta.info/nyct/service/,Parsons Blvd & Hillside Ave At Se Corner,F
+http://www.mta.info/nyct/service/,Beach 89th St & Rockaway Frwy At Sw Corner,A-S
+http://www.mta.info/nyct/service/,Britton Ave & Broadway At Sw Corner,E-M-R
+http://www.mta.info/nyct/service/,23rd St & 45th Rd At Se Corner,7-7 Express
+http://www.mta.info/nyct/service/,35th St & 38th Ave At Sw Corner (To Manhattan And Brooklyn Only),E-M-R
+http://www.mta.info/nyct/service/,21st St & 41st Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,8th Ave & 25th St At Se Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 35th St At Ne Corner,A-C-E
+http://www.mta.info/nyct/service/,Park Ave & 22nd St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,613 8 Avenue,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,21st St & 49th Ave At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 103rd St At Sw Corner,4-6-6 Express
+http://www.mta.info/nyct/service/,8th Ave & 42nd St At Nw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 42nd St At Nw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,Lexington Ave & 51st St At Se Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,Lafayette St & Canal St At Ne Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,4th Ave & 14th St At Sw Corner,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,8th Ave & 40th St At Nw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,6th Ave & 32nd St At Ne Corner,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 40th St At Nw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & Fulton St At Nw Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,104-02 102 Street,A-S
+http://www.mta.info/nyct/service/,101 East 14 Street (Enter On E 14th St),4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,117 East 41 Street,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,Broadway & 42nd St At Se Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 55th St At Sw Corner,N-Q-R
+http://www.mta.info/nyct/service/,Fort Greene Pl & Lafayette Ave At Ne Corner,G
+http://www.mta.info/nyct/service/,77th St & Liberty Ave At Ne Corner,A-S
+http://www.mta.info/nyct/service/,Autumn Ave & Jamaica Ave At Se Corner,J
+http://www.mta.info/nyct/service/,103rd St & 159th Ave At Se Corner,A
+http://www.mta.info/nyct/service/,Turnbull Ave & E 105th St At Se Corner,L
+http://www.mta.info/nyct/service/,Van Sinderen Ave & Livonia Ave At Sw Corner,L
+http://www.mta.info/nyct/service/,Lirr Bay Ridge Divide & Belmont Ave At Nw Corner,L
+http://www.mta.info/nyct/service/,88th St & Liberty Ave At Ne Corner,A-S
+http://www.mta.info/nyct/service/,95th St & Jamaica Ave At Sw Corner,J-Z
+http://www.mta.info/nyct/service/,97th St & Liberty Ave At Sw Corner,A-S
+http://www.mta.info/nyct/service/,104th St & Liberty Ave At Ne Corner,A-S
+http://www.mta.info/nyct/service/,109th St & Liberty Ave At Nw Corner,A-S
+http://www.mta.info/nyct/service/,116th St & Liberty Ave At Nw Corner,A-S
+http://www.mta.info/nyct/service/,121st St & Jamaica Ave At Nw Corner,J-Z
+http://www.mta.info/nyct/service/,123rd St & Jamaica Ave At Nw Corner,J-Z
+http://www.mta.info/nyct/service/,4th Ave & 95th St At Nw Corner,R
+http://www.mta.info/nyct/service/,4th Ave & 93th St At Ne Corner,R
+http://www.mta.info/nyct/service/,4th Ave & 86th St At Se Corner,R
+http://www.mta.info/nyct/service/,4th Ave & 77th St At Ne Corner,R
+http://www.mta.info/nyct/service/,18th Ave & 85th St At Se Corner,D
+http://www.mta.info/nyct/service/,New Utrecht Ave & 79th St At Ne Corner,D
+http://www.mta.info/nyct/service/,20th Ave & 86th St At Se Corner,D
+http://www.mta.info/nyct/service/,20th Ave & 86th St At Nw Corner,D
+http://www.mta.info/nyct/service/,Bay Pkwy & 86th St At Se Corner,D
+http://www.mta.info/nyct/service/,New Utrecht Ave & 71st St At Ne Corner,D
+http://www.mta.info/nyct/service/,17th Ave & 64th St At Ne Corner,N
+http://www.mta.info/nyct/service/,14th Ave & 61st St At Ne Corner,D-N
+http://www.mta.info/nyct/service/,63rd St & 15th Ave At Se Corner,D-N
+http://www.mta.info/nyct/service/,New Utrecht Ave & 55th St At Se Corner,D
+http://www.mta.info/nyct/service/,Stillwell Ave & Mermaid Ave At Se Corner,D-F-N-Q
+http://www.mta.info/nyct/service/,West 6th St & Neptune Ave At Nw Corner,F
+http://www.mta.info/nyct/service/,Stillwell Ave & Bay 50th St At Se Corner,D
+http://www.mta.info/nyct/service/,25th Ave & 86th St At Sw Corner,D
+http://www.mta.info/nyct/service/,25th Ave & 86th St At Nw Corner,D
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue X At Ne Corner,F
+http://www.mta.info/nyct/service/,8th St & Avenue T At Se Corner,N
+http://www.mta.info/nyct/service/,Ocean Pkwy & Brighton Beach Rd At Se Corner,Q
+http://www.mta.info/nyct/service/,Branch 6 St & Brighton Beach Rd At Sw Corner,B-Q
+http://www.mta.info/nyct/service/,Branch 7 St & Brighton Beach Rd At Se Corner,B-Q
+http://www.mta.info/nyct/service/,Mcdonald Ave & Gravesend Neck Rd At Se Corner,F
+http://www.mta.info/nyct/service/,Bay Pkwy & 66th St At Se Corner,N
+http://www.mta.info/nyct/service/,8th St & Avenue O At Ne Corner,N
+http://www.mta.info/nyct/service/,18th Ave & 64th St At Nw Corner,N
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue M At Sw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Bay Pkwy At Se Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue S At Nw Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Kings Hwy At Se Corner,F
+http://www.mta.info/nyct/service/,Mcdonald Ave & Avenue P At Ne Corner,F
+http://www.mta.info/nyct/service/,15th St & Kings Hwy At Ne Corner,B-Q
+http://www.mta.info/nyct/service/,15th St & Avenue H At Se Corner,B-Q
+http://www.mta.info/nyct/service/,15th St & Sheepshead Bay Rd At Se Corner,B-Q
+http://www.mta.info/nyct/service/,15th St & Avenue U At Se Corner,B-Q
+http://www.mta.info/nyct/service/,4th Ave & Bay Ridge Ave At Ne Corner,R
+http://www.mta.info/nyct/service/,4th Ave & 60th St At Sw Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 59th St At Nw Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 53rd St At Sw Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 53rd St At Se Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 52nd St At Nw Corner,N-R
+http://www.mta.info/nyct/service/,4th Ave & 45th St At Ne Corner,N-R
+http://www.mta.info/nyct/service/,New Utrecht Ave & 50th St At Ne Corner,D
+http://www.mta.info/nyct/service/,9th Ave & New Utrecht Ave At Ne Corner,D
+http://www.mta.info/nyct/service/,4th Ave & 36th St At Nw Corner,D-N-R
+http://www.mta.info/nyct/service/,4th Ave & 25th St At Se Corner (To Manhattan Only),D-N-R
+http://www.mta.info/nyct/service/,4th Ave & Prospect Ave At Ne Corner (To Manhattan Only),D-N-R
+http://www.mta.info/nyct/service/,Mcdonald Ave & Cortelyou Rd At Sw Corner,F-G
+http://www.mta.info/nyct/service/,Mcdonald Ave & Church Ave At Nw Corner,F-G
+http://www.mta.info/nyct/service/,Mcdonald Ave & Albemarle Rd At Se Corner,F-G
+http://www.mta.info/nyct/service/,Prospect Ave & Greenwood Ave At Nw Corner,F-G
+http://www.mta.info/nyct/service/,Prospect Park West & Prospect Park Southwest At Se Corner,F-G
+http://www.mta.info/nyct/service/,Prospect Park West & 14th St At Se Corner,F-G
+http://www.mta.info/nyct/service/,4th Ave & 10th St At Nw Corner,D-F-G-N-R
+http://www.mta.info/nyct/service/,7th Ave & 9th St At Sw Corner,F-G
+http://www.mta.info/nyct/service/,7th Ave & 9th St At Ne Corner,F-G
+http://www.mta.info/nyct/service/,Portland Ave & Fulton Ave At Sw Corner (To Queens Only),A-C
+http://www.mta.info/nyct/service/,Oxford St & Fulton Ave At Sw Corner (To Queens Only),A-C
+http://www.mta.info/nyct/service/,Fort Washington Ave & 192nd St At Nw Corner,A
+http://www.mta.info/nyct/service/,Broadway & Dyckman St At Sw Corner,A
+http://www.mta.info/nyct/service/,Broadway & Dyckman St At Ne Corner,A
+http://www.mta.info/nyct/service/,Broadway & 207th St At Se Corner,A
+http://www.mta.info/nyct/service/,10th Ave & 207th St At Sw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,10th Ave & 207th St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Broadway & 211th St At Ne Corner,A
+http://www.mta.info/nyct/service/,10th Ave & 215th St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Broadway & 225th St At Se Corner (To Bronx Only),1
+http://www.mta.info/nyct/service/,Broadway & 231st St At Ne Corner (To Van Cortlandt Pk Only),1
+http://www.mta.info/nyct/service/,Broadway & 238th St At Ne Corner (To Van Cortlandt Pk Only),1
+http://www.mta.info/nyct/service/,Broadway & 242nd St At Ne Corner,1
+http://www.mta.info/nyct/service/,61st St & Roosevelt Ave At Se Corner,7-7 Express
+http://www.mta.info/nyct/service/,Jackson Ave & 45th Rd At Nw Corner,E-G-M
+http://www.mta.info/nyct/service/,Broadway & 66th St At Sw Corner,1-2
+http://www.mta.info/nyct/service/,Broadway & 72nd St At Ne Corner,1-2-3
+http://www.mta.info/nyct/service/,Lexington Ave & 86th St At Ne Corner (Uptown Only),4-5-6-6 Express
+http://www.mta.info/nyct/service/,Fort Washington Ave & 177th St At Ne Corner,A
+http://www.mta.info/nyct/service/,Lincoln Ave & 138th St At Se Corner,6-6 Express
+http://www.mta.info/nyct/service/,Alexander Ave & 138th St At Sw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Alexander Ave & 138th St At Nw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Grand Concourse & 149th St At Se Corner,2-4-5
+http://www.mta.info/nyct/service/,River Ave & 161st St At Sw Corner,4-B-D
+http://www.mta.info/nyct/service/,River Ave & 161st St At Se Corner,4-B-D
+http://www.mta.info/nyct/service/,River Ave & 161st St At Ne Corner,4-B-D
+http://www.mta.info/nyct/service/,Brook Ave & 138th St At Sw Corner (To Pelham Bay Pk Only),6
+http://www.mta.info/nyct/service/,Cypress Ave & 138th St At Se Corner (To Pelham Bay Pk Only),6
+http://www.mta.info/nyct/service/,Melrose Ave & 149th St At Sw Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,3rd Ave & 149th St At Nw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Walton Ave & 161st St At Nw Corner,4-B-D
+http://www.mta.info/nyct/service/,Southern Blvd & St Mary's St At Se Corner (To Pelham Bay Pk Only),6
+http://www.mta.info/nyct/service/,Southern Blvd & 149th St At Ne Corner (To Pelham Bay Pk Only),6
+http://www.mta.info/nyct/service/,River Ave & 161st St At Sw Corner,4-B-D
+http://www.mta.info/nyct/service/,Jackson Ave & 152nd St At Ne Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Jackson Ave & Westchester Ave At Nw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Prospect Ave & Longwood Ave At Ne Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Southern Blvd & Longwood Ave At Ne Corner (To Pelham Bay Pk Only),6
+http://www.mta.info/nyct/service/,Westchester Ave & Simpson St At Se Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Hunts Point Ave & 163rd St At Se Corner,6-6 Express
+http://www.mta.info/nyct/service/,Whitlock Ave & Westchester Ave At Se Corner,6
+http://www.mta.info/nyct/service/,River Ave & 167th St At Sw Corner,4
+http://www.mta.info/nyct/service/,River Ave & 167th St At Se Corner,4
+http://www.mta.info/nyct/service/,Burr Ave & Westchester Ave At Ne Corner,6-6 Express
+http://www.mta.info/nyct/service/,Grand Concourse & 167th St At Sw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 167th St At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & 170th St At Se Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & 170th St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 171st St At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & Mt Eden Ave At Ne Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & 174th St At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 175th St At Sw Corner,B-D
+http://www.mta.info/nyct/service/,Southern Blvd & Freeman St At Sw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Jerome Ave & Burnside Ave At Se Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & Echo Pl At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & Burnside Ave At Sw Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & 182nd St At Sw Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & 182nd St At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & 183rd St At Ne Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & 188th St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Jerome Ave & Fordham Rd At Nw Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Fordham Rd At Ne Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Kingsbridge Rd At Nw Corner,4
+http://www.mta.info/nyct/service/,Grand Concourse & Kingsbridge Rd At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Esplanade & Laconia Ave At Ne Corner,5
+http://www.mta.info/nyct/service/,Grand Concourse & 196th St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Boston Rd & 174th St At Sw Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Boston Rd & 174th St At Ne Corner (Northbound Only),2-5
+http://www.mta.info/nyct/service/,Boston Rd & 178th St At Sw Corner,2-5
+http://www.mta.info/nyct/service/,Boston Rd & 178th St At Nw Corner,2-5
+http://www.mta.info/nyct/service/,St Lawrence Ave & Westchester Ave At Sw Corner,6
+http://www.mta.info/nyct/service/,Metropolitan Ave & Westchester Ave At Sw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Birchall Ave & Sagamore St At Nw Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & Pelham Pkwy At Se Corner,2-5
+http://www.mta.info/nyct/service/,Esplanade & Paulding Ave At W Corner,5
+http://www.mta.info/nyct/service/,Grand Concourse & Bedford Park Blvd At Se Corner,B-D
+http://www.mta.info/nyct/service/,Grand Concourse & Bedofrd Park Blvd At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Bainbridge Ave & 205th St At Se Corner,D
+http://www.mta.info/nyct/service/,Perry Ave & 205th St At Se Corner,D
+http://www.mta.info/nyct/service/,Jerome Ave & Mosholu Pkwy At Se Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Mosholu Pkwy At Ne Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Mosholu Pkwy At Nw Corner,4
+http://www.mta.info/nyct/service/,Jerome Ave & Bainbridge Ave At Sw Corner,4
+http://www.mta.info/nyct/service/,White Plains Rd & Allerton Ave At Se Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & 211th St At Sw Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & 219th St At Se Corner,2-5
+http://www.mta.info/nyct/service/,Baychester Ave & Tillotson Ave At Nw Corner,5
+http://www.mta.info/nyct/service/,White Plains Rd & 225th St At Nw Corner,2-5
+http://www.mta.info/nyct/service/,Westchester Ave & Zerega Ave At Se Corner,6-6 Express
+http://www.mta.info/nyct/service/,Westchester Ave & Middletown Rd At Ne Corner,6-6 Express
+http://www.mta.info/nyct/service/,Edison Ave & Buhre Ave At Sw Corner,6-6 Express
+http://www.mta.info/nyct/service/,Burr Ave & Westchester Ave At Ne Corner,6-6 Express
+http://www.mta.info/nyct/service/,White Plains Rd & 233rd St At Nw Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & Nereid Ave At Nw Corner,2-5
+http://www.mta.info/nyct/service/,White Plains Rd & 241st St At Ne Corner,2
+http://www.mta.info/nyct/service/,Melrose Ave & 149th St At Ne Corner (To Manhattan Only),2-5
+http://www.mta.info/nyct/service/,Intervale Ave & Westchester Ave At Ne Corner,2-5
+http://www.mta.info/nyct/service/,Intervale Ave & Westchester Ave At Ne Corner,2-5
+http://www.mta.info/nyct/service/,Morris Park Ave & 180th St At Nw Corner,2-5
+http://www.mta.info/nyct/service/,River Ave & 161st St At Sw Corner,4-B-D
+http://www.mta.info/nyct/service/,73rd St & 37th Rd At Ne Corner,7-E-F-M-R
+http://www.mta.info/nyct/service/,74th St & Roosevelt Av At Sw Corner,7-E-F-M-R
+http://www.mta.info/nyct/service/,54th St & Queens Blvd At Sw Corner,E-M-R
+http://www.mta.info/nyct/service/,Broadway & Queens Blvd At Sw Corner,E-M-R
+http://www.mta.info/nyct/service/,Cadman Plaza West & Montague St At Ne Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,Jay St & Metrotech Walk At Sw Corner,A-C-F
+http://www.mta.info/nyct/service/,Jay St & Willoughby St At Ne Corner,A-C-F
+http://www.mta.info/nyct/service/,Flatbush Ave & De Kalb Ave At Se Corner,B-D-N-Q-R
+http://www.mta.info/nyct/service/,4th Ave & Pacific St At Ne Corner,2-3-4-5-B-D-N-Q-R
+http://www.mta.info/nyct/service/,Flatbush Ave & Plaza Street East At Se Corner,2-3-4
+http://www.mta.info/nyct/service/,Flatbush Ave & Plaza Street West At Sw Corner,2-3-4
+http://www.mta.info/nyct/service/,Flatbush Ave & Livingston St At Nw Corner,2-3-4-5
+http://www.mta.info/nyct/service/,Flatbush Ave & Livingston St At Ne Corner,2-3-4-5
+http://www.mta.info/nyct/service/,Vernon Blvd & 50th Ave At Ne Corner (To Manhattan Only),7-7 Express
+http://www.mta.info/nyct/service/,Jackson Ave & 50th Ave At Nw Corner (To Manhattan Only),7-7 Express
+http://www.mta.info/nyct/service/,21st St & 49th Ave At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,21st St & 49th Ave At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,Jackson Ave & 47th Ave At Se Corner,G
+http://www.mta.info/nyct/service/,Court Square & Jackson Ave At Sw Corner,E-G-M
+http://www.mta.info/nyct/service/,23rd St & 44th Ave At Ne Corner,E-G-M
+http://www.mta.info/nyct/service/,33rd St & Queens Blvd At Sw Corner,7
+http://www.mta.info/nyct/service/,34th St & Queens Blvd At Sw Corner,7
+http://www.mta.info/nyct/service/,Jackson Ave & West St At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,Northern Blvd & 41st Ave At Nw Corner,E-M-R
+http://www.mta.info/nyct/service/,31st St & 39th Ave At Nw Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & 36th Ave At Se Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & Broadway At Sw Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & Broadway At Nw Corner,N-Q
+http://www.mta.info/nyct/service/,40th St & Queens Blvd At Se Corner (To Flushing Only),7
+http://www.mta.info/nyct/service/,46th St & Queens Blvd At Nw Corner,7
+http://www.mta.info/nyct/service/,46th St & Queens Blvd At Ne Corner,7
+http://www.mta.info/nyct/service/,52nd St & Roosevelt Ave At Sw Corner,7
+http://www.mta.info/nyct/service/,Steinway St & 34th Ave At Ne Corner,E-M-R
+http://www.mta.info/nyct/service/,46th St & Broadway At Sw Corner (To Jamaica Only),E-M-R
+http://www.mta.info/nyct/service/,61st St & Roosevelt Ave At Ne Corner,7-7 Express
+http://www.mta.info/nyct/service/,69th St & Roosevelt Ave At Sw Corner,7
+http://www.mta.info/nyct/service/,65th St & Broadway At Se Corner,E-M-R
+http://www.mta.info/nyct/service/,31st St & 30th Ave At Sw Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & 30th Ave At Nw Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & Hoyt Ave South At Se Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & 23rd Ave At Nw Corner,N-Q
+http://www.mta.info/nyct/service/,31st St & 23rd Ave At Ne Corner,N-Q
+http://www.mta.info/nyct/service/,West Rd & Unnamed St At Se Corner,F
+http://www.mta.info/nyct/service/,Broadway & 66th St At Se Corner,1-2
+http://www.mta.info/nyct/service/,Broadway & 72nd St At Se Corner,1-2-3
+http://www.mta.info/nyct/service/,Central Park West & 72nd St At Sw Corner,A-C-B
+http://www.mta.info/nyct/service/,Broadway & 79th St At Se Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,Broadway & 86th St At Sw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,Broadway & 86th St At Ne Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,Lexington Ave & 68th St At Sw Corner,4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 77th St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 77th St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Broadway & 66th St At Se Corner,1-2
+http://www.mta.info/nyct/service/,Central Park West & 77th St At Nw Corner,A-C-B
+http://www.mta.info/nyct/service/,Central Park West & 86th St At Sw Corner,A-C-B
+http://www.mta.info/nyct/service/,Central Park West & 87th St At Nw Corner,A-C-B
+http://www.mta.info/nyct/service/,Broadway & 96th St At Sw Corner,1-2-3
+http://www.mta.info/nyct/service/,Broadway & 96th St At Se Corner,1-2-3
+http://www.mta.info/nyct/service/,Broadway & 96th St At Sw Corner,1-2-3
+http://www.mta.info/nyct/service/,Broadway & 96th St At Se Corner,1-2-3
+http://www.mta.info/nyct/service/,Central Park West & 97th St At Nw Corner,A-C-B
+http://www.mta.info/nyct/service/,Broadway & 103rd St At Ne Corner,1
+http://www.mta.info/nyct/service/,Broadway & 104th St At Se Corner,1
+http://www.mta.info/nyct/service/,Broadway & Cathedral Pkwy At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Frederick Douglass Blvd & 109th St At Sw Corner,A-C-B
+http://www.mta.info/nyct/service/,Broadway & 115th St At Se Corner,1
+http://www.mta.info/nyct/service/,Broadway & 116th St At Ne Corner,1
+http://www.mta.info/nyct/service/,Broadway & 125th St At Sw Corner,1
+http://www.mta.info/nyct/service/,Lexington Ave & 86th St At Sw Corner (Downtown Only),4-5-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 86th St At Se Corner (Uptown Only),4-5-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 103rd St At Se Corner,4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 110th St At Nw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Lexington Ave & 110th St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,St Nicholas Ave & Central Park North At Nw Corner,2-3
+http://www.mta.info/nyct/service/,Lenox Ave & 116th St At Nw Corner (Downtown Only),2-3
+http://www.mta.info/nyct/service/,Frederick Douglass Blvd & 116th St At Nw Corner (Downtown Only),A-C-B
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 125th St At Se Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 126th St At Se Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 127th St At Se Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Lenox Ave & 125th St At Sw Corner (Downtown Only),2-3
+http://www.mta.info/nyct/service/,Lenox Ave & 125th St At Nw Corner (Downtown Only),2-3
+http://www.mta.info/nyct/service/,Broadway & 137th St At Ne Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Broadway & 145th St At Ne Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 135th St At Se Corner (Uptown Only),A-C-B
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 137th St At Sw Corner (Downtown Only),A-C-B
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 145th St At Sw Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 145th St At Se Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 147th St At Ne Corner,A-C-B-D
+http://www.mta.info/nyct/service/,Lexington Ave & 125th St At Nw Corner,4-5-6-6 Express
+http://www.mta.info/nyct/service/,Lenox Ave & 135th St At Se Corner (Uptown Only),2-3
+http://www.mta.info/nyct/service/,Lenox Ave & 145th St At Sw Corner (Downtown Only),3
+http://www.mta.info/nyct/service/,Lenox Ave & 145th St At Ne Corner (Exit Only),3
+http://www.mta.info/nyct/service/,Broadway & 157th St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 155th St At Ne Corner,A-C
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 155th St At Ne Corner,A-C
+http://www.mta.info/nyct/service/,Broadway & 157th St At Se Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Frederick Douglass Blvd & 156th St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Saint Nicholas Ave & 168th St At Se Corner,1-A-C
+http://www.mta.info/nyct/service/,Broadway & 169th St At Ne Corner,1-A-C
+http://www.mta.info/nyct/service/,Fort Washington Ave & 177th St At Nw Corner,A
+http://www.mta.info/nyct/service/,Fort Washington Ave & 177th St At Nw Corner,A
+http://www.mta.info/nyct/service/,Fort Washington Ave & 181st St At Sw Corner,A
+http://www.mta.info/nyct/service/,Fort Washington Ave & 181st St At Se Corner,A
+http://www.mta.info/nyct/service/,6th Ave & 42nd St At Nw Corner,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,5th-6th Aves & 42nd St At S Corner,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,8th Ave & 44th St At Sw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 41st St At Nw Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 41st St At Se Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,8th Ave & 49th St At Sw Corner (Downtown Only),A-C-E
+http://www.mta.info/nyct/service/,5th-6th Aves & 42nd St At S Corner,7-7 Express-B-D-F-M
+http://www.mta.info/nyct/service/,Nassau St & Frankfort St At Se Corner,4-5-6-6 Express-J-Z
+http://www.mta.info/nyct/service/,6th Ave & 47th St At Sw Corner,B-D-F-M
+http://www.mta.info/nyct/service/,7th Ave & 47th St At Nw Corner (Downtown Only),N-Q-R
+http://www.mta.info/nyct/service/,8th Ave & 51st St At Ne Corner (Uptown Only),A-C-E
+http://www.mta.info/nyct/service/,Broadway & 50th St At Se Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,Broadway & 53rd St At Se Corner,B-D-E
+http://www.mta.info/nyct/service/,Madison Ave & 42nd St At Sw Corner,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,Broadway & 50th St At Ne Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,Park Ave & 42nd St At Se Corner,4-5-6-6 Express-7-7 Express-S
+http://www.mta.info/nyct/service/,6th Ave & 47th St At Se Corner,B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 48th St At Se Corner,B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 48-49th Sts At W Corner,B-D-F-M
+http://www.mta.info/nyct/service/,6th Ave & 50th St At Sw Corner,B-D-F-M
+http://www.mta.info/nyct/service/,7th Ave & 53rd St At Se Corner,B-D-E
+http://www.mta.info/nyct/service/,5th Ave & 53rd St At Ne Corner,E-M
+http://www.mta.info/nyct/service/,Lexington Ave & 51st St At Sw Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,Lexington Ave & 51st St At Nw Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,Lexington Ave & 51st St At Ne Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,3rd Ave & 53rd St At Ne Corner,4-6-6 Express-E-M
+http://www.mta.info/nyct/service/,Lexington Ave & 59th St At Sw Corner,4-5-6-6 Express-N-Q-R
+http://www.mta.info/nyct/service/,Lexington Ave & 60th St At Ne Corner,4-5-6-6 Express-N-Q-R
+http://www.mta.info/nyct/service/,3rd Ave & 60th St At Se Corner,4-5-6-6 Express-N-Q-R
+http://www.mta.info/nyct/service/,8th Ave & 57th St At Ne Corner,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,8th Ave & 58th St At Nw Corner,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,7th Ave & 55th St At Ne Corner,N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 57th St At Se Corner,N-Q-R
+http://www.mta.info/nyct/service/,103rd St & 159th Ave At Ne Corner,A
+http://www.mta.info/nyct/service/,West Rd & Noel Rd At Ne Corner,A-S
+http://www.mta.info/nyct/service/,7th Ave & 57th St At Ne Corner,N-Q-R
+http://www.mta.info/nyct/service/,Central Park West & 60th St At Ne Corner,1-2-A-C-B-D
+http://www.mta.info/nyct/service/,6th Ave & 57th St At Sw Corner,F
+http://www.mta.info/nyct/service/,6th Ave & 57th St At Se Corner,F
+http://www.mta.info/nyct/service/,6th Ave & 57th St At Ne Corner,F
+http://www.mta.info/nyct/service/,5th Ave & 60th St At Se Corner,N-Q-R
+http://www.mta.info/nyct/service/,5th Ave & 60th St At Ne Corner,N-Q-R
+http://www.mta.info/nyct/service/,Lexington Ave & 63rd St At Nw Corner,F
+http://www.mta.info/nyct/service/,Centre St & Brooklyn Bridge Approach At Ne Corner,4-5-6-6 Express-J-Z
+http://www.mta.info/nyct/service/,Rutgers St & Broadway At Nw Corner,F
+http://www.mta.info/nyct/service/,6th Ave & Walker St At Ne Corner,A-C-E
+http://www.mta.info/nyct/service/,6th Ave & 23rd St At Ne Corner (Uptown Only),F-M
+http://www.mta.info/nyct/service/,6th Ave & 23rd St At Se Corner (Uptown Only),F-M
+http://www.mta.info/nyct/service/,6th Ave & 23rd St At Sw Corner (Downtown Only),F-M
+http://www.mta.info/nyct/service/,Lispenard St & West Broadway At Ne Corner,A-C-E
+http://www.mta.info/nyct/service/,Lafayette St & Canal St At Ne Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & Canal St At Se Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & Canal St At Nw Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Lafayette St & Canal St At Sw Corner,4-6-6 Express-J-Z-N-Q-R
+http://www.mta.info/nyct/service/,Canal St & Varick St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,6th Ave & Spring St At Nw Corner,A-C-E
+http://www.mta.info/nyct/service/,Varick St & King St At Sw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Varick St & Houston St At Se Corner (Uptown Only),1
+http://www.mta.info/nyct/service/,Chrystie St & Grand St At Ne Corner,B-D
+http://www.mta.info/nyct/service/,Lafayette St & Spring St At Nw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Broadway & Prince St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,"Broadway & Houston St At Se Corner ((4)(6) Dntn, (B)(D)(F)(M))",4-5-6-6 Express-B-D-F-M
+http://www.mta.info/nyct/service/,"Lafayette St & Bleecker St At Sw Corner ((4)(6) Dntn, (B)(D)(F)(M))",4-5-6-6 Express-B-D-F-M
+http://www.mta.info/nyct/service/,Lafayette St & Mulberry St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,2nd Ave & Houston St At Nw Corner,F
+http://www.mta.info/nyct/service/,Broadway & 8th St At Sw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Broadway & 8th St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,7th Ave & Christopher St At Sw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,7th Ave & Christopher St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,6th Ave & West 3rd St At Ne Corner,A-C-E-B-D-F-M
+http://www.mta.info/nyct/service/,Broadway & 8th St At Nw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Rutgers St & Broadway At Se Corner,F
+http://www.mta.info/nyct/service/,Essex St & Delancey St At Sw Corner,F-J-M-Z
+http://www.mta.info/nyct/service/,Norfolk St & Delancey St At Ne Corner,F-J-M-Z
+http://www.mta.info/nyct/service/,6th Ave & Waverly Pl At Nw Corner,A-C-E-B-D-F-M
+http://www.mta.info/nyct/service/,Chambers St & Broadway At Sw Corner,1-2-3
+http://www.mta.info/nyct/service/,Chrystie St & Grand St At Nw Corner,B-D
+http://www.mta.info/nyct/service/,Smith St & 2nd St At Se Corner,F-G
+http://www.mta.info/nyct/service/,Smith St & President St At Ne Corner,F-G
+http://www.mta.info/nyct/service/,Smith St & Warren St At Nw Corner (To Coney Island Only),F-G
+http://www.mta.info/nyct/service/,Smith St & Bergen St At Se Corner (To Manhattan And Queens Only),F-G
+http://www.mta.info/nyct/service/,Clinton St & Montague St At Nw Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,Clark St & Henry St At Nw Corner,2-3
+http://www.mta.info/nyct/service/,4th Ave & Union St At Sw Corner (To Bay Ridge And Coney Island Only),D-N-R
+http://www.mta.info/nyct/service/,Flatbush Ave & Bergen St At Sw Corner (To New Lots And Flatbush Only),2-3-4
+http://www.mta.info/nyct/service/,Lawrence St & Willoughby St At Se Corner,N-R
+http://www.mta.info/nyct/service/,Bridge St & Fulton St At Nw Corner (To Manhattan Only),2-3
+http://www.mta.info/nyct/service/,Elm Pl & Fulton St At Sw Corner (To New Lots And Flatbush Only),2-3
+http://www.mta.info/nyct/service/,Bridge St & Willoughby St At Se Corner,N-R
+http://www.mta.info/nyct/service/,Flatbush Ave & Fleet St At Nw Corner,B-D-N-Q-R
+http://www.mta.info/nyct/service/,4th Ave & Pacific St At Ne Corner,2-3-4-5-B-D-N-Q-R
+http://www.mta.info/nyct/service/,Jay St & Willoughby St At Nw Corner,A-C-F
+http://www.mta.info/nyct/service/,Flatbush Ave & Park Pl At Sw Corner,B-Q
+http://www.mta.info/nyct/service/,Franklin Ave & Eastern Pkwy At Sw Corner,2-3-4-5-S
+http://www.mta.info/nyct/service/,Franklin Ave & Eastern Pkwy At Se Corner,2-3-4-5-S
+http://www.mta.info/nyct/service/,Franklin Ave & Park Pl At Nw Corner,S
+http://www.mta.info/nyct/service/,Flatbush Ave & De Kalb Ave At Sw Corner,B-D-N-Q-R
+http://www.mta.info/nyct/service/,Cadman Plaza West & Cranberry St At Nw Corner,A-C
+http://www.mta.info/nyct/service/,Beach 98th St & Rockaway Frwy At Sw Corner,A-S
+http://www.mta.info/nyct/service/,Court St & Joralemon St At Ne Corner,2-3-4-5-N-R
+http://www.mta.info/nyct/service/,7th Ave & 14th St At Ne Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,8th Ave & 14th St At Se Corner,A-C-E-L
+http://www.mta.info/nyct/service/,8th Ave & 15th St At Nw Corner,A-C-E-L
+http://www.mta.info/nyct/service/,8th Ave & 16th St At Nw Corner,A-C-E-L
+http://www.mta.info/nyct/service/,Fulton St & Nassau St At Nw Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,Park Pl & Broadway At Nw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 23rd St At Se Corner,A-C-E
+http://www.mta.info/nyct/service/,6th Ave & 14th St At Sw Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,6th Ave & 14th St At Nw Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,6th Ave & 14th St At Ne Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,6th Ave & 16th St At Sw Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,6th Ave & 16th St At Ne Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,69th St & Metropolitan Ave At Sw Corner,M
+http://www.mta.info/nyct/service/,Broadway & 14th St At Sw Corner,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 16th St At Se Corner,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,7th Ave & 18th St At Sw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 18th St At Ne Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,6th Ave & 16th St At Nw Corner,1-2-3-L-F-M
+http://www.mta.info/nyct/service/,8th Ave & 24th St At Se Corner,A-C-E
+http://www.mta.info/nyct/service/,Broadway & Warren St At Se Corner,N-R
+http://www.mta.info/nyct/service/,Broadway & Warren St At Se Corner,N-R
+http://www.mta.info/nyct/service/,8th Ave & 25th St At Ne Corner,A-C-E
+http://www.mta.info/nyct/service/,7th Ave & 23rd St At Sw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,6th Ave & 23rd St At Ne Corner (Uptown Only),F-M
+http://www.mta.info/nyct/service/,7th Ave & 27th St At Ne Corner (Uptown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 28th St At Nw Corner (Downtown Only),1-2
+http://www.mta.info/nyct/service/,7th Ave & 34th St At Sw Corner,1-2-3
+http://www.mta.info/nyct/service/,8th Ave & 33rd St At Sw Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 33rd St At Ne Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 34th St At Sw Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 35th St At Nw Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 35th St At Se Corner,A-C-E
+http://www.mta.info/nyct/service/,8th Ave & 40th St At Se Corner,1-2-3-7-7 Express-S-A-C-E-N-Q-R
+http://www.mta.info/nyct/service/,4th Ave & 14th St At Se Corner,4-5-6-6 Express-L-N-Q-R
+http://www.mta.info/nyct/service/,3rd Ave & 14th St At Se Corner (To Brooklyn Only),L
+http://www.mta.info/nyct/service/,3rd Ave & 14th St At Ne Corner (To 8 Av Only),L
+http://www.mta.info/nyct/service/,1st Ave & 14th St At Ne Corner (To 8 Av Only),L
+http://www.mta.info/nyct/service/,Broadway & 22nd St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Church St & Warren St At Sw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Chambers St & West Broadway At Nw Corner,1-2-3
+http://www.mta.info/nyct/service/,Church St & Warren St At Nw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Church St & Chambers St At Nw Corner,2-3-A-C-E
+http://www.mta.info/nyct/service/,Varick St & Franklin St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,Varick St & North Moore St At Nw Corner (Downtown Only),1
+http://www.mta.info/nyct/service/,William St & Fulton St At Se Corner,2-3-4-5-A-C-J-Z
+http://www.mta.info/nyct/service/,Broadway & 23rd St At Se Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Park Ave & 23rd St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Broadway & 28th St At Sw Corner (Downtown Only),N-R
+http://www.mta.info/nyct/service/,Broadway & 28th St At Ne Corner (Uptown Only),N-R
+http://www.mta.info/nyct/service/,Park Ave & 28th St At Sw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 28th St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 28th St At Ne Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 32nd St At Se Corner (Uptown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Park Ave & 33rd St At Nw Corner (Downtown Only),4-6-6 Express
+http://www.mta.info/nyct/service/,Broadway & 32nd St At Nw Corner,B-D-F-M-N-Q-R
+http://www.mta.info/nyct/service/,Broadway & 34th St At Sw Corner,B-D-F-M-N-Q-R
