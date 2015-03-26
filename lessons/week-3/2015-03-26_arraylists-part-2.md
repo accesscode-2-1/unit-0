@@ -110,7 +110,7 @@ System.out.println(numbers.size()); // 0
 
 #### Parsing the data
 
-[NYC Open Data](https://nycopendata.socrata.com/) is a public repository of data about New York City. We're going to be analyzing and graphing the dataset for [subway entrances](https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56). Our end goal is to produce a [colored and labeled bar chart](subway-graph.png) comparing the number of entrances per line. Don't worry, you'll get to use two classes that will help you with this!
+[NYC Open Data](https://nycopendata.socrata.com/) is a public repository of data about New York City. We're going to be analyzing and graphing the dataset for [subway entrances](https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56). Our end goal is to produce a [colored and labeled bar chart](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/Subway/subway-graph.png) comparing the number of entrances per line. Don't worry, you'll get to use two classes that will help you with this!
 
 I've already downloaded the data, but you can also do so [here](https://data.cityofnewyork.us/api/views/he7q-3hwy/rows.csv?accessType=DOWNLOAD). The text file should look like this:
 
