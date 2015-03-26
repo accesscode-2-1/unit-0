@@ -1,7 +1,4 @@
-import sun.reflect.generics.reflectiveObjects.NotImplementedException;
-
 import java.awt.*;
-import java.io.IOException;
 import java.util.ArrayList;
 
 public class Subway {
@@ -22,14 +19,15 @@ public class Subway {
     }
 
     public static void main(String[] args) {
-        // Create a 500x250 pixel drawing.
+        // This creates a 500x250 pixel drawing.
         DrawingPanel panel = new DrawingPanel(500, 250);
-        // Get a Graphics2D object that we can use to draw on the panel.
+        // This gets a Graphics2D object that we can use to draw on the panel.
         Graphics2D g = panel.getGraphics();
 
         // Step 1:
         // Modify this String to indicate the full path to the subway
-        // data on your computer.
+        // data on your computer. Run your program. If it does not throw an
+        // error, you are referencing the file correctly.
         File f = new File(".../subway-data.txt");
 
         // Step 2.
@@ -41,8 +39,8 @@ public class Subway {
         // Implement countEntrances().
 
         // Step 3b.
-        // Ensure countEntrances is correct! Print out the counts for a few
-        // subway lines and ensure they are correct.
+        // Ensure countEntrances is correct by printing out the counts for a
+        // few subway lines!
 
         // Step 4.
         // Implement drawBar().
