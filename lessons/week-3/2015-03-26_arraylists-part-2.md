@@ -38,6 +38,7 @@ for (Integer num :  numbers) {
 ```
 
 > *Exercise:* Using a for each loop, calculate the sum of numbers that the user input.
+> ```
 > Give me some numbers to add:
 > 1
 > 1
