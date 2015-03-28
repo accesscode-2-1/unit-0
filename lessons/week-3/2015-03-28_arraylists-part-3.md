@@ -56,7 +56,7 @@ what to hide but things that do not need to be modified by the user of the class
     - void add(int index, Element e)
       Adds the specified element at the specified position in the list.
 
-Your the manager of an up and coming dog kennel called "Happy Doggies"  and currently you've got six dogs that you look after:
+You're the manager of an up and coming dog kennel called "Happy Doggies"  and currently you've got six dogs that you look after:
 * fido
 * sport
 * missy
@@ -98,9 +98,6 @@ Your the manager of an up and coming dog kennel called "Happy Doggies"  and curr
 
 7. Hopefully, kind human beings will come by and adopt your Dogs. 
    Create a removeDog() method that removes the Dog from the kennel and returns the instance of Dog. 
-
-8. There may come a time when you may need to put dogs to sleep. Create a putDogstoSleep() method that takes a starting index and ending index and then use the removeRange()
-   to remove them from the ArrayList or essentially put them to sleep.
 
 ###5. Getting elements from the list
      - E get(int index)
