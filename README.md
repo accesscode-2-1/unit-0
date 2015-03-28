@@ -32,3 +32,4 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
 | Mar 13 | [HW due Friday 3/13 at 8pm](https://github.com/accesscode-2-1/unit-0/issues/3) |
 | Mar 20 | [HW due Friday 3/20 at 8pm](https://github.com/accesscode-2-1/unit-0/issues/4) |
 | Mar 27 | [HW due Friday 3/27 at 8pm](https://github.com/accesscode-2-1/unit-0/issues/5) |
+| Apr 3 | [HW due Friday 4/3 at 8pm](https://github.com/accesscode-2-1/unit-0/issues/6) |
