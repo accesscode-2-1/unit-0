@@ -10,8 +10,7 @@
 <br />
 ## Do you understand the following? Otherwise...
 <br />
-![do not pass go](http://blogs.orlandosentinel.com/.a/6a00d83451c3cb69e20115700b5aaf970c-320wi)
-
+![do not pass go](https://github.com/accesscode-2-1/unit-0/blob/master/images/donotpassgo.jpg)
 
 #### Object Oriented Programming (OOP)?
 
