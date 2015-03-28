@@ -35,6 +35,14 @@
 1. [ArrayList](http://www.lynda.com/Java-tutorials/Using-ArrayLists/184457/374321-4.html)
 
 
+## A word about encapsulation
+It stands to reason that if I want to know your blood pressure, I would need to either ask or measure it ( via the public interface ).
+It makes no sense to even think that I could look into you somehow as these internal values are hidden from plain view.
+We want to take this idea and apply it when we create our classes. Attributes that are internal to objects should remain private and only
+accessible via their corresponding setter and getter methods. This also applies to methods as well. Public methods may rely on private internal methods
+to get their work done. It may be the case that you also don't want to expose those internals method. It is up to you to decide what to expose and 
+what to hide but things that do not need to be modified by the user of the class should, in general, be hidden from plain view.
+
 
 <br />
 ##ArrayList common methods
@@ -48,7 +56,7 @@
     - void add(int index, Element e)
       Adds the specified element at the specified position in the list.
 
-Your the manager of a dog kennel and currently you've got six dogs that you look after:
+Your the manager of an up and coming dog kennel called "Happy Doggies"  and currently you've got six dogs that you look after:
 * fido
 * sport
 * missy
@@ -57,10 +65,9 @@ Your the manager of a dog kennel and currently you've got six dogs that you look
 * sport
 
 ##### Your task:
-1. Create a simple Dog class that at a minimum is able to store and retrieve its name. 
+1. Create a Dog class that stores a name, type of dog , and age.  
 2. Create a Kennel class that is able to keep track of Dog objects in the Kennel via an ArrayList. 
 3. Create a method call AddDog() that takes a dog object and adds it to the kennel
-  
 
 ###2. Getting the size of the list
      - int size()
