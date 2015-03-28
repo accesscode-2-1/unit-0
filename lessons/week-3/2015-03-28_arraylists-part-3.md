@@ -125,7 +125,7 @@ You're the manager of an up and coming dog kennel called "Happy Doggies"  and cu
 10. Every now and then you may need to check if a particular instance of Dog is in your kennel. Implement a isDogInKennel() method that takes an instance of a Dog as a parameter
 and returns true if Dog is in the Kennel otherwise returns false.
 
-11. In addition to step #10, you will also need another method returnDogIndex() that takes an instance of a Dog as a parameter and returns the index of the Dog object if 
+11. In addition to step #1, you will also need another method returnDogIndex() that takes an instance of a Dog as a parameter and returns the index of the Dog object if 
     found otherwise -1 is returned
 
 
