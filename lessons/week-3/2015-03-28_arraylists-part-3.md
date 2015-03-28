@@ -89,8 +89,6 @@ You're the manager of an up and coming dog kennel called "Happy Doggies"  and cu
       Removes all the elements from the list.
     - E remove(int index)
       Removes the element at the specified position in the list.
-    - protected void removeRange(int start, int end)
-      Removes from the list all the elements starting from index start (included) until index end (not included).
 
 ##### Your task:
 6. If you're cruel to your Dogs, the goverment may come by and shut you down.
