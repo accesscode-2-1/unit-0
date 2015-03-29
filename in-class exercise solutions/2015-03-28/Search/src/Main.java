@@ -1,21 +1,28 @@
 import java.io.FileNotFoundException;
 import java.net.MalformedURLException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws FileNotFoundException, MalformedURLException {
         Dictionary dictionary = new Dictionary("words");
 
-        ArrayList<String> results = dictionary.fullSearch("ylopho");
-        System.out.println(results);
-        System.out.println(results.size());
+        Scanner inputScanner = new Scanner(System.in);
 
-        ArrayList<String> prefixResults = dictionary.prefixSearch("hone");
-        System.out.println(prefixResults);
-        System.out.println(prefixResults.size());
+        while(true) {
+            System.out.print("Enter term: ");
+            String searchTerm = inputScanner.nextLine();
 
-        ArrayList<String> suffixResults = dictionary.suffixSearch("pple");
-        System.out.println(suffixResults);
-        System.out.println(suffixResults.size());
+            ArrayList<String> results = dictionary.fullSearch(searchTerm);
+            System.out.println("Full results (" + results.size() + "): " + results);
+
+            ArrayList<String> prefixResults = dictionary.prefixSearch(searchTerm);
+            System.out.println("Prefix results (" + prefixResults.size() + "): " + prefixResults);
+
+            ArrayList<String> suffixResults = dictionary.suffixSearch(searchTerm);
+            System.out.println("Suffix results (" + suffixResults.size() + "): " + suffixResults);
+
+            System.out.println();
+        }
     }
 }
