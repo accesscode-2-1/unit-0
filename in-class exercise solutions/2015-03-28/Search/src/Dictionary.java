@@ -15,4 +15,8 @@ public class Dictionary {
             words.add(word);
         }
     }
+
+    public ArrayList<String> getWords() {
+        return words;
+    }
 }
