@@ -16,7 +16,13 @@ public class Dictionary {
         }
     }
 
-    public ArrayList<String> getWords() {
-        return words;
+    public ArrayList<String> fullSearch(String term) {
+        ArrayList<String> results = new ArrayList<String>();
+        for(String word: words) {
+            if(word.contains(term)) {
+                results.add(word);
+            }
+        }
+        return results;
     }
 }
