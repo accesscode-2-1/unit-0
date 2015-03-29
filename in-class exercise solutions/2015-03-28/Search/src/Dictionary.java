@@ -25,4 +25,24 @@ public class Dictionary {
         }
         return results;
     }
+
+    public ArrayList<String> prefixSearch(String term) {
+        ArrayList<String> results = new ArrayList<String>();
+        for(String word: words) {
+            if(word.startsWith(term)) {
+                results.add(word);
+            }
+        }
+        return results;
+    }
+
+    public ArrayList<String> suffixSearch(String term) {
+        ArrayList<String> results = new ArrayList<String>();
+        for(String word: words) {
+            if(word.endsWith(term)) {
+                results.add(word);
+            }
+        }
+        return results;
+    }
 }
