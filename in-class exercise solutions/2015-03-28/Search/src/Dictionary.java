@@ -1,5 +1,6 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -10,6 +11,18 @@ public class Dictionary {
         words = new ArrayList<String>();
 
         Scanner scanner = new Scanner(new File(filename));
+        while(scanner.hasNext()) {
+            String word = scanner.nextLine();
+            words.add(word);
+        }
+    }
+
+    public Dictionary(URL url) {
+        words = new ArrayList<String>();
+
+        String contents = HTTP.get(url);
+
+        Scanner scanner = new Scanner(contents);
         while(scanner.hasNext()) {
             String word = scanner.nextLine();
             words.add(word);

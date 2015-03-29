@@ -1,11 +1,14 @@
 import java.io.FileNotFoundException;
 import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws FileNotFoundException, MalformedURLException {
-        Dictionary dictionary = new Dictionary("words");
+        //Dictionary dictionary = new Dictionary("words");
+        URL dictionaryURL = new URL("http://www.math.sjsu.edu/~foster/dictionary.txt");
+        Dictionary dictionary = new Dictionary(dictionaryURL);
 
         Scanner inputScanner = new Scanner(System.in);
 
