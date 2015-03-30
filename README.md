@@ -19,10 +19,11 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
  10 | Mar 19 | | [Classes](lessons/week-2/2015-03-19_classes-part-2.md)
  11 | Mar 21 | | [Classes/Review](lessons/week-2/2015-03-21_classes-part-3.md)
  12 | Mar 22 | 3 | [encoding, URLs, HTTP](https://github.com/accesscode-2-1/ac20150322)
- 13 | Mar 24 |   | [ArrayList](https://github.com/accesscode-2-1/unit-0/blob/master/lessons/week-3/2015-03-24_arraylists.md)
- 14 | Mar 26 |   | [ArrayList](https://github.com/accesscode-2-1/unit-0/blob/master/lessons/week-3/2015-03-26_arraylists-part-2.md)
- 15 | Mar 28 |   | [ArrayList](https://github.com/accesscode-2-1/unit-0/blob/master/lessons/week-3/2015-03-28_arraylists-part-3.md)
+ 13 | Mar 24 |   | [ArrayList](lessons/week-3/2015-03-24_arraylists.md)
+ 14 | Mar 26 |   | [ArrayList](lessons/week-3/2015-03-26_arraylists-part-2.md)
+ 15 | Mar 28 |   | [ArrayList](lessons/week-3/2015-03-28_arraylists-part-3.md)
  16 | Mar 29 | 4 | [HashMap](lessons/week-4/2015-03-29.md)
+ 17 | Mar 31 |   | [HashMap](lessons/week-4/2015-03-31_hashmap.md)
 
 
 ### Homework
