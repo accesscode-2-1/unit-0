@@ -11,6 +11,10 @@ public class SocialNetwork {
         mine.add("Sebastian");
         mine.add("Mala");
         mine.add("Eve");
+        
+        // No method should mutate the input sets. This means you need to create and return a *new* set!
+        // This will let you combine methods. For example:
+        // yourFriendsAreMine( allFriends(yours, mine), mine); // true
     }
 
     /*public static HashSet<String> allFriends(HashSet<String> yours, HashSet<String> mine) {
