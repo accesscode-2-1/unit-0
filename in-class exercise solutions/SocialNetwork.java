@@ -5,32 +5,32 @@ public class SocialNetwork {
     public static void main(String[] args) {
         HashSet<String> yours = new HashSet();
         yours.add("Yelena");
-        yours.add("Yasiko");
+        yours.add("Jamal");
         yours.add("Eve");
         HashSet<String> mine = new HashSet();
-        mine.add("Maddie");
+        mine.add("Sebastian");
         mine.add("Mala");
         mine.add("Eve");
     }
 
     /*public static HashSet<String> allFriends(HashSet<String> yours, HashSet<String> mine) {
-        // Yelena, Yasiko, Eve, Maddie, Mala
+        // Yelena, Jamal, Eve, Sebastian, Mala
     }*/
 
     /*public static HashSet<String> mutualFriends(HashSet<String> yours, HashSet<String> mine) {
         // Eve
     }*/
 
-    /*public static HashSet<String> yourFriends(HashSet<String> yours, HashSet<String> mine) {
-        // Yelena, Yasiko
+    /*public static HashSet<String> justYourFriends(HashSet<String> yours, HashSet<String> mine) {
+        // Yelena, Jamal
     }*/
 
-    /*public static HashSet<String> myFriends(HashSet<String> yours, HashSet<String> mine) {
-        // Maddie, Mala
+    /*public static HashSet<String> justMyFriends(HashSet<String> yours, HashSet<String> mine) {
+        // Sebastian, Mala
     }*/
 
     /*public static HashSet<String> exclusiveFriends(HashSet<String> yours, HashSet<String> mine) {
-        // Yelena, Yasiko, Maddie, Mala
+        // Yelena, Jamal, Sebastian, Mala
     }*/
 
     /*public static boolean yourFriendsAreMine(HashSet<String> yours, HashSet<String> mine) {
@@ -44,15 +44,15 @@ public class SocialNetwork {
     /*public static HashSet<HashSet<String>> matchmaker(HashSet<String> yours, HashSet<String> mine) {
         // should return these sets:
 
-        // [Maddie, Yasiko]
-        // [Yasiko, Mala]
-        // [Yasiko, Eve]
+        // [Sebastian, Jamal]
+        // [Jamal, Mala]
+        // [Jamal, Eve]
 
-        // [Maddie, Yelena]
+        // [Sebastian, Yelena]
         // [Yelena, Mala]
         // [Yelena, Eve]
 
-        // [Maddie, Eve]
+        // [Sebastian, Eve]
         // [Mala, Eve]
     }*/
 }
