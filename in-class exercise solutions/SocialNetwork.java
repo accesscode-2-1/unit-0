@@ -15,8 +15,8 @@ public class SocialNetwork {
         // You should be able to run all of these in a row:
         //System.out.println( allFriends(yours, mine) );
         //System.out.println( mutualFriends(yours, mine) );
-        //System.out.println( yourFriends(yours, mine) );
-        //System.out.println( myFriends(yours, mine) );
+        //System.out.println( justYourFriends(yours, mine) );
+        //System.out.println( justMyFriends(yours, mine) );
         //System.out.println( exclusiveFriends(yours, mine) );
         //System.out.println( yourFriendsAreMine(yours, mine) );
         //System.out.println( youHaveFriends(yours, mine) );
