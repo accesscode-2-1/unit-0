@@ -19,7 +19,7 @@ public class SocialNetwork {
         //System.out.println( justMyFriends(yours, mine) );
         //System.out.println( exclusiveFriends(yours, mine) );
         //System.out.println( yourFriendsAreMine(yours, mine) );
-        //System.out.println( youHaveFriends(yours, mine) );
+        //System.out.println( youHaveFriends(yours) );
         //System.out.println( matchmaker(yours, mine) );
     }
 
