@@ -19,5 +19,9 @@ public class Main {
         System.out.println();
 
         System.out.println("common lines for 'little' and 'part': " + concordance.getCommonLines("little", "part"));
+        System.out.println();
+
+        System.out.println("Printing JSON:");
+        concordance.printJson();
     }
 }

@@ -77,4 +77,25 @@ public class Concordance {
             System.out.println(word + ": " + listing.get(word));
         }
     }
+
+    public void printJson() {
+        System.out.println("{");
+        System.out.println("   \"concordance\": [");
+
+        int i = 0;
+        int numKeys = listing.keySet().size();
+        for(String word: listing.keySet()) {
+            System.out.println("      {");
+            System.out.println("        \"word\": \"" + word + "\",");
+            System.out.println("        \"lines\": " + listing.get(word));
+            System.out.print("      }");
+            i++;
+            if(i != numKeys)
+                System.out.println(",");
+            else
+                System.out.println("");
+        }
+        System.out.println("   ]");
+        System.out.println("}");
+    }
 }
