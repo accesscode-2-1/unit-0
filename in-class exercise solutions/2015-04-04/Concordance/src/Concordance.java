@@ -48,6 +48,22 @@ public class Concordance {
         return new HashSet<Integer>(); // empty
     }
 
+    public HashSet<Integer> getCommonLines(String word1, String word2) {
+        Set<Integer> lines1 = findLineNumbers(word1);
+        Set<Integer> lines2 = findLineNumbers(word2);
+
+        if(lines1.isEmpty() || lines2.isEmpty()) {
+            return new HashSet<Integer>(); // empty
+        }
+
+        HashSet<Integer> copy = new HashSet<Integer>(lines1);
+
+        //set intersection
+        copy.retainAll(lines2);
+
+        return copy;
+    }
+
     public void print() {
         for(String word: listing.keySet()) {
             System.out.println(word + ": " + listing.get(word));
