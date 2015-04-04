@@ -25,7 +25,7 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
  16 | Mar 29 | 4 | [HashMap](lessons/week-4/2015-03-29.md)
  17 | Mar 31 |   | [HashMap](lessons/week-4/2015-03-31_hashmap.md)
  18 | Apr 2 |   | [Sets](lessons/week-4/2015-04-02_sets.md)
-
+ 19 | Apr 4 |   | [JSON](lessons/week-4/2015-04-04_json.md)
 
 ### Homework
 
