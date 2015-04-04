@@ -47,4 +47,10 @@ public class Concordance {
 
         return new HashSet<Integer>(); // empty
     }
+
+    public void print() {
+        for(String word: listing.keySet()) {
+            System.out.println(word + ": " + listing.get(word));
+        }
+    }
 }
