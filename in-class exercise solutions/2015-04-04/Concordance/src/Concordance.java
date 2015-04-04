@@ -40,4 +40,11 @@ public class Concordance {
             }
         }
     }
+
+    public Set<Integer> findLineNumbers(String word) {
+        if(listing.containsKey(word))
+            return listing.get(word);
+
+        return new HashSet<Integer>(); // empty
+    }
 }
