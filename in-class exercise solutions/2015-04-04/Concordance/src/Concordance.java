@@ -6,9 +6,17 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class Concordance {
+    private HashSet<String> excludedWords;
     private HashMap<String, Set<Integer>> listing;
 
-    public Concordance(String filename) throws FileNotFoundException {
+    public Concordance(String filename, Set<String> bannedWords) throws FileNotFoundException {
+        // add banned words to internal set of excluded words
+        excludedWords = new HashSet<String>(bannedWords);
+        // why not add "the" in Main?  that depends on whether excluding "the" is
+        // a general policy or one that should be set by the user.
+        // as defined in the assignment, it's a general policy...
+        excludedWords.add("the");
+
         listing = new HashMap<String, Set<Integer>>();
 
         // for each line in file
@@ -21,8 +29,8 @@ public class Concordance {
             while(lineScanner.hasNext()) {
                 String word = lineScanner.next().toLowerCase();
 
-                // do not include words that have length less than 3
-                if(word.length() < 3) {
+                // do not include excluded words or words that have length less than 3
+                if(excludedWords.contains(word) || word.length() < 3) {
                     continue;
                 }
 
