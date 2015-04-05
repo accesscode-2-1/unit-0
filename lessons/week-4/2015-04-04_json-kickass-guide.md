@@ -75,6 +75,14 @@ Yuck, so much for human readable right? Let's throw it into our `JSON viewer` ov
 ![collapsed.png](https://github.com/accesscode-2-1/unit-0/blob/master/images/collapsed.png)
 
 
-As we can see, there's an open curl, followed by a bunch of key value pairs with a closing curly at the end. This is referred to as a `JSONObject`. It's essentially a hasmap. You'll see the `JSONObject` datatype once we talk about the `json-simple` library. This library will us help parse this data.
+As we can see, there's an open curly brace, followed by a bunch of key value pairs with a closing curly brace at the end. This is referred to as a `JSONObject`. 
+
+![collapsed.png2](https://github.com/accesscode-2-1/unit-0/blob/master/images/collapsed2.png)
+
+It's essentially a hashmap. You remember hashmaps right?
+
+![hashmaps] (https://github.com/accesscode-2-1/unit-0/blob/master/images/hashmap-picture.png)
+
+You'll see the `JSONObject` datatype once we talk about the `json-simple` library. This library will us help parse this data.
 
 
