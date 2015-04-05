@@ -109,6 +109,11 @@ http://api.openweathermap.org/data/2.5/weather?q=London,uk
 
 ![safari_json_properly_formmated](https://github.com/accesscode-2-1/unit-0/blob/master/images/safari_json_properly_formatted.png)
 
+## Chrome
+
+- There is comparable plugin available for chrome as well - JSONView available at the Chrome Web Store.
+- It's a little easier to installer
+
 #So let's do some parsing shall we?
 
 - We'll need to start with downloading the simple-json library: [simple-json library ](https://json-simple.googlecode.com/files/json-simple-1.1.1.jar)
