@@ -98,7 +98,7 @@ You'll see the `JSONObject` datatype once we talk about the `json-simple` librar
 ![hashmaps] (https://github.com/accesscode-2-1/unit-0/blob/master/images/makenewjarsdirectory.png)
 
 <br />
-#### Once you've got your folder in place, copy the simple-json jar file into the folder. 
+#### Once you've got your folder in place, save the simple-json jar file into the folder. 
 <br />
 ![ select java-simple2 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple2.png)
 
@@ -106,7 +106,9 @@ You should end up with something like this:
 
 ![jar directory] (https://github.com/accesscode-2-1/unit-0/blob/master/images/jarsdirectory.png)
 
-Cool so it's now added but we're not out the water just yet. We still need to make sure that our project is aware of this new library. 
+Cool so it's now added to our intellij project file structure but we're not out the water just yet. 
+
+We still need to make sure that our project is aware of this new library. 
 
 Let's import it!
 
