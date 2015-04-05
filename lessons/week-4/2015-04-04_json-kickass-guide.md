@@ -1,6 +1,4 @@
-# DAVIS' KICKASS JSON  GUIDE
-
-### We'll do this tutorial in the context of your current project but just to help you guys with the current project, we'll make this guide in the context of your unit-0 final project ( Don't tell AQ as she might might me take this down...sshhh) Ok So here we.
+# The KICKASS JSON Guide
 
 
 ### JSON -> javascript object notation
@@ -70,10 +68,9 @@ Yuck, so much for human readable right? Let's throw it into our `JSON viewer` ov
 }
 ```
 
-
-So the JSON object is not properly formmated or "beautified" if you will.
-
-But for learning purposes, let's collapse the fields by clicking on the arrays that are to the left of the json data.
+## Ah much better. Or is it? 
+- Let's collapse the JSON fields in order to get a bird's eye view. 
+- We can do this by clicking on the arrays that are located to the left of the JSON data.
 
 ![collapsed.png](https://github.com/accesscode-2-1/unit-0/blob/master/images/collapsed.png)
 
