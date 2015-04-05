@@ -101,7 +101,7 @@ You'll see the `JSONObject` datatype once we talk about the `json-simple` librar
 - Scroll down until you get to the `Download` section
 - Click on `JSON_Formatter-1.1.safariextz`
 - Once the download is finished, just run the file and it should install itself.
-- Now when you checkout a URL that produces JSON, it will be nicely displayed
+- Now you can visit a URL that produces JSON and it will be nicely displayed
 
 ```json
 http://api.openweathermap.org/data/2.5/weather?q=London,uk
