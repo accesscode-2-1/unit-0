@@ -134,9 +134,9 @@ Let's import it!
 
 ![ select java-simple3 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple3.png)
 
-##### As a side note, just to be organized I also created a folder called json-files and placed my JSON blob file into it. 
-##### I called it "weather.json"
-##### Make sure to use a .json file extension in order to get the color coding.
+- As a side note, just to be organized I also created a folder called json-files and placed my JSON blob file into it. 
+- I called it "weather.json"
+- Make sure to use a .json file extension in order to get the color coding.
 
 
 #### Safari and Chrome are not able to properly display JSON data out of the box. I `highly` recommend that you install a JSON extension into your browser in order to easily visualize the data.
