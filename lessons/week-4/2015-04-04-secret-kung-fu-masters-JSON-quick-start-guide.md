@@ -138,7 +138,17 @@ Let's import it!
 ##### I called it "weather.json"
 ##### Make sure to use a .json file extension in order to get the color coding.
 
-![json folder](https://github.com/accesscode-2-1/unit-0/blob/master/images/json-folder.png)
+
+## Safari and Chrome are not able to properly display JSON data out of the box. I `highly` recommend that you install a JSON extension into your browser in order to easily visualize the data.
+
+### Safari 
+
+- Check out this site: [ safari-json-formatter ] ( https://github.com/rfletcher/safari-json-formatter)
+![ safari_json_formatter_page ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/safari_json_formatter_page.png)
+- Scroll down until you get to the `Download` section
+- Click on `JSON_Formatter-1.1.safariextz`
+- Once the download is finished, just run the file and it should install itself.
+![safari_json_properly_formmated](https://github.com/accesscode-2-1/unit-0/blob/master/images/safari_json_properly_formatted.png.png)
 # Hurray! If you got this far, good job.
 
 ## Now that you've got the simple-json library imported, let's do some parsing!
