@@ -90,7 +90,7 @@ You remember hashmaps right?
 
 You'll see the `JSONObject` datatype once we talk about the `json-simple` library. This library will us help parse this data.
 
-#### Safari and Chrome are not able to properly display JSON data out of the box. I `highly` recommend that you install a JSON extension into your browser in order to easily visual$
+#### Safari and Chrome are not able to properly display JSON out of the box. I `highly` recommend that you install a JSON extension into your browser in order to easily visualize the data.
 
 ## Safari
 
@@ -101,6 +101,12 @@ You'll see the `JSONObject` datatype once we talk about the `json-simple` librar
 - Scroll down until you get to the `Download` section
 - Click on `JSON_Formatter-1.1.safariextz`
 - Once the download is finished, just run the file and it should install itself.
+- Now when you checkout a URL that produces JSON, it will be nicely displayed
+
+```json
+http://api.openweathermap.org/data/2.5/weather?q=London,uk
+```
+
 ![safari_json_properly_formmated](https://github.com/accesscode-2-1/unit-0/blob/master/images/safari_json_properly_formatted.png)
 
 #So let's do some parsing shall we?
