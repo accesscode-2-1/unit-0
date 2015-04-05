@@ -139,9 +139,9 @@ Let's import it!
 ##### Make sure to use a .json file extension in order to get the color coding.
 
 
-## Safari and Chrome are not able to properly display JSON data out of the box. I `highly` recommend that you install a JSON extension into your browser in order to easily visualize the data.
+#### Safari and Chrome are not able to properly display JSON data out of the box. I `highly` recommend that you install a JSON extension into your browser in order to easily visualize the data.
 
-### Safari 
+## Safari 
 
 - Check out this site: [ safari-json-formatter ] ( https://github.com/rfletcher/safari-json-formatter)
 <br />
