@@ -99,10 +99,12 @@ You'll see the `JSONObject` datatype once we talk about the `json-simple` librar
 
 Once you've got your folder in place, copy the simple-json jar file into the folder. You should end up with something like this:
 
-![jar directory] (https://github.com/accesscode-2-1/unit-0/blob/master/images/jarsdirectory.png)
 ![ select java-simple2 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple2.png)
+![jar directory] (https://github.com/accesscode-2-1/unit-0/blob/master/images/jarsdirectory.png)
 
-Hopefully, you've got it but we're not would the water yet! We still need to make sure that our project is aware of this new library. Let's go ahead and import it.
+Cool so it's now add but `wait` we're not out the water just yet! We still need to make sure that our project is aware of this new library. 
+
+Let's import it.
 
 You'll need to now go to File -> Project Structure
 
@@ -116,6 +118,16 @@ Now you'll need to select the json-simple library that hopefully should be locat
 
 ![ select java-simple ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple.png)
 
+You'll now need to click ok for it to be imported.
+
+![ select java-simple4 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple4.png)
+
+Click ok again.
+
+![ select java-simple3 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple3.png)
+
+
+#Done! *Hurray*
 
 ## Now that you've got the simple-json library imported, let's do some parsing!
 
