@@ -93,6 +93,28 @@ You'll see the `JSONObject` datatype once we talk about the `json-simple` librar
 - We'll need to start with downloading the simple-json library: [simple-json library ](https://json-simple.googlecode.com/files/json-simple-1.1.1.jar)
 - Next we'll need to import this into our intellij project.
 
+1. So I'd like to suggest that we create a folder called jars to seperate out our external jar files.
+
+![hashmaps] (https://github.com/accesscode-2-1/unit-0/blob/master/images/makenewjarsdirectory.png)
+
+Once you've got your folder in place, copy the simple-json jar file into the folder. You should end up with something like this:
+
+![jar directory] (https://github.com/accesscode-2-1/unit-0/blob/master/images/jarsdirectory.png)
+
+Hopefully, you've got it but we're not would the water yet! We still need to make sure that our project is aware of this new library. Let's go ahead and import it.
+
+You'll need to now go to File -> Project Structure
+
+![ project structure] (https://github.com/accesscode-2-1/unit-0/blob/master/images/projectstructure.png)
+
+Then you'll need to click on Libraries -> Java
+
+![ libraries java] (https://github.com/accesscode-2-1/unit-0/blob/master/images/libraries_java.png)
+
+Now you'll need to select the json-simple library that hopefully should be located in your jars directory
+
+![ select java-simple2 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple2.png)
+![ select java-simple ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple.png)
 
 
 ## Now that you've got the simple-json library imported, let's do some parsing!
