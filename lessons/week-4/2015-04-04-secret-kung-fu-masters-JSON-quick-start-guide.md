@@ -111,7 +111,7 @@ http://api.openweathermap.org/data/2.5/weather?q=London,uk
 
 ## Chrome
 
-- There is comparable plugin available at the Chrom Web Store. Checkout `JSONView`.
+- There is comparable plugin available at the Chrome Web Store. Checkout `JSONView`.
 - It's a little easier to install
 
 #So let's do some parsing shall we?
