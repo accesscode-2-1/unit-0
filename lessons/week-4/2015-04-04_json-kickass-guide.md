@@ -96,10 +96,10 @@ You'll see the `JSONObject` datatype once we talk about the `json-simple` librar
 1. So I'd like to suggest that we create a folder called jars to seperate out our external jar files.
 
 ![hashmaps] (https://github.com/accesscode-2-1/unit-0/blob/master/images/makenewjarsdirectory.png)
+![ select java-simple2 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple2.png)
 
 Once you've got your folder in place, copy the simple-json jar file into the folder. You should end up with something like this:
 
-![ select java-simple2 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple2.png)
 ![jar directory] (https://github.com/accesscode-2-1/unit-0/blob/master/images/jarsdirectory.png)
 
 Cool so it's now add but `wait` we're not out the water just yet! We still need to make sure that our project is aware of this new library. 
