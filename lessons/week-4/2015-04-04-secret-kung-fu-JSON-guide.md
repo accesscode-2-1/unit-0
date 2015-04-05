@@ -10,9 +10,9 @@ http://api.openweathermap.org/data/2.5/weather?q=New%20York,NY
 ```
 ##### So what should we do with this?
 
-Before you go off and start using the http object to go grab this data, `stop` and `think` about the fact that this is live data from some external source and as such can change and even become unavailable at any point. It's probably not likely especially if it's from a reputable source such as google or facebook but it can happen. So while we develop our code, I recommend that we take this data and copy/paste into a file. Once our code is working the way we expect then go ahead and tweak it so that it now takes the json directly from the web api using the http object.
+Before you go off and start using the http object to go grab this data, `stop` and `think` about the fact that this is live data from some external source and as such can change and even become unavailable at any point. It's probably not likely especially if it's from a reputable source such as google or facebook but it can happen. So while we develop our code, I recommend that we take this data and copy/paste into a file. Once our code is working the way we expect then go ahead and tweak it so that it now takes the json directly from the web api.
 
-Once you place the URL into your browser you should get back a json blob that you can then store in a file. We'll later import this file into an intellij project.
+Once you place the URL into your browser you should get back a JSON blob that you can then store in a file. We'll later import this file into an intellij project.
 
 Here's what I got when I tried this:
 
@@ -132,7 +132,11 @@ Let's import it!
 
 ![ select java-simple3 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple3.png)
 
+##### As a side note, just to be organized I also created a folder called json-files and placed my JSON blob file into it. 
+##### I called it "weather.json"
+##### Make sure to use a .json file extension in order to get the color coding.
 
+![json folder](https://github.com/accesscode-2-1/unit-0/blob/master/images/json-folder.png)
 # Hurray! If you got this far, good job.
 
 ## Now that you've got the simple-json library imported, let's do some parsing!
