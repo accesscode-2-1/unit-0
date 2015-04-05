@@ -144,11 +144,13 @@ Let's import it!
 ### Safari 
 
 - Check out this site: [ safari-json-formatter ] ( https://github.com/rfletcher/safari-json-formatter)
+<br />
 ![ safari_json_formatter_page ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/safari_json_formatter_page.png)
+<br />
 - Scroll down until you get to the `Download` section
 - Click on `JSON_Formatter-1.1.safariextz`
 - Once the download is finished, just run the file and it should install itself.
-![safari_json_properly_formmated](https://github.com/accesscode-2-1/unit-0/blob/master/images/safari_json_properly_formatted.png.png)
+![safari_json_properly_formmated](https://github.com/accesscode-2-1/unit-0/blob/master/images/safari_json_properly_formatted.png)
 # Hurray! If you got this far, good job.
 
 ## Now that you've got the simple-json library imported, let's do some parsing!
