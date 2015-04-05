@@ -122,7 +122,7 @@ Let's import it!
 
 ![ select java-simple ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple.png)
 
-#### click ok for it to be imported.
+#### Click ok for it to be imported.
 
 ![ select java-simple4 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple4.png)
 
