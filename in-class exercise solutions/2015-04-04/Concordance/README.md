@@ -6,18 +6,17 @@ As you read the file, you want to take each word that you encounter and add it t
 
 Because it is so common, don't include the word "the" in your concordance. Also, do not include words that have length less than 3.  Feel free to add other “banned” words for testing purposes.
 
-public class Concordance {
-   private HashSet<String> excludedWords;
-   private Map<String, Set<Integer>> listing;
+      public class Concordance {
+         private HashSet<String> excludedWords;
+         private Map<String, Set<Integer>> listing;
 
-   public Concordance(String filename, Set<String> bannedWords)
+         public Concordance(String filename, Set<String> bannedWords)
 
-   public Set<Integer> findLineNumbers(String word)
-   public Set<Integer> getCommonLines(String word1, String word2)
-   public void print()
-}
-
+         public Set<Integer> findLineNumbers(String word)
+         public Set<Integer> getCommonLines(String word1, String word2)
+         public void print()
+      }
 
 Bonus: output as a json file
 
-   public void printJson()
+         public void printJson()
