@@ -315,6 +315,6 @@ public class Main {
 <br />
 <br />
 
-##Congratulations, you're now a JSON Kung fu master
+##Congratulations, you're now a JSON Kung Fu master
 
 ![JSON kung fu master] (https://github.com/accesscode-2-1/unit-0/blob/master/images/master.jpg?raw=true)
