@@ -93,12 +93,12 @@ You'll see the `JSONObject` datatype once we talk about the `json-simple` librar
 - We'll need to start with downloading the simple-json library: [simple-json library ](https://json-simple.googlecode.com/files/json-simple-1.1.1.jar)
 - Next we'll need to import this into our intellij project.
 
-1. So I'd like to suggest that we create a folder called jars to seperate out our external jar files.
+#### So I'd like to suggest that we create a folder called jars to seperate out our external jar files.
 
 ![hashmaps] (https://github.com/accesscode-2-1/unit-0/blob/master/images/makenewjarsdirectory.png)
 
 <br />
-2. Once you've got your folder in place, copy the simple-json jar file into the folder. 
+#### Once you've got your folder in place, copy the simple-json jar file into the folder. 
 <br />
 ![ select java-simple2 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple2.png)
 
@@ -110,23 +110,23 @@ Cool so it's now added but we're not out the water just yet. We still need to ma
 
 Let's import it!
 
-3. You'll need to now go to File -> Project Structure
+### You'll need to now go to File -> Project Structure
 
 ![ project structure] (https://github.com/accesscode-2-1/unit-0/blob/master/images/projectstructure.png)
 
-4. Then you'll need to click on Libraries -> Java
+#### Then you'll need to click on Libraries -> Java
 
 ![ libraries java] (https://github.com/accesscode-2-1/unit-0/blob/master/images/libraries_java.png)
 
-5. Select the json-simple library that hopefully should be located in your jars directory
+#### Select the json-simple library that hopefully should be located in your jars directory
 
 ![ select java-simple ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple.png)
 
-6. click ok for it to be imported.
+#### click ok for it to be imported.
 
 ![ select java-simple4 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple4.png)
 
-7. If you now see the following then you're golden.
+#### If you now see the following then you're golden.
 
 ![ select java-simple3 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple3.png)
 
