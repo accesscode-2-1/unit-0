@@ -97,7 +97,9 @@ You'll see the `JSONObject` datatype once we talk about the `json-simple` librar
 
 ![hashmaps] (https://github.com/accesscode-2-1/unit-0/blob/master/images/makenewjarsdirectory.png)
 
-Once you've got your folder in place, copy the simple-json jar file into the folder. 
+<br />
+2. Once you've got your folder in place, copy the simple-json jar file into the folder. 
+<br />
 ![ select java-simple2 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple2.png)
 
 You should end up with something like this:
@@ -108,31 +110,31 @@ Cool so it's now added but we're not out the water just yet. We still need to ma
 
 Let's import it!
 
-You'll need to now go to File -> Project Structure
+3. You'll need to now go to File -> Project Structure
 
 ![ project structure] (https://github.com/accesscode-2-1/unit-0/blob/master/images/projectstructure.png)
 
-Then you'll need to click on Libraries -> Java
+4. Then you'll need to click on Libraries -> Java
 
 ![ libraries java] (https://github.com/accesscode-2-1/unit-0/blob/master/images/libraries_java.png)
 
-Now you'll need to select the json-simple library that hopefully should be located in your jars directory
+5. Select the json-simple library that hopefully should be located in your jars directory
 
 ![ select java-simple ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple.png)
 
-You'll now need to click ok for it to be imported.
+6. click ok for it to be imported.
 
 ![ select java-simple4 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple4.png)
 
-If you now see the following then you're golden.
+7. If you now see the following then you're golden.
 
 ![ select java-simple3 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple3.png)
 
 
-#Done!
+# Hurray! If you got this far, good job.
 
 ## Now that you've got the simple-json library imported, let's do some parsing!
-
+#### You'll find all the details in the comments.
 ```java
 package com.c4q.davisroman;
 
