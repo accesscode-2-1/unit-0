@@ -1,4 +1,6 @@
-# The Secret Kung Fu JSON Guide
+# The Secret Kung Fu Master's JSON Quick Start Guide
+
+( try saying that 10 times fast )
 
 ### JSON -> javascript object notation
 - Don't be fooled by the javascript part. This is just a technique for presenting data in a language agnostic way.
