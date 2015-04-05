@@ -71,7 +71,7 @@ Yuck, so much for human readable right? Let's throw it into our `JSON viewer` ov
 
 ## Ah much better. Or is it? 
 - Let's collapse the JSON fields in order to get a bird's eye view. 
-- We can do this by clicking on the arrays that are located to the left of the JSON data.
+- We can do this by clicking on the arrows that are located to the left of the JSON data.
 
 ![collapsed.png](https://github.com/accesscode-2-1/unit-0/blob/master/images/collapsed.png)
 
