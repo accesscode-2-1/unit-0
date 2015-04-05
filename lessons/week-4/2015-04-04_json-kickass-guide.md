@@ -11,9 +11,11 @@ http://api.openweathermap.org/data/2.5/weather?q=New%20York,NY
 ```
 ##### So what should we do with this?
 
-Before you go off and start using the http object to go grab this data, `stop` and `think` about the fact that this is live data from some external source and as such can change and even become unavailable at any point. It's probably not likely, especially if it's from a reputable source such as google or facebook but it can happen. So while we develop our code, I recommend that we take this data and copy and paste into a file. Once our code is working the way we expect then go ahead and tweak it so that it now takes the json directly from the web api using the http object. So long as the json format wasn't changed while you were working on your own, then your code should continue to work properly. This is an unlikely scenario so I wouldn't worry too much.
+Before you go off and start using the http object to go grab this data, `stop` and `think` about the fact that this is live data from some external source and as such can change and even become unavailable at any point. It's probably not likely especially if it's from a reputable source such as google or facebook but it can happen. So while we develop our code, I recommend that we take this data and copy/paste into a file. Once our code is working the way we expect then go ahead and tweak it so that it now takes the json directly from the web api using the http object. So long as the json format wasn't
 
-So go into your browser and copy paste the blob into a file and import into your intellij project. Here is what I go when I did this:
+So place the URL in your browser and copy/past the blob that you'll get into a file. We'll later import this file into an intellij project.
+
+Heres what I got when I tried this:
 
 ```json
 {"coord":{"lon":-74.01,"lat":40.71},"sys":{"message":0.011,"country":"United States of America","sunrise":1428229930,"sunset":1428276303},"weather":[{"id":800,"main":"Clear","description":"Sky is Clear","icon":"01d"}],"base":"stations","main":{"temp":282.417,"temp_min":282.417,"temp_max":282.417,"pressure":1033.26,"sea_level":1037.02,"grnd_level":1033.26,"humidity":68},"wind":{"speed":3.21,"deg":237.501},"clouds":{"all":0},"dt":1428243309,"id":5128581,"name":"New York","cod":200}
