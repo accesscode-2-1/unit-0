@@ -1,5 +1,4 @@
-# The KICKASS JSON Guide
-
+# The Secret Kung Fu JSON Guide
 
 ### JSON -> javascript object notation
 - Don't be fooled by the javascript part. This is just a technique for presenting data in a language agnostic way.
@@ -267,4 +266,9 @@ public class Main {
     }
 }
 ```
+<br />
+<br />
 
+##Congratulations, you're not a JSON Kung fu master
+
+![JSON kung fu master] (https://github.com/accesscode-2-1/unit-0/blob/master/images/master.jpg?raw=true)
