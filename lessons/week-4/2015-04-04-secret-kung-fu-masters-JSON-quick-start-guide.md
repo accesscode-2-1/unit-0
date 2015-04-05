@@ -145,6 +145,9 @@ Let's import it!
 #### You'll find all the details in the comments.
 #### Here's the project if you'd rather do this live: [ simple-json example ] (https://github.com/davisRoman/simple-json)
 
+Note: There's many places in the code where we should be checking the return value for null values but for the sake of readability I've left them out. 
+In your projects, please ensure that you check for nulls otherwise you may end up with embarassing null pointer exceptions.
+
 ```java
 package com.c4q.davisroman;
 
