@@ -135,6 +135,8 @@ Let's import it!
 
 ## Now that you've got the simple-json library imported, let's do some parsing!
 #### You'll find all the details in the comments.
+#### Here's the project if you'd rather do this live: [ simple-json example ] (https://github.com/davisRoman/simple-json)
+
 ```java
 package com.c4q.davisroman;
 
