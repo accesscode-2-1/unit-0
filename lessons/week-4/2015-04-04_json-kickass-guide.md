@@ -104,9 +104,9 @@ You should end up with something like this:
 
 ![jar directory] (https://github.com/accesscode-2-1/unit-0/blob/master/images/jarsdirectory.png)
 
-Cool so it's now add but `wait` we're not out the water just yet! We still need to make sure that our project is aware of this new library. 
+Cool so it's now added but we're not out the water just yet. We still need to make sure that our project is aware of this new library. 
 
-Let's import it.
+Let's import it!
 
 You'll need to now go to File -> Project Structure
 
@@ -124,12 +124,12 @@ You'll now need to click ok for it to be imported.
 
 ![ select java-simple4 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple4.png)
 
-Click ok again.
+If you now see the following then you're golden.
 
 ![ select java-simple3 ] (https://github.com/accesscode-2-1/unit-0/blob/master/images/select_json_simple3.png)
 
 
-#Done! *Hurray*
+#Done!
 
 ## Now that you've got the simple-json library imported, let's do some parsing!
 
