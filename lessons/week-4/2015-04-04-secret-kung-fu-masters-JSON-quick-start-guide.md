@@ -78,7 +78,7 @@ Yuck, so much for human readable right? Let's throw it into our `JSON viewer` ov
 }
 ```
 
-## Ah much better. Or is it? 
+## Much better or is it? 
 - Let's collapse the JSON fields in order to get a bird's eye view. 
 - We can do this by clicking on the arrows that are located to the left of the JSON data.
 
