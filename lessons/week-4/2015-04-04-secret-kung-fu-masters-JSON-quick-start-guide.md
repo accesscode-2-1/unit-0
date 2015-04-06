@@ -2,7 +2,7 @@
 
 ( try saying that 10 times fast )
 
-*Update - Check out the youtube version of this tutorial! * [ JSON quick start guide ] (https://www.youtube.com/watch?v=sSNPOuJYboU&feature=youtu.be)
+###Update - Check out the youtube version of this tutorial! [ JSON quick start guide ] (https://www.youtube.com/watch?v=sSNPOuJYboU&feature=youtu.be)
 
 ### JSON -> javascript object notation
 - Don't be fooled by the javascript part. This is just a technique for presenting data in a language agnostic way.
