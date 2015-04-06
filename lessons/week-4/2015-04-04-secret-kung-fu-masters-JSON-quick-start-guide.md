@@ -97,7 +97,7 @@ You remember hashmaps right?
 
 You'll see the `JSONObject` datatype once we talk about the `json-simple` library. This library will us help parse this data.
 
-## Brower Extensions
+## Browser Extensions
 
 - Safari and Chrome are not able to properly display JSON out of the box. I `highly` recommend that you install a JSON extension into your browser in order to easily visualize the data.
 
