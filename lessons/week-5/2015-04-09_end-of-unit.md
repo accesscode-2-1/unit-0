@@ -16,8 +16,6 @@
   * Demo
   * Product polish (Design + Creativity)
 
-**Teams:**
-
 Team # | Team Members
 ---|---
 0 | Yuliya Kaleda, Janneisy Vidals, Elvis Boves, Pooja Pasawala
