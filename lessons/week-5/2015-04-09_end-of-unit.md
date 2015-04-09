@@ -16,6 +16,19 @@
   * Demo
   * Product polish (Design + Creativity)
 
+**Teams:**
+
+Team # | Team Members
+---|---
+0 | Yuliya Kaleda, Janneisy Vidals, Elvis Boves, Pooja Pasawala
+1 | Raynaldie Acevedo, Jorge Reina, Vanice Yee, Luke Lee
+2 | Hoshiko Oki, Kadeem Maragh, Marbella Vidals, Abass Bayo-Awoyemi
+3 | Joshelyn Vivas, Sufei Zhao, Charlyn Buchanan, Hanbi Choi
+4 | Rosmary Fermin, Anthony McBride, Sarah Kim, George Syrimis
+5 | Alvin Kuang, Jose Garcia, Reinard Cox, Dison Ruan
+6 | Ramona Harrison, Na Li, John Gomez, Anthony Fermin
+7 | Jaellys Bales, Madelyn Tavarez, Tasha Smith, Allison Bojarski
+
 ###End of Unit Assessment
 
 1. 1 hour long in class assessment
