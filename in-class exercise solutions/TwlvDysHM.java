@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class TwelveDaysHM {
+public class TwlvDysHM {
 
     public static void main(String[] args) {
 

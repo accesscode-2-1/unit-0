@@ -8,7 +8,7 @@
  * http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_%28song%29.
  */
 
-public class TwelveDays {
+public class TwlvDys {
 
     // Use two String arrays to map between the days and the gifts and the days
     // and the ordinals.

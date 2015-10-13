@@ -7,7 +7,7 @@
  * This class draws a parameterizable ASCII art rocket.
  */
 
-public class DrawRocket {
+public class DrwRckt {
 
     public static void drawRocket(int size) {
         drawCone(size);
